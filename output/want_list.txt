@@ -1,9 +1,13 @@
 Aluren
+Apostle's Blessing
 Arcum Dagsson
 Argothian Enchantress
 Army of the Damned
+As Foretold
+Back to Basics
 Beast Whisperer
 Beast Within
+Blast Zone
 Blightsteel Colossus
 Bountiful Promenade
 Bribery
@@ -13,8 +17,11 @@ Call to the Grave
 Carpet of Flowers
 Chance Encounter
 Clever Impersonator
+Codex Shredder
+Consecrated Sphinx
 Consuming Aberration
 Copy Enchantment
+Counterbalance
 Daretti, Scrap Savant
 Darksteel Forge
 Demonic Consultation
@@ -22,50 +29,71 @@ Diluvian Primordial
 Duskmantle, House of Shadow
 Enchanted Evening
 Endless Ranks of the Dead
-Everflowing Chalice
 Exploration
 Fiery Gambit
+Force of Negation
 Fraying Sanity
+Gilded Drake
+Grindstone
+Helm of Obedience
 Heroic Intervention
+Humility
 Idyllic Tutor
 Jace, Memory Adept
+Jace, the Mind Sculptor
+Jeweled Amulet
 Keening Stone
+Legacy's Allure
 Life's Finale
 Liliana, Death's Majesty
 Lion's Eye Diamond
+Long-Term Plans
+Mana Leak
 Mind Grind
 Mnemonic Betrayal
 Mystic Forge
+Narset, Parter of Veils
 Nature's Claim
 Nephalia Drownyard
 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+Painter's Servant
 Paradox Haze
 Phenax, God of Deception
 Planar Bridge
 Plunge into Darkness
+Power Artifact
+Prismatic Vista
 Propaganda
 Psychic Corrosion
+Recurring Insight
 Replenish
 Rise of the Dark Realms
-Sai, Master Thopterist
+Sapphire Medallion
+Saprazzan Skerry
 Savage Beating
+Scroll Rack
 Sepulchral Primordial
 Serra's Sanctum
+Spellskite
 Starfield Mystic
 Sterling Grove
 Stitch in Time
 Sulfurous Springs
 Sylvan Library
 Tarnished Citadel
+Teferi, Hero of Dominaria
 Temple Garden
 Temple of Deceit
+Terminus
+Trail of Evidence
 Training Grounds
 Ulamog, the Infinite Gyre
 Underground River
+Urza, Lord High Artificer
 Vedalken Archmage
+Verity Circle
 Vilis, Broker of Blood
 Vivien Reid
 Wargate
 Wheel of Fortune
-Whir of Invention
 Woodland Bellower
