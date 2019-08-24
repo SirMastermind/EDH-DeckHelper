@@ -1,0 +1,120 @@
+#!/bin/bash
+
+#echo "Reading the binder..."
+#python3 ./scripts/compileCollection.py
+
+# Ititialization
+
+mainmenu () {
+	clear
+	echo "Welcome to the menu."
+	echo "Press 1 to check your collection."
+	echo "Press 2 to check your binder."
+	echo "Press 3 to check cards you have in your binder."
+	echo "Press 4 to check cards you miss in your binder."
+	echo "Press 5 to check a decklist."
+	echo "Press 6 to check positions from a decklist in the binder."
+	echo "Press 7 to check single cards from a decklist."
+	echo "Press 8 to check cards missing from a decklist."
+	echo "Press 9 to produce want list from all decklists."
+	echo "Press 0 to check cards that should be added to the binder."
+	echo "Press x to exit the script."
+	read  -n 1 -p "Input Selection: " "mainmenuinput"
+	echo ""
+
+	if [ "$mainmenuinput" = "1" ]; then
+		echo "Reading the collection..."
+		python3 ./scripts/printer.py collection
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "2" ]; then
+		echo "Reading the binder..."
+		python3 ./scripts/printer.py binder
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "3" ]; then
+		echo "Reading the binder..."
+		python3 ./scripts/printer.py have
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "4" ]; then
+		echo "Reading the binder..."
+		python3 ./scripts/printer.py miss
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "5" ]; then
+		echo "Reading decks..."
+		python3 ./scripts/printer.py decks
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "6" ]; then
+		echo "Reading decks..."
+		python3 ./scripts/deckChecker.py decks
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "7" ]; then
+		echo "Reading decks..."
+		python3 ./scripts/deckChecker.py single
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "8" ]; then
+		echo "Reading decks..."
+		python3 ./scripts/deckChecker.py missing
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "9" ]; then
+		echo "Reading decks..."
+		python3 ./scripts/deckChecker.py all
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "0" ]; then
+		echo "Compiling all decks..."
+		python3 ./scripts/binderChecker.py
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "x" ]; then
+		exit
+	elif [ "$mainmenuinput" = "X" ]; then
+		exit
+	else
+		echo "You have entered an invallid selection!"
+		echo "Please try again!"
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	fi
+}
+
+mainmenu

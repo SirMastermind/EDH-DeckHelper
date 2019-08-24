@@ -1,0 +1,929 @@
+1 [ARC] A Display of My Dark Power
+1 [RTR] Abrupt Decay
+1 [DDR] Abundance
+1 [AVR] Abundant Growth
+1 [ALA] Ad Nauseam
+1 [M12] Adaptive Automaton
+1 [7ED] Adarkar Wastes
+1 [C18] Aether Gale
+1 [KLD] Aether Hub
+1 [DDF] Aether Spellbomb
+1 [KLD] Aetherflux Reservoir
+1 [ONS] Aggravated Assault
+1 [C18] Ajani's Chosen
+1 [FUT] Akroma's Memorial
+1 [CMD] Akroma's Vengeance
+1 [LGN] Akroma, Angel of Wrath
+3 [ORI] Alchemist's Vial
+1 [FRF] Alesha, Who Smiles at Death
+2 [ARC] All in Good Time
+1 [ROE] All Is Dust
+2 [ARC] All Shall Smolder in My Wake
+1 [SCG] Alpha Status
+1 [KTK] Altar of the Brood
+1 [MRD] Ancient Den
+1 [C18] Ancient Stone Idol
+1 [TMP] Ancient Tomb
+1 [CMD] Angel of Despair
+1 [RTR] Angel of Serenity
+1 [MMA] Angel's Grace
+1 [M11] Angelic Arbiter
+1 [THS] Anger of the Gods
+1 [SOI] Anguished Unmaking
+1 [PD3] Animate Dead
+1 [ARC] Approach My Molten Realm
+1 [WWK] Arbor Elf
+1 [C16] Arcane Denial
+1 [C14] Arcane Lighthouse
+1 [M13] Archaeomancer
+1 [BBD] Archfiend of Despair
+1 [USG] Argothian Elder
+1 [ZEN] Arid Mesa
+1 [C18] Arixmethes, Slumbering Isle
+1 [5ED] Armageddon
+1 [DKA] Artful Dodge
+1 [5DN] Artificer's Intuition
+1 [ARC] Artisan of Kozilek
+1 [SOM] Asceticism
+1 [WAR] Ashiok, Dream Render
+1 [M13] Augur of Bolas
+1 [C18] Aura Gnarlid
+1 [10ED] Aura of Silence
+1 [CMD] Aura Shards
+1 [M12] Auramancer
+1 [V15] Aurelia, the Warleader
+1 [5DN] Auriok Salvagers
+1 [LRW] Austere Command
+1 [KLD] Authority of the Consuls
+1 [M12] Autumn's Veil
+1 [AVR] Avacyn, Angel of Hope
+1 [AKH] Aven Mindcensor
+1 [RIX] Azor's Gateway
+1 [DIS] Azorius Signet
+1 [ISD] Balefire Dragon
+1 [AER] Baral, Chief of Compliance
+1 [CMA] Basalt Monolith
+2 [JUD] Battle Screech
+1 [APC] Battlefield Forge
+1 [C18] Bear Umbra
+1 [ZEN] Beastmaster Ascension
+1 [ONS] Birchlore Rangers
+1 [FUT] Bitter Ordeal
+4 [ONS] Blackmail
+1 [C18] Blasphemous Act
+1 [C17] Blind Obedience
+1 [DOM] Blink of an Eye
+1 [C18] Blinkmoth Urn
+1 [DIS] Blood Crypt
+1 [MM3] Blood Moon
+1 [ISD] Bloodgift Demon
+1 [ONS] Bloodstained Mire
+1 [C13] Blue Sun's Zenith
+1 [DOM] Board the Weatherlight
+1 [8ED] Boil
+1 [WAR] Bolas's Citadel
+1 [BBD] Bonus Round
+1 [CSP] Boreal Druid
+1 [GTC] Boros Charm
+1 [RAV] Boros Garrison
+1 [CMD] Boros Garrison
+1 [C16] Boros Garrison
+1 [CMD] Boros Signet
+1 [C18] Bosh, Iron Golem
+1 [MMQ] Brainstorm
+1 [C16] Breya, Etherium Shaper #!Foil
+1 [C18] Brudiclad, Telchor Engineer
+1 [C18] Bruna, Light of Alabaster
+1 [CN2] Burgeoning
+1 [CMD] Buried Alive
+1 [C18] Buried Ruin
+1 [AKH] By Force
+1 [TOR] Cabal Ritual
+3 [PD3] Cabal Therapy
+1 [EMA] Cabal Therapy
+1 [NPH] Caged Sun
+1 [LGN] Caller of the Claw
+1 [ODY] Careful Study
+1 [A25] Cascade Bluffs
+1 [EXO] Cataclysm
+1 [USG] Catastrophe
+1 [KLD] Cathartic Reunion
+1 [AVR] Cavern of Souls
+1 [10ED] Caves of Koilos
+1 [ODY] Cephalid Coliseum
+1 [ONS] Chain of Vapor
+1 [ORI] Chandra's Ignition
+1 [WAR] Chandra, Fire Artisan
+1 [C14] Chaos Warp
+1 [C18] Chief of the Foundry
+2 [8ED] Choke
+1 [ARC] Choose Your Champion
+1 [M15] Chord of Calling
+1 [RTR] Chromatic Lantern
+1 [MRD] Chromatic Sphere
+1 [TSP] Chromatic Star
+1 [MRD] Chrome Mox
+1 [5ED] City of Brass
+1 [RAV] Civic Wayfinder
+1 [DOM] Clifftop Retreat
+1 [M13] Clock of Omens
+1 [FUT] Cloud Key
+1 [AVR] Cloudshift
+1 [A25] Coalition Relic
+1 [EXO] Coat of Arms
+1 [CSP] Coldsteel Heart
+1 [WAR] Command the Dreadhorde
+1 [CMD] Command Tower
+1 [C18] Command Tower
+1 [C18] Commander's Sphere
+1 [CHR] Concordant Crossroads
+1 [C14] Containment Priest
+1 [SOM] Copperhorn Scout
+1 [CNS] Council's Judgment
+1 [RTR] Counterflux
+1 [EMA] Counterspell
+1 [DDH] Countersquall
+1 [C18] Coveted Jewel
+1 [KTK] Crackling Doom
+3 [AVR] Craterhoof Behemoth
+1 [C18] Creeping Renaissance
+1 [ISD] Creepy Doll
+2 [ULG] Crop Rotation
+1 [10ED] Crucible of Worlds
+1 [ALA] Cruel Ultimatum
+1 [MIR] Crystal Vein
+1 [M11] Cultivate
+1 [MIR] Cursed Totem
+1 [MM3] Cyclonic Rift
+1 [EMA] Dack Fayden
+3 [FUT] Dakmor Salvage
+1 [PLC] Damnation
+1 [DOM] Damping Sphere
+1 [ICE] Dance of the Dead
+1 [ARC] Dance, Pathetic Marionette
+1 [RAV] Dark Confidant
+1 [ORI] Dark Petition
+1 [DDE] Dark Ritual
+1 [5ED] Dark Ritual
+1 [4ED] Dark Ritual
+2 [TMP] Dark Ritual
+1 [SOM] Darkslick Shores
+1 [C18] Darksteel Citadel
+1 [DST] Darksteel Citadel
+1 [CMD] Darksteel Ingot
+1 [C18] Darksteel Juggernaut
+1 [ODY] Darkwater Egg
+1 [C18] Dawn's Reflection
+5 [RTR] Deathrite Shaman
+1 [SCG] Decree of Annihilation
+1 [SCG] Decree of Silence
+1 [DDH] Deep Analysis
+1 [FUT] Delay
+1 [WAR] Deliver Unto Evil
+1 [DVD] Demonic Tutor
+1 [DOM] Demonlord Belzenlok
+1 [AVR] Descendants' Path
+1 [ODY] Deserted Temple
+1 [WTH] Desperate Gambit
+1 [RTR] Detention Sphere
+1 [SHM] Devoted Druid
+1 [BBD] Diabolic Intent
+1 [KTK] Dig Through Time
+1 [EMA] Diminishing Returns
+1 [RAV] Dimir Signet
+1 [MRD] Disciple of the Vault
+1 [C18] Dismantling Blow
+1 [RTR] Dispel
+1 [ALA] Dispeller's Capsule
+1 [MOR] Diviner's Wand
+1 [WAR] Domri, Anarch of Bolas
+1 [GRN] Doom Whisperer
+1 [HOU] Doomfall
+1 [6ED] Doomsday
+1 [WAR] Dovin, Hand of Control
+1 [SCG] Dragon Mage
+1 [C17] Dragon Tempest
+1 [M12] Dragonskull Summit
+1 [KLD] Dramatic Reversal
+1 [M11] Drowned Catacomb
+3 [FUT] Dryad Arbor
+1 [CM2] Dualcaster Mage
+1 [INV] Dueling Grounds
+1 [C18] Duplicant
+3 [M11] Duress
+1 [M13] Duress
+1 [DDU] Dwynen's Elite
+1 [ODY] Earnest Fellowship
+1 [TMP] Earthcraft
+1 [C18] Echo Storm
+1 Eidolon of Blossoms
+4 [RTR] Electrickery
+1 [IMA] Elesh Norn, Grand Cenobite
+1 [RAV] Elves of Deep Shadow
+1 [SCG] Elvish Aberration
+1 [DDU] Elvish Archdruid
+1 [DPA] Elvish Champion
+1 [ONS] Elvish Guidance
+1 [LRW] Elvish Harbinger
+1 [M14] Elvish Mystic
+1 [M10] Elvish Visionary
+2 Elvish Visionary
+1 [M13] Elvish Visionary
+1 [ALA] Elvish Visionary
+1 [ARC] Embrace My Diabolical Vision
+1 [ROE] Emrakul, the Aeons Torn
+1 [C18] Enchanter's Bane
+1 [C18] Enchantress's Presence
+1 [MMQ] Energy Flux
+1 [EMA] Enlightened Tutor
+1 [EMA] Entomb
+1 [C18] Estrid's Invocation
+1 [C18] Estrid, the Masked
+1 [C18] Etherium Sculptor
+1 [ALA] Etherium Sculptor
+1 [ALA] Ethersworn Canonist
+1 [GRN] Etrata, the Silencer
+1 [C18] Ever-Watching Threshold
+2 [ARC] Every Hope Shall Vanish
+2 [ARC] Every Last Vestige Shall Rot
+1 [ARC] Evil Comes to Fruition
+1 [WAR] Evolution Sage
+1 [ALA] Executioner's Capsule
+1 [ZEN] Expedition Map
+1 [AER] Exquisite Archangel
+1 [ODY] Extract
+1 [EMA] Extract from Darkness
+1 [SOM] Ezuri, Renegade Leader #!Foil
+1 [M10] Fabricate
+1 [CNS] Fact or Fiction
+1 [USG] Faith Healer
+1 [CN2] Faith's Reward
+1 [DKA] Faithless Looting
+1 [DOM] Fall of the Thran
+1 [SHM] Farhaven Elf
+1 [PLC] Fatal Frenzy
+1 [M11] Fauna Shaman
+2 [ARC] Feed the Machine
+1 [AER] Felidar Guardian
+1 [9ED] Fellwar Stone
+1 [C18] Fertile Ground
+1 [EVE] Fetid Heath
+1 [DOM] Final Parting
+1 [ICE] Fire Covenant
+1 [EMA] Firebolt
+1 [TSP] Flagstones of Trokair
+1 [XLN] Fleet Swallower
+1 [KTK] Flooded Strand
+1 [IMA] Flusterstorm
+1 [WAR] Flux Channeler
+1 [CHK] Forbidden Orchard
+1 [ALL] Force of Will
+29 [ZEN] Forest
+1 [C18] Forge of Heroes
+1 [C15] Forgotten Cave
+1 [KLD] Foundry Inspector
+1 [C18] Foundry of the Consuls
+1 [ULG] Frantic Search
+1 [M19] Fraying Omnipotence
+1 [MIR] Frenetic Efreet
+1 [NPH] Fresh Meat
+1 [C14] Freyalise, Llanowar's Fury
+1 [SOM] Fume Spitter
+1 [VIS] Funeral Charm
+1 [EMA] Future Sight
+1 [ICE] Fyndhorn Elves
+1 [LRW] Gaddock Teeg
+1 [DOM] Gaea's Blessing
+2 [USG] Gaea's Cradle
+2 [SOM] Galvanic Blast
+1 [EMA] Gamble
+1 [5ED] Game of Chaos
+1 [LRW] Garruk Wildspeaker
+1 [M14] Garruk, Caller of Beasts
+1 [M13] Gem of Becoming
+1 [TSP] Gemstone Caverns
+1 [TSB] Gemstone Mine
+1 [C18] Genesis Storm
+1 [SOM] Genesis Wave
+1 [C18] Geode Golem
+1 [SOM] Geth, Lord of the Vault
+1 [AVR] Ghostly Flicker
+1 [CN2] Ghostly Prison
+1 [M19] Gift of Paradise
+1 [DOM] Gilded Lotus
+1 [AVR] Gisela, Blade of Goldnight
+1 [NPH] Gitaxian Probe
+1 [M13] Glacial Fortress
+1 [MRD] Glimmervoid
+5 [CHK] Glimpse of Nature
+4 [SOM] Glint Hawk
+1 [TMP] Goblin Bombardment
+1 [CM2] Goblin Welder
+1 [GPT] Godless Shrine
+1 [DKA] Grafdigger's Cage
+1 [SOM] Grafted Exoskeleton
+1 [M12] Grand Abolisher
+1 [DIS] Grand Arbiter Augustin IV
+1 [C15] Grasp of Fate
+1 [SHM] Graven Cairns
+1 [GRN] Gravitic Punch
+1 [THS] Gray Merchant of Asphodel
+1 [C18] Great Furnace
+3 [MRD] Great Furnace
+1 [SHM] Greater Auramancy
+1 [USG] Greater Good
+5 [MBS] Green Sun's Zenith
+1 [DKA] Grim Flowering
+1 [ULG] Grim Monolith
+1 [5DN] Grinding Station
+1 [DCI] Griselbrand
+1 [C18] Ground Seal
+1 [DOM] Grow from the Ashes
+1 [XLN] Growing Rites of Itlimoc
+1 [MMQ] Gush
+1 [WWK] Halimar Depths
+1 [MIR] Hall of Gemstone
+1 [CHK] Hall of the Bandit Lord
+1 [EVE] Hallowed Burial
+1 [RTR] Hallowed Fountain
+1 [EMN] Hanweir Battlements
+1 [CMD] Harmonize
+1 [CHK] Heartbeat of Spring
+1 [C18] Heavenly Blademaster
+1 [C18] Hedron Archive
+1 [EVE] Helix Pinnacle
+1 [ROE] Hellcarver Demon
+1 [GTC] Hellkite Tyrant
+1 [VIS] Helm of Awakening
+1 [DOM] Helm of the Host
+1 [C18] Herald of the Pantheon
+5 [MOR] Heritage Druid
+1 [DIS] Hide // Seek
+1 [C18] Highland Lake
+1 [CHK] Hinder
+1 [DOM] Hinterland Harbor
+1 [BOK] Hokori, Dust Drinker
+1 [AER] Hope of Ghirapur
+1 [HOU] Hour of Devastation #!Foil
+1 [C18] Hydra Omnivore
+3 [EMA] Hymn to Tourach
+1 [FEM] Hymn to Tourach
+2 [ARC] I Bask in Your Silent Awe
+1 [ARC] I Call on the Ancient Magics
+1 [ARC] I Delight in Your Convulsions
+2 [ARC] I Know All, I See All
+1 [WAR] Ignite the Beacon
+2 [ARC] Ignite the Cloneforge!
+1 [GTC] Illusionist's Bracers
+1 [LRW] Immaculate Magistrate
+1 [ULG] Impending Disaster
+1 [A25] Imperial Recruiter
+1 [EMN] Imprisoned in the Moon
+1 [VIS] Impulse
+1 [ODY] Impulsive Maneuvers
+1 [ARC] Infest
+2 [ALA] Infest
+1 [C18] Inkwell Leviathan
+1 [EMA] Innocent Blood
+1 [DDR] Innocent Blood
+2 [ODY] Innocent Blood
+1 [TOR] Insidious Dreams
+1 [MBS] Into the Core
+1 [ARC] Into the Earthen Maw
+1 [C18] Into the Roil
+4 [ARC] Introductions Are in Order
+1 [TMP] Intuition
+1 [KLD] Inventors' Fair
+1 [V15] Iona, Shield of Emeria
+1 [ZEN] Island
+1 [MRD] Isochron Scepter
+1 [DOM] Isolated Chapel
+1 [GTC] Ivy Lane Denizen
+1 [C18] Izzet Boilerworks
+1 [RTR] Izzet Charm
+1 [C18] Izzet Guildgate
+1 [C18] Izzet Signet
+1 [GPT] Izzet Signet
+1 [M12] Jace's Archivist
+1 [ORI] Jace, Vryn's Prodigy
+1 [WAR] Jace, Wielder of Mysteries
+1 [DOM] Jhoira's Familiar
+1 [DOM] Jhoira, Weatherlight Captain
+1 [DOM] Jodah, Archmage Eternal
+1 [ROE] Joraga Treespeaker
+1 [WWK] Joraga Warcaller
+1 [ZEN] Journey to Nowhere
+1 [DDF] Journey to Nowhere
+1 [CMD] Kaalia of the Vast
+1 [ULG] Karmic Guide
+1 [C15] Karmic Justice
+1 [WAR] Karn's Bastion
+1 [USG] Karn, Silver Golem
+1 [WAR] Karn, the Great Creator
+1 [CSP] Karplusan Minotaur
+1 [ALL] Kaysa
+1 [C17] Kess, Dissident Mage
+1 [C18] Kestia, the Cultivator
+1 [BBD] Khorvath's Fury
+1 [IMA] Kiki-Jiki, Mirror Breaker
+1 [ARC] Know Naught but Fire
+2 [ZEN] Kor Sanctifiers
+3 [ZEN] Kor Skyfisher
+1 [DDO] Kor Skyfisher
+1 [MRD] Krark's Thumb
+1 [5DN] Krark-Clan Ironworks
+1 [C18] Kruphix's Insight
+1 [SOM] Kuldotha Forgemaster
+1 [ISD] Laboratory Maniac
+1 [BBD] Land Tax
+1 [BBD] Last One Standing
+1 [DGM] Legion's Initiative
+1 [M20] Leyline of Anticipation
+2 [M10] Lightning Bolt
+2 [M11] Lightning Bolt
+1 [CMD] Lightning Greaves
+1 [LRW] Lignify
+1 [M11] Liliana Vess
+1 [M11] Liliana's Caress
+1 [ALL] Lim-Dûl's Vault
+1 [MM3] Linvala, Keeper of Silence
+1 [A25] Living Death
+1 [10ED] Llanowar Elves
+1 [MM3] Lone Missionary
+1 [ROE] Lone Missionary
+2 [ARC] Look Skyward and Despair
+1 [GTC] Lord of the Void
+1 [TSP] Lotus Bloom
+1 [TMP] Lotus Petal
+1 [RAV] Loxodon Gatekeeper
+1 [C18] Loyal Apprentice
+1 [C18] Loyal Drake
+1 [ZEN] Luminarch Ascension
+1 [BBD] Luxury Suite
+1 [LRW] Lys Alana Huntmaster
+1 [CON] Magister Sphinx
+1 [C18] Magmaquake
+1 [C18] Magnifying Glass
+1 [FUT] Magus of the Moat
+1 [IMA] Magus of the Moon
+1 [JOU] Mana Confluence
+1 [EMA] Mana Crypt
+1 [IMA] Mana Drain
+1 [SHM] Mana Reflection
+1 [5ED] Mana Vault
+1 [MOR] Maralen of the Mornsong
+1 [CNS] Marchesa's Smuggler
+1 [JOU] Market Festival
+1 [ZEN] Marsh Flats
+1 [C18] Martial Coup
+1 [DOM] Marwyn, the Nurturer
+1 [LRW] Masked Admirers
+1 [DGM] Master of Cruelties
+1 [ARC] Master Transmuter
+1 [ARC] May Civilization Collapse
+1 [EMA] Maze of Ith
+2 [DPA] Megrim
+1 [V16] Memnarch
+1 [SOM] Memoricide
+1 [CM2] Memory Erosion
+1 [ULG] Memory Jar
+1 [NPH] Mental Misstep
+1 [ISD] Mentor of the Meek
+1 [HML] Merchant Scroll
+1 [GTC] Merciless Eviction
+1 [PLC] Mesa Enchantress
+1 [C18] Mimic Vat
+1 [IMA] Mind Stone
+1 [C18] Mind Stone
+1 [4ED] Mind Twist
+1 [SCG] Mind's Desire
+1 [M13] Mindclaw Shaman
+1 [ODY] Mindslicer
+1 [HOU] Mirage Mirror
+1 [CNS] Mirari's Wake
+1 [C18] Mirrorworks
+1 [A25] Mishra's Factory
+1 [4ED] Mishra's Factory
+1 [ZEN] Misty Rainforest
+1 [GPT] Mizzium Transreliquat
+1 [EXO] Mogg Assassin
+1 [UMA] Molten Birth
+1 [FRF] Monastery Siege
+1 [BBD] Morphic Pool
+1 [ARC] Mortal Flesh Is Weak
+1 [EMA] Mother of Runes
+1 [STH] Mox Diamond
+1 [MM2] Mox Opal
+1 [ULG] Multani's Acolyte
+1 [CNS] Muzzio, Visionary Architect
+1 [ARC] My Crushing Masterstroke
+1 [ARC] My Genius Knows No Bounds
+1 [ARC] My Undead Horde Awakens
+2 [ARC] My Wish Is Your Command
+1 [BBD] Mycosynth Lattice
+1 [C13] Myr Battlesphere
+1 [C18] Myr Battlesphere
+1 [A25] Myriad Landscape
+1 [BBD] Mystic Confluence
+1 [SHM] Mystic Gate
+1 [ICE] Mystic Remora
+1 [EMA] Mystical Tutor
+1 [C18] Myth Unbound
+1 [DTK] Narset Transcendent
+1 [EMA] Natural Order
+4 [VIS] Natural Order
+2 [ARC] Nature Demands an Offering
+2 [ARC] Nature Shields Its Own
+1 [DOM] Nature's Spiral
+1 [VIS] Necromancy
+1 [5ED] Necropotence
+1 [SOM] Necrotic Ooze
+1 [WAR] Neheb, Dreadhorde Champion
+1 [MMQ] Nether Spirit
+5 [EVE] Nettle Sentinel
+1 [ISD] Nevermore
+1 [EMA] Nevinyrral's Disk
+1 [XLN] New Horizons
+1 [TSB] Nicol Bolas
+1 [WAR] Nicol Bolas, Dragon-God
+1 [HOU] Nicol Bolas, God-Pharaoh
+1 [DDH] Nicol Bolas, Planeswalker
+1 [EMA] Night's Whisper
+1 [PLS] Nightscape Familiar
+1 [SOM] Nihil Spellbomb
+1 [ORI] Nissa, Vastwood Seer
+1 [ARC] Nothing Can Stop Me Now
+1 [DGM] Notion Thief
+1 [THS] Nykthos, Shrine to Nyx
+1 [C18] Nylea's Colossus
+1 [DOM] Oath of Teferi
+1 [BFZ] Ob Nixilis Reignited
+1 [M15] Ob Nixilis, Unshackled
+1 [CMD] Oblivion Ring
+1 [CMD] Oblivion Stone
+1 [C18] Octopus Umbra
+1 [BBD] Okaun, Eye of Chaos
+2 [ARC] Only Blood Ends Your Nightmares
+1 [SOI] Open the Armory
+1 [M10] Open the Vaults
+1 [ZEN] Oracle of Mul Daya
+1 [CMD] Orzhov Signet
+2 [RTR] Overgrown Tomb
+1 [C18] Overgrowth
+1 [FUT] Pact of Negation
+1 [KLD] Padeem, Consul of Innovation
+1 [BFZ] Painful Truths
+4 [CN2] Palace Sentinels
+1 [AER] Paradox Engine
+1 [KLD] Paradoxical Outcome
+1 [CMD] Path to Exile
+1 [TSB] Pendelhaven
+1 [APC] Phyrexian Arena
+1 [NPH] Phyrexian Metamorph
+1 [C18] Phyrexian Rebirth
+1 [ULG] Phyrexian Reclamation
+1 [M15] Phyrexian Revoker
+1 [NPH] Phyrexian Unlife
+1 [C18] Pilgrim's Eye
+2 [RTR] Pithing Needle
+3 [ZEN] Plains
+1 [JUD] Planar Chaos
+1 [M10] Platinum Angel
+1 [BNG] Plea for Guidance
+1 [KTK] Polluted Delta
+1 [LRW] Ponder
+1 [PLC] Pongify
+3 [5ED] Pox
+1 [MBS] Praetor's Counsel
+1 [NPH] Praetor's Grasp
+1 [M11] Preordain
+1 [SHM] Presence of Gond
+1 [USG] Priest of Titania
+1 [LRW] Primal Command
+1 [RAV] Privileged Position
+1 [KLD] Prophetic Prism
+2 [ROE] Prophetic Prism
+1 [GTC] Prophetic Prism
+1 [C18] Prototype Portal
+1 [AKH] Prowling Serpopard
+1 [TSP] Pull from Eternity
+1 [AKH] Pull from Tomorrow
+2 [5ED] Pyroblast
+1 [CMD] Pyrohemia
+1 [CN2] Queen Marchesa
+1 [ULG] Quicksilver Amulet
+4 [VIS] Quirion Ranger
+1 [USG] Rain of Filth
+1 [RTR] Rakdos Charm
+1 [CMD] Rakdos Signet
+1 [DIS] Rakdos the Defiler
+1 [DGM] Ral Zarek
+1 [GRN] Ral, Izzet Viceroy
+1 [WAR] Ral, Storm Conduit
+2 [EVE] Raven's Crime
+1 [C18] Ravenous Slime
+1 [HOU] Razaketh, the Foulblooded
+1 [THS] Read the Bones
+4 [ARC] Realms Befitting My Majesty
+1 [ARC] Reanimate
+1 [DST] Reap and Sow
+1 [MH1] Rebuild
+1 [M12] Reclaim
+2 [M15] Reclamation Sage
+1 [CN2] Recruiter of the Guard
+1 [TMP] Recycle
+1 [4ED] Red Elemental Blast
+1 [SHM] Reflecting Pool
+1 [AVR] Reforge the Soul
+1 [EVE] Regal Force
+1 [BBD] Regna's Sanction
+1 [C15] Reins of Power
+2 [ALA] Relic of Progenitus
+1 [M13] Reliquary Tower
+1 [GPT] Repeal
+1 [DST] Reshape
+1 [A25] Rest in Peace
+1 [AVR] Restoration Angel
+1 [C18] Retrofitter Foundry
+1 [CMD] Return to Dust
+1 [MOR] Reveillark
+1 [M12] Reverberate
+1 [M13] Revive
+1 [PCY] Rhystic Study
+1 [LRW] Rings of Brighthearth
+1 [UMA] Rogue's Passage
+1 [V14] Rolling Earthquake
+2 [ARC] Roots of All Evil
+2 [ARC] Rotted Ones, Lay Siege
+1 [EVE] Rugged Prairie
+1 [MRD] Rule of Law
+1 [M12] Rune-Scarred Demon
+1 [DGM] Ruric Thar, the Unbowed
+1 [RAV] Sacred Foundry
+1 [C18] Sage's Reverie
+1 [C18] Saheeli's Artistry
+1 [C18] Saheeli's Directive
+1 [WAR] Saheeli, Sublime Artificer
+1 [C18] Saheeli, the Gifted
+1 [5DN] Salvaging Station
+1 [CN2] Sanctum Prelate
+1 [IMA] Sandstone Oracle
+1 [M19] Satyr Enchanter
+1 [ZEN] Scalding Tarn
+1 [M14] Scavenging Ooze
+1 [C18] Scrabbling Claws
+1 [CM2] Scrap Mastery
+1 [TSP] Scryb Ranger
+1 [10ED] Sculpting Steel
+1 [BBD] Sea of Clouds
+1 [C18] Seat of the Synod
+1 [MRD] Seat of the Synod
+2 [CMD] Secluded Steppe
+1 [MRD] Second Sunrise
+1 [LGN] Seedborn Muse
+1 [TMP] Seeker of Skybreak
+1 [UMA] Seize the Day
+1 [CHK] Sensei's Divining Top
+1 [BBD] Sentinel Tower
+1 [5DN] Serum Visions
+1 [ODY] Shadowblood Egg
+1 [FRF] Shamanic Revelation
+1 [C13] Sharuum the Hegemon
+1 [IMA] Sheoldred, Whispering One
+1 [SHM] Shield of the Oversoul
+1 [MBS] Shimmer Myr
+2 [RTR] Shrieking Affliction
+1 [C18] Sigil of the Empty Throne
+1 [ARC] Sign in Blood
+1 [M14] Silence
+1 [RIX] Silent Gravestone
+1 [C18] Silent Sentinel
+1 [WAR] Single Combat
+1 [DGM] Sire of Insanity
+1 [C14] Skeletal Scrying
+1 [CMD] Skullclamp
+1 [ODY] Skycloud Egg
+1 [EVG] Slate of Ancestry
+1 [RTR] Slaughter Games
+1 [RIX] Slaughter the Strong
+1 [DDH] Slave of Bolas
+1 [UMA] Sleight of Hand
+1 [OGW] Slip Through Space
+1 [DST] Slobad, Goblin Tinkerer
+1 [M12] Smallpox
+1 [RNA] Smothering Tithe
+1 [DDS] Snap
+1 [ISD] Snapcaster Mage
+1 [EMA] Sneak Attack
+1 [C18] Sol Ring
+1 [CMD] Sol Ring
+1 [CMA] Song of the Dryads
+1 [C18] Soul of New Phyrexia
+1 [AVR] Soul of the Harvest
+1 [WAR] Spark Double
+1 [BBD] Spellseeker
+1 [EXO] Sphere of Resistance
+1 [RTR] Sphere of Safety
+1 [C13] Sphinx of the Steel Wind
+1 [RTR] Sphinx's Revelation
+1 [AER] Spire of Industry
+1 [BNG] Spirit of the Labyrinth
+1 [APC] Squee's Revenge
+1 [5DN] Staff of Domination
+1 [APC] Standard Bearer
+1 [TMP] Static Orb
+1 [RTR] Steam Vents
+1 [C18] Steel Hellkite
+1 [SOM] Steel Hellkite #!Foil
+1 [5DN] Steelshaper's Gift
+1 [CNS] Stifle
+1 [BBD] Stolen Strategy
+1 [WWK] Stoneforge Mystic
+1 [ISD] Stony Silence
+1 [RIX] Storm the Vault
+1 [CMD] Stranglehold
+1 [M14] Strionic Resonator
+1 [4ED] Strip Mine
+1 [USG] Stroke of Genius
+1 [BBD] Stunning Reversal
+1 [DOM] Sulfur Falls
+1 [MMA] Summoner's Pact
+1 [M11] Sun Titan
+1 [M12] Sundial of the Infinite
+1 [MM2] Sunforger
+1 [BFZ] Sunken Hollow
+1 [RTR] Supreme Verdict
+1 [ARC] Surrender Your Thoughts
+1 [EXO] Survival of the Fittest
+7 [ZEN] Swamp
+1 [THS] Swan Song
+1 [C18] Swiftfoot Boots
+1 [M12] Swiftfoot Boots
+1 [C18] Swiftwater Cliffs
+1 [MBS] Sword of Feast and Famine
+1 [DST] Sword of Fire and Ice
+1 [DST] Sword of Light and Shadow
+1 [FUT] Sword of the Meek
+1 [GPT] Sword of the Paruns
+1 [NPH] Sword of War and Peace
+1 [EMA] Swords to Plowshares
+1 [M11] Sylvan Ranger
+1 [MRD] Sylvan Scrying
+1 [MMA] Syphon Life
+1 [ODY] Tainted Pact
+1 [MH1] Talisman of Conviction
+1 [MH1] Talisman of Creativity
+1 [MH1] Talisman of Curiosity
+1 [MRD] Talisman of Dominance
+1 [MH1] Talisman of Hierarchy
+1 [MRD] Talisman of Indulgence
+1 [MRD] Talisman of Progress
+1 [MH1] Talisman of Resilience
+1 [WAR] Tamiyo, Collector of Tales
+1 [ONS] Taunting Elf
+1 [C18] Tawnos, Urza's Apprentice
+1 [INV] Tectonic Instability
+1 [BNG] Temple of Malice
+1 [THS] Temple of Silence
+1 [THS] Temple of Triumph
+1 [FRF] Temur Battle Rage
+1 [CMD] Terminate
+1 [MM2] Tezzeret the Seeker
+1 [M19] Tezzeret, Artifice Master
+1 [WAR] Tezzeret, Master of the Bridge
+1 [DKA] Thalia, Guardian of Thraben
+1 [EMN] Thalia, Heretic Cathar
+1 [DOM] The Antiquities War
+1 [M15] The Chain Veil
+2 [ARC] The Dead Shall Serve
+1 [WAR] The Elderspell
+1 [DOM] The Eldest Reborn
+1 [ARC] The Fate of the Flammable
+2 [ARC] The Iron Guardian Stirs
+2 [ARC] The Pieces Are Coming Together
+1 [4ED] The Rack
+2 [3ED] The Rack
+1 [HOU] The Scarab God
+1 [HOU] The Scorpion God
+1 [ARC] The Very Soil Shall Shake
+1 [WAR] The Wanderer
+1 [C18] Thirst for Knowledge
+1 [MMA] Thirst for Knowledge
+1 [C18] Thopter Assembly
+1 [C18] Thopter Engineer
+1 [ARB] Thopter Foundry
+1 [C18] Thopter Spy Network
+1 [LRW] Thorn of Amethyst
+1 [DKA] Thought Scour
+1 [C15] Thought Vessel
+2 [THS] Thoughtseize
+1 [LRW] Thousand-Year Elixir
+4 [SOI] Thraben Inspector
+1 [IMA] Thran Dynamo
+1 [DOM] Thran Temporal Gateway
+1 [M13] Thundermaw Hellkite
+1 [ARB] Time Sieve
+1 [ULG] Tinker
+1 [VIS] Tithe
+1 [FUT] Tolaria West
+1 [WAR] Tomik, Distinguished Advokist
+1 [ARC] Tooth, Claw, and Tail
+1 [HOU] Torment of Hailfire
+1 [SOI] Tormenting Voice
+1 [DCI] Tormod's Crypt
+1 [NPH] Torpor Orb
+1 [EMA] Toxic Deluge
+1 [M10] Traumatize
+1 [MBS] Treasure Mage
+1 [C18] Treasure Nabber
+1 [SOM] Trinket Mage
+1 [NPH] Triumph of the Hordes
+1 [USG] Turnabout
+1 [C18] Tuvasa the Sunlit
+1 [SHM] Umbral Mantle
+1 [ISD] Unburial Rites
+1 [A25] Unearth
+1 [C18] Unflinching Courage
+1 [C18] Unquestioned Authority
+1 [C18] Unstable Obelisk
+1 [EMN] Unsubstantiate
+1 [DOM] Unwind
+1 [C18] Unwinding Clock
+1 [M15] Urborg, Tomb of Yawgmoth
+1 [DIS] Utopia Sprawl
+1 [KTK] Utter End
+1 [VIS] Vampiric Tutor
+1 [RTR] Vandalblast
+1 [XLN] Vanquisher's Banner
+1 [C18] Varchild, Betrayer of Kjeldor
+1 [MRD] Vault of Whispers
+1 [C18] Vedalken Humiliator
+1 [BOK] Veil of Secrecy
+1 [ZEN] Verdant Catacombs
+1 [5ED] Verduran Enchantress
+1 [8ED] Vernal Bloom
+1 [USG] Viashino Sandswimmer
+1 [ISD] Village Bell-Ringer
+1 [EMA] Vindicate
+1 [MBS] Viridian Corrupter
+1 [MBS] Viridian Emissary
+1 [MRD] Viridian Joiner
+1 [MRD] Viridian Shaman
+1 [DST] Viridian Zealot
+1 [BBD] Virtus's Maneuver
+1 [WTH] Vitalize
+1 [BFZ] Void Winnower
+1 [RTR] Volatile Rig
+1 [STH] Volrath's Stronghold
+1 [M11] Voltaic Key
+1 [NPH] Vorinclex, Voice of Hunger
+1 [RAV] Voyager Staff
+1 [AER] Walking Ballista
+1 [MIR] Wall of Roots
+1 [BBD] War's Toll
+1 [GTC] Watery Grave
+1 [DGM] Wear // Tear
+1 [ONS] Weathered Wayfarer
+1 [SOI] Weirding Wood
+2 [ARC] Which of You Burns Brightest?
+1 [THS] Whip of Erebos
+1 [CM2] Whipflare
+1 [C18] Whirler Rogue
+1 [GTC] Whispering Madness
+1 [C18] Wild Growth
+1 [PLC] Wild Pair
+4 [CM2] Wind-Scarred Crag
+1 [USG] Windfall
+1 [C18] Winds of Rath
+5 [KTK] Windswept Heath
+2 [4ED] Winter Orb
+1 [TSP] Wipe Away
+1 [LGN] Wirewood Channeler
+1 [ONS] Wirewood Herald
+1 [LGN] Wirewood Hivemaster
+1 [ONS] Wirewood Lodge
+5 [SCG] Wirewood Symbiote
+1 [LGN] Withered Wretch
+1 [9ED] Wood Elves
+3 [KTK] Wooded Foothills
+1 [DOM] Woodland Cemetery
+1 [ONS] Words of Wind
+1 [ROE] World at War
+1 [EMA] Worldgorger Dragon
+1 [MIR] Worldly Tutor
+1 [RTR] Worldspine Wurm
+1 [C18] Worn Powerstone
+1 [6ED] Wrath of God
+1 [CM2] Wurmcoil Engine
+1 [C18] Yavimaya Enchantress
+1 [UDS] Yavimaya Hollow
+1 [USG] Yawgmoth's Will
+1 [M13] Yeva, Nature's Herald
+1 [CHK] Yosei, the Morning Star
+4 [ARC] Your Fate Is Thrice Sealed
+4 [ARC] Your Puny Minds Cannot Fathom
+2 [ARC] Your Will Is Not Your Own
+1 [AVR] Zealous Conscripts
+1 [OGW] Zendikar Resurgent
+1 [BBD] Zndrsplt, Eye of Wisdom
+1 [MM3] Zur the Enchanter
