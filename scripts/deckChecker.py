@@ -37,6 +37,8 @@ else:
 
                     merged_inner = pd.merge(left=binder_df, right=deck_df, left_on='Name', right_on='Name')
 
+                    merged_inner.sort_values(by=['Name'], inplace=True)
+
                     with pd.option_context('display.max_rows', None, 'display.max_columns', None, 'display.width', 1000):
                         print(merged_inner[['Slot', 'Name']])
 
@@ -83,6 +85,8 @@ else:
                         merged_inner = pd.merge(left=collection_df, right=deck_df, left_on='Name', right_on='Name')
 
                     diff_df = deck_df[(~deck_df['Name'].isin(merged_inner['Name']))]
+                    
+                    diff_df.sort_values(by=['Name'], inplace=True)
 
                     with pd.option_context('display.max_rows', None, 'display.max_columns', None, 'display.width', 1000):
                         print(diff_df)

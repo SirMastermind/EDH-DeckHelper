@@ -1,12 +1,13 @@
 Aluren
 Apostle's Blessing
+Arcane Signet
 Arcum Dagsson
 Argothian Enchantress
 Army of the Damned
 As Foretold
-Back to Basics
 Beast Whisperer
 Beast Within
+Bitterblossom
 Blast Zone
 Blightsteel Colossus
 Bountiful Promenade
@@ -24,19 +25,19 @@ Copy Enchantment
 Counterbalance
 Daretti, Scrap Savant
 Darksteel Forge
-Demonic Consultation
 Diluvian Primordial
 Duskmantle, House of Shadow
+Eidolon of Rhetoric
 Enchanted Evening
 Endless Ranks of the Dead
 Exploration
 Fiery Gambit
 Force of Negation
 Fraying Sanity
-Gilded Drake
 Grindstone
 Helm of Obedience
 Heroic Intervention
+High Tide
 Humility
 Idyllic Tutor
 Jace, Memory Adept
@@ -45,13 +46,14 @@ Jeweled Amulet
 Keening Stone
 Legacy's Allure
 Life's Finale
+Liliana of the Veil
 Liliana, Death's Majesty
-Lion's Eye Diamond
 Long-Term Plans
 Mana Leak
 Mind Grind
 Mnemonic Betrayal
 Mystic Forge
+Nahiri, the Harbinger
 Narset, Parter of Veils
 Nature's Claim
 Nephalia Drownyard
@@ -60,7 +62,6 @@ Painter's Servant
 Paradox Haze
 Phenax, God of Deception
 Planar Bridge
-Plunge into Darkness
 Power Artifact
 Prismatic Vista
 Propaganda
@@ -71,16 +72,13 @@ Rise of the Dark Realms
 Sapphire Medallion
 Saprazzan Skerry
 Savage Beating
-Scroll Rack
 Sepulchral Primordial
 Serra's Sanctum
 Spellskite
 Starfield Mystic
 Sterling Grove
 Stitch in Time
-Sulfurous Springs
 Sylvan Library
-Tarnished Citadel
 Teferi, Hero of Dominaria
 Temple Garden
 Temple of Deceit
@@ -88,12 +86,11 @@ Terminus
 Trail of Evidence
 Training Grounds
 Ulamog, the Infinite Gyre
-Underground River
 Urza, Lord High Artificer
 Vedalken Archmage
 Verity Circle
 Vilis, Broker of Blood
 Vivien Reid
 Wargate
-Wheel of Fortune
+Wasteland
 Woodland Bellower

@@ -18,6 +18,7 @@ mainmenu () {
 	echo "Press 8 to check cards missing from a decklist."
 	echo "Press 9 to produce want list from all decklists."
 	echo "Press 0 to check cards that should be added to the binder."
+	echo "Press q to check cards that should be removed to the binder."
 	echo "Press x to exit the script."
 	read  -n 1 -p "Input Selection: " "mainmenuinput"
 	echo ""
@@ -97,6 +98,14 @@ mainmenu () {
 	elif [ "$mainmenuinput" = "0" ]; then
 		echo "Compiling all decks..."
 		python3 ./scripts/binderChecker.py
+		echo ""
+		echo "Press any key to continue..."
+		read -n 1
+		clear
+		mainmenu
+	elif [ "$mainmenuinput" = "q" ]; then
+		echo "Compiling all decks..."
+		python3 ./scripts/coreChecker.py
 		echo ""
 		echo "Press any key to continue..."
 		read -n 1

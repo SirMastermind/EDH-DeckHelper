@@ -1,0 +1,160 @@
+Abrupt Decay
+Ad Nauseam
+Aetherflux Reservoir
+Ancient Tomb
+Animate Dead
+Arbor Elf
+Arid Mesa
+Avacyn's Pilgrim
+Aven Mindcensor
+Badlands
+Bayou
+Beast Within
+Birds of Paradise
+Bloodstained Mire
+Bloom Tender
+Boreal Druid
+Brainstorm
+Breeding Pool
+Buried Alive
+Cabal Ritual
+Carpet of Flowers
+Cavern of Souls
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Counterspell
+Crop Rotation
+Cyclonic Rift
+Dark Confidant
+Dark Petition
+Dark Ritual
+Deathrite Shaman
+Delay
+Demonic Tutor
+Diabolic Intent
+Dig Through Time
+Dimir Signet
+Dispel
+Doomsday
+Dramatic Reversal
+Dryad Arbor
+Eladamri's Call
+Eldritch Evolution
+Elves of Deep Shadow
+Elvish Mystic
+Elvish Spirit Guide
+Enlightened Tutor
+Entomb
+Eternal Witness
+Ethersworn Canonist
+Fabricate
+Fellwar Stone
+Fire Covenant
+Flooded Strand
+Flusterstorm
+Forbidden Orchard
+Force of Will
+Frantic Search
+Fyndhorn Elves
+Gaea's Cradle
+Gamble
+Gemstone Caverns
+Gitaxian Probe
+Godless Shrine
+Green Sun's Zenith
+Grim Monolith
+Grim Tutor
+Hallowed Fountain
+High Tide
+Hurkyl's Recall
+Imperial Seal
+Impulse
+Into the Roil
+Intuition
+Isochron Scepter
+Jace, Vryn's Prodigy
+Laboratory Maniac
+Lim-Dul's Vault
+Lion's Eye Diamond
+Llanowar Elves
+Llanowar Wastes
+Lotus Petal
+Mana Confluence
+Mana Crypt
+Mana Drain
+Mana Vault
+Marsh Flats
+Mental Misstep
+Merchant Scroll
+Mind Stone
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Nature's Claim
+Necromancy
+Necropotence
+Negate
+Noble Hierarch
+Notion Thief
+Noxious Revival
+Null Rod
+Overgrown Tomb
+Pact of Negation
+Paradox Engine
+Phyrexian Revoker
+Phyrexian Tower
+Polluted Delta
+Ponder
+Preordain
+Priest of Titania
+Pyroblast
+Reanimate
+Red Elemental Blast
+Regrowth
+Savannah
+Scalding Tarn
+Scrubland
+Sensei's Divining Top
+Silence
+Snapcaster Mage
+Sol Ring
+Spell Pierce
+Sphere of Resistance
+Steam Vents
+Strip Mine
+Survival of the Fittest
+Swan Song
+Swords to Plowshares
+Sylvan Library
+Sylvan Safekeeper
+Tainted Pact
+Talisman of Dominance
+Talisman of Indulgence
+Tarnished Citadel
+Time Spiral
+Timetwister
+Toxic Deluge
+Transmute Artifact
+Trinket Mage
+Tropical Island
+Tundra
+Underground Sea
+Urborg, Tomb of Yawgmoth
+Vampiric Tutor
+Verdant Catacombs
+Volcanic Island
+Voltaic Key
+Wall of Roots
+Watery Grave
+Windfall
+Windswept Heath
+Winter Orb
+Wooded Foothills
+Worldly Tutor
+Yavimaya Coast
+Yawgmoth's Will

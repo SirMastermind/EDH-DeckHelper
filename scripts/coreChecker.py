@@ -45,37 +45,30 @@ for card, count in cardsDict.items():
 multiple.sort()
 single.sort()
 
-finalCopy = multiple.copy()
+with open('./data/binder/core.txt', 'r') as f:
+    core = f.read().split('\n')
+
+finalCopy = []
+
+for card in binder_df['Name']:
+    finalCopy.append(card)
 
 print("Checking target cards...")
-for card in multiple:
-    for value in binder_df['Name']:
+for card in binder_df['Name']:
+    for value in multiple:
         if card == value:
             finalCopy.remove(card)
             break
 
-if ("Plains" in finalCopy):
-    finalCopy.remove("Plains")
-if ("Island" in finalCopy):
-    finalCopy.remove("Island")
-if ("Swamp" in finalCopy):
-    finalCopy.remove("Swamp")
-if ("Mountain" in finalCopy):
-    finalCopy.remove("Mountain")
-if ("Forest" in finalCopy):
-    finalCopy.remove("Forest")
+for card in binder_df['Name']:
+    for value in core:
+        if card == value:
+            try:
+                finalCopy.remove(card)
+                break
+            except:
+                break
 
-if ("Snow-Covered Plains" in finalCopy):
-    finalCopy.remove("Snow-Covered Plains")
-if ("Snow-Covered Island" in finalCopy):
-    finalCopy.remove("Snow-Covered Island")
-if ("Snow-Covered Swamp" in finalCopy):
-    finalCopy.remove("Snow-Covered Swamp")
-if ("Snow-Covered Mountain" in finalCopy):
-    finalCopy.remove("Snow-Covered Mountain")
-if ("Snow-Covered Forest" in finalCopy):
-    finalCopy.remove("Snow-Covered Forest")
-
-print("Cards to add:")
+print("Cards to remove:")
 for card in finalCopy:
     print("-> " + card)
