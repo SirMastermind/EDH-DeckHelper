@@ -1,3 +1,4 @@
+Academy Ruins
 Aluren
 Apostle's Blessing
 Arcane Signet
@@ -5,92 +6,140 @@ Arcum Dagsson
 Argothian Enchantress
 Army of the Damned
 As Foretold
+Badlands
+Bayou
 Beast Whisperer
 Beast Within
+Birds of Paradise
 Bitterblossom
 Blast Zone
 Blightsteel Colossus
+Bloom Tender
 Bountiful Promenade
 Bribery
 Brushland
 Cabal Coffers
 Call to the Grave
+Canopy Vista
 Carpet of Flowers
 Chance Encounter
+Cinder Glade
 Clever Impersonator
 Codex Shredder
 Consecrated Sphinx
 Consuming Aberration
+Copy Artifact
 Copy Enchantment
 Counterbalance
 Daretti, Scrap Savant
 Darksteel Forge
+Demonic Consultation
 Diluvian Primordial
 Duskmantle, House of Shadow
 Eidolon of Rhetoric
+Eldritch Evolution
+Elvish Spirit Guide
 Enchanted Evening
 Endless Ranks of the Dead
+Everflowing Chalice
 Exploration
 Fiery Gambit
 Force of Negation
 Fraying Sanity
+Gilded Drake
+Grim Tutor
 Grindstone
 Helm of Obedience
 Heroic Intervention
 High Tide
+Horizon Canopy
 Humility
 Idyllic Tutor
+Imperial Seal
 Jace, Memory Adept
 Jace, the Mind Sculptor
 Jeweled Amulet
+Karplusan Forest
 Keening Stone
 Legacy's Allure
 Life's Finale
 Liliana of the Veil
 Liliana, Death's Majesty
+Lion's Eye Diamond
 Long-Term Plans
 Mana Leak
 Mind Grind
 Mnemonic Betrayal
+Muddle the Mixture
 Mystic Forge
 Nahiri, the Harbinger
 Narset, Parter of Veils
 Nature's Claim
 Nephalia Drownyard
 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+Noble Hierarch
+Noxious Revival
+Null Rod
 Painter's Servant
 Paradox Haze
 Phenax, God of Deception
+Phyrexian Tower
 Planar Bridge
+Plateau
+Plunge into Darkness
 Power Artifact
+Prairie Stream
 Prismatic Vista
 Propaganda
 Psychic Corrosion
 Recurring Insight
 Replenish
 Rise of the Dark Realms
+Sai, Master Thopterist
 Sapphire Medallion
 Saprazzan Skerry
 Savage Beating
+Savannah
+Scroll Rack
+Scrubland
 Sepulchral Primordial
 Serra's Sanctum
+Smoldering Marsh
 Spellskite
 Starfield Mystic
 Sterling Grove
 Stitch in Time
+Sulfurous Springs
+Sunbaked Canyon
+Sunken Ruins
 Sylvan Library
+Sylvan Safekeeper
+Taiga
+Tarnished Citadel
 Teferi, Hero of Dominaria
 Temple Garden
+Temple of Abandon
 Temple of Deceit
+Temple of Enlightenment
+Temple of Plenty
 Terminus
+Timetwister
 Trail of Evidence
 Training Grounds
+Transmute Artifact
+Tropical Island
+Tundra
 Ulamog, the Infinite Gyre
+Underground River
+Underground Sea
 Urza, Lord High Artificer
 Vedalken Archmage
 Verity Circle
 Vilis, Broker of Blood
 Vivien Reid
+Volcanic Island
 Wargate
 Wasteland
+Wheel of Fortune
+Whir of Invention
 Woodland Bellower

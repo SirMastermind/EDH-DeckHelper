@@ -117,8 +117,17 @@ else:
                 diff_df = deck_df[(~deck_df['Name'].isin(merged_inner['Name']))]
 
                 output_df = pd.concat([output_df, diff_df])
+
+        binder_df = pd.read_csv('./data/binder/Binder.csv', delimiter=';')
+        binder_df.dropna(inplace=True, subset=['Name'])
+        binder_df['Have'].fillna("No", inplace=True)
+        binder_df['Have'] = binder_df['Have'].astype(str)
+        binder_df['Have'].replace(to_replace='1.0', value='Yes', inplace=True)
+        dontHave_df = binder_df.loc[binder_df['Have'] == "No"]
+        dontHave_df.drop(['Slot', 'Have'], inplace=True, axis=1)
+        output_df = pd.concat([output_df, dontHave_df])
         print("Taking out duplicates...")
-        output_df.drop_duplicates(keep=False, inplace=True)
+        output_df.drop_duplicates(keep='first', inplace=True)
         print("Sorting cards by name...")
         output_df.sort_values(by=['Name'], inplace=True)
         for value in output_df['Name']:
