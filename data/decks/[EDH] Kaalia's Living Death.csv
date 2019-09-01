@@ -55,11 +55,6 @@
 1,Scalding Tarn
 1,Verdant Catacombs
 1,Hallowed Burial
-1,Fetid Heath
-1,Rugged Prairie
-1,Graven Cairns
-1,Reflecting Pool
-1,Caves of Koilos
 1,Damnation
 1,"Urborg, Tomb of Yawgmoth"
 1,Pull from Eternity
@@ -77,12 +72,12 @@
 1,Talisman of Indulgence
 1,Phyrexian Arena
 1,Bloodstained Mire
-1,Battlefield Forge
 1,Phyrexian Reclamation
 1,Yawgmoth's Will
 1,Ancient Tomb
 1,Wrath of God
 1,Necropotence
+1,City of Brass
 1,Necromancy
 1,Vampiric Tutor
 1,Dance of the Dead
@@ -90,8 +85,11 @@
 1,Diabolic Intent
 1,Archfiend of Despair
 1,Snow-Covered Mountain
-2,Snow-Covered Swamp
+4,Snow-Covered Swamp
 2,Snow-Covered Plains
+1,Prismatic Vista
+1,Sunbaked Canyon
+1,Silent Clearing
 1,Doom Whisperer
 1,Isolated Chapel
 1,Clifftop Retreat

@@ -36,7 +36,6 @@ Darksteel Forge
 Demonic Consultation
 Diluvian Primordial
 Duskmantle, House of Shadow
-Eidolon of Rhetoric
 Eldritch Evolution
 Elvish Spirit Guide
 Enchanted Evening
@@ -51,7 +50,6 @@ Grim Tutor
 Grindstone
 Helm of Obedience
 Heroic Intervention
-High Tide
 Horizon Canopy
 Humility
 Idyllic Tutor
@@ -70,7 +68,6 @@ Long-Term Plans
 Mana Leak
 Mind Grind
 Mnemonic Betrayal
-Muddle the Mixture
 Mystic Forge
 Nahiri, the Harbinger
 Narset, Parter of Veils
@@ -100,7 +97,6 @@ Sapphire Medallion
 Saprazzan Skerry
 Savage Beating
 Savannah
-Scroll Rack
 Scrubland
 Sepulchral Primordial
 Serra's Sanctum
@@ -129,7 +125,6 @@ Training Grounds
 Transmute Artifact
 Tropical Island
 Tundra
-Ulamog, the Infinite Gyre
 Underground River
 Underground Sea
 Urza, Lord High Artificer

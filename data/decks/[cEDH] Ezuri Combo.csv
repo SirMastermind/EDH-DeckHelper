@@ -6,6 +6,9 @@
 1,Woodland Bellower
 1,Shamanic Revelation
 1,"Freyalise, Llanowar's Fury"
+1,Windswept Heath
+1,Wooded Foothills
+1,Chord of Calling
 1,Reclamation Sage
 1,"Nykthos, Shrine to Nyx"
 1,Elvish Mystic
@@ -25,6 +28,8 @@
 1,Sylvan Ranger
 1,Joraga Treespeaker
 1,Arbor Elf
+1,Misty Rainforest
+1,Verdant Catacombs
 1,Helix Pinnacle
 1,Regal Force
 1,Devoted Druid
@@ -39,7 +44,6 @@
 1,Scryb Ranger
 1,Boreal Druid
 1,Sword of the Paruns
-1,Chord of Calling
 1,Staff of Domination
 1,Viridian Zealot
 1,Sylvan Scrying
@@ -70,4 +74,5 @@
 1,Vivien Reid
 1,Ley Weaver
 1,Beast Whisperer
-28,Snow-Covered Forest
+23,Snow-Covered Forest
+1,Prismatic Vista
