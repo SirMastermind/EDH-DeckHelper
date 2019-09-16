@@ -49,8 +49,8 @@
 48;Sulfur Falls;1
 49;Sunpetal Grove;1
 50;Woodland Cemetery;1
-51;Canopy Vista;
-52;Cinder Glade;
+51;Canopy Vista;1
+52;Cinder Glade;1
 53;Prairie Stream;
 54;Smoldering Marsh;
 55;Sunken Hollow;1
@@ -119,22 +119,22 @@
 118;Vault of Whispers;1
 119;Ancient Tomb;1
 120;Academy Ruins;
-121;Cephalid Coliseum;1
-122;Deserted Temple;1
-123;Dryad Arbor;1
-124;Flagstones of Trokair;1
-125;Gaea's Cradle;1
-126;Gemstone Caverns;1
-127;Hall of the Bandit Lord;1
-128;Inventors' Fair;1
-129;Maze of Ith;1
-130;Nykthos, Shrine to Nyx;1
-131;Phyrexian Tower;
-132;Reliquary Tower;1
-133;Strip Mine;1
-134;Urborg, Tomb of Yawgmoth;1
-135;Wasteland;
-136;;
+121;Cabal Coffers;
+122;Cephalid Coliseum;1
+123;Deserted Temple;1
+124;Dryad Arbor;1
+125;Flagstones of Trokair;1
+126;Gaea's Cradle;1
+127;Gemstone Caverns;1
+128;Hall of the Bandit Lord;1
+129;Inventors' Fair;1
+130;Maze of Ith;1
+131;Nykthos, Shrine to Nyx;1
+132;Phyrexian Tower;
+133;Reliquary Tower;1
+134;Strip Mine;1
+135;Urborg, Tomb of Yawgmoth;1
+136;Wasteland;
 137;;
 138;;
 139;;
@@ -177,43 +177,43 @@
 176;Lotus Petal;1
 177;Mana Crypt;1
 178;Mana Vault;1
-179;Mind Stone;1
-180;Mox Diamond;1
-181;Mox Opal;1
-182;Nevinyrral's Disk;1
-183;Nihil Spellbomb;1
-184;Null Rod;
-185;Orzhov Signet;1
-186;Paradox Engine;1
-187;Rakdos Signet;1
-188;Rings of Brighthearth;1
-189;Scroll Rack;1
-190;Selesnya Signet;1
-191;Sensei's Divining Top;1
-192;Simic Signet;1
-193;Sol Ring;1
-194;Sphere of Resistance;1
-195;Swiftfoot Boots;1
-196;Talisman of Conviction;1
-197;Talisman of Creativity;1
-198;Talisman of Curiosity;1
-199;Talisman of Dominance;1
-200;Talisman of Hierarchy;1
-201;Talisman of Impulse;1
-202;Talisman of Indulgence;1
-203;Talisman of Progress;1
-204;Talisman of Resilience;1
-205;Talisman of Unity;1
-206;Thought Vessel;1
-207;Thran Dynamo;1
-208;Thran Temporal Gateway;1
-209;Unwinding Clock;1
-210;Voltaic Key;1
-211;Winter Orb;1
-212;Phyrexian Revoker;1
-213;;
-214;;
-215;;
+179;Mindcrank;1
+180;Mind Stone;1
+181;Mox Diamond;1
+182;Mox Opal;1
+183;Nevinyrral's Disk;1
+184;Nihil Spellbomb;1
+185;Null Rod;
+186;Orzhov Signet;1
+187;Paradox Engine;1
+188;Rakdos Signet;1
+189;Rings of Brighthearth;1
+190;Scroll Rack;1
+191;Selesnya Signet;1
+192;Sensei's Divining Top;1
+193;Simic Signet;1
+194;Sol Ring;1
+195;Sphere of Resistance;1
+196;Swiftfoot Boots;1
+197;Talisman of Conviction;1
+198;Talisman of Creativity;1
+199;Talisman of Curiosity;1
+200;Talisman of Dominance;1
+201;Talisman of Hierarchy;1
+202;Talisman of Impulse;1
+203;Talisman of Indulgence;1
+204;Talisman of Progress;1
+205;Talisman of Resilience;1
+206;Talisman of Unity;1
+207;Thought Vessel;1
+208;Thran Dynamo;1
+209;Thran Temporal Gateway;1
+210;Unwinding Clock;1
+211;Voltaic Key;1
+212;Winter Orb;1
+213;Whip of Erebos;1
+214;Whispersilk Cloak;1
+215;Phyrexian Revoker;1
 216;;
 217;;
 218;;
@@ -324,33 +324,33 @@
 323;;
 324;;
 325;Dark Confidant;1
-326;Animate Dead;1
-327;Dance of the Dead;1
-328;Necromancy;1
-329;Necropotence;1
-330;Phyrexian Arena;1
-331;Ad Nauseam;1
-332;Cabal Ritual;1
-333;Dark Ritual;1
-334;Demonic Consultation;
-335;Entomb;1
-336;Tainted Pact;1
-337;Vampiric Tutor;1
-338;Buried Alive;1
-339;Command the Dreadhorde;1
-340;Damnation;1
-341;Dark Petition;1
-342;Demonic Tutor;1
-343;Diabolic Intent;1
-344;Doomsday;1
-345;Grim Tutor;
-346;Imperial Seal;
-347;Plunge into Darkness;
-348;Reanimate;1
-349;Toxic Deluge;1
-350;Yawgmoth's Will;1
-351;;
-352;;
+326;Vilis, Broker of Blood;
+327;Animate Dead;1
+328;Dance of the Dead;1
+329;Necromancy;1
+330;Necropotence;1
+331;Phyrexian Arena;1
+332;Phyrexian Reclamation;1
+333;Ad Nauseam;1
+334;Cabal Ritual;1
+335;Dark Ritual;1
+336;Demonic Consultation;
+337;Entomb;1
+338;Tainted Pact;1
+339;Vampiric Tutor;1
+340;Buried Alive;1
+341;Command the Dreadhorde;1
+342;Damnation;1
+343;Dark Petition;1
+344;Demonic Tutor;1
+345;Diabolic Intent;1
+346;Doomsday;1
+347;Grim Tutor;
+348;Imperial Seal;
+349;Plunge into Darkness;
+350;Reanimate;1
+351;Toxic Deluge;1
+352;Yawgmoth's Will;1
 353;;
 354;;
 355;;
@@ -359,17 +359,17 @@
 358;;
 359;;
 360;;
-361;Pyroblast;1
-362;Red Elemental Blast;1
-363;Blasphemous Act;1
-364;Gamble;1
-365;Rolling Earthquake;1
-366;Vandalblast;1
-367;Wheel of Fortune;
-368;;
-369;;
-370;;
-371;;
+361;Chaos Warp;1
+362;Fling;1
+363;Pyroblast;1
+364;Red Elemental Blast;1
+365;Temur Battle Rage;1
+366;Blasphemous Act;1
+367;Chandra's Ignition;1
+368;Gamble;1
+369;Rolling Earthquake;1
+370;Vandalblast;1
+371;Wheel of Fortune;
 372;;
 373;;
 374;;
@@ -403,7 +403,7 @@
 402;Sylvan Library;
 403;Beast Within;
 404;Crop Rotation;1
-405;Nature's Claim;
+405;Nature's Claim;1
 406;Noxious Revival;
 407;Worldly Tutor;1
 408;Eldritch Evolution;

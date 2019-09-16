@@ -19,7 +19,10 @@ else:
     	print("\nTotal number of cards is %s" % (collection_df['Quantity'].sum()))
 
     elif (sys.argv[1] == "binder" or sys.argv[1] == "have" or sys.argv[1] == "miss"):
-    	binder_df = pd.read_csv('./data/binder/Binder.csv', delimiter=';')
+    	for file in os.listdir("./data/binder"):
+    		if file.endswith(".csv") and "._" not in file:
+    			fname = "./data/binder/" + file
+    	binder_df = pd.read_csv(fname, delimiter=';')
     	binder_df.dropna(inplace=True, subset=['Name'])
     	binder_df['Have'].fillna("No", inplace=True)
     	binder_df['Have'] = binder_df['Have'].astype(str)

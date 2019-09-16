@@ -1,29 +1,30 @@
 Academy Ruins
+Act of Aggression
 Aluren
-Apostle's Blessing
 Arcane Signet
 Arcum Dagsson
 Argothian Enchantress
-Army of the Damned
-As Foretold
 Badlands
+Basilisk Collar
 Bayou
 Beast Whisperer
 Beast Within
 Birds of Paradise
 Bitterblossom
 Blast Zone
+Blessing of Leeches
 Blightsteel Colossus
+Bloodtracker
 Bloom Tender
+Bond of Agony
+Boseiju, Who Shelters All
 Bountiful Promenade
 Bribery
 Brushland
 Cabal Coffers
-Call to the Grave
-Canopy Vista
+Canyon Slough
 Carpet of Flowers
 Chance Encounter
-Cinder Glade
 Clever Impersonator
 Codex Shredder
 Consecrated Sphinx
@@ -35,30 +36,35 @@ Daretti, Scrap Savant
 Darksteel Forge
 Demonic Consultation
 Diluvian Primordial
-Duskmantle, House of Shadow
+Dismember
 Eldritch Evolution
 Elvish Spirit Guide
-Enchanted Evening
 Endless Ranks of the Dead
+Erebos, God of the Dead
 Everflowing Chalice
 Exploration
-Fiery Gambit
+Exquisite Blood
+Exsanguinate
 Force of Negation
+Foreboding Ruins
 Fraying Sanity
 Gilded Drake
 Grim Tutor
 Grindstone
+Hatred
 Helm of Obedience
 Heroic Intervention
 Horizon Canopy
 Humility
 Idyllic Tutor
+Imp's Mischief
 Imperial Seal
+Island
 Jace, Memory Adept
 Jace, the Mind Sculptor
 Jeweled Amulet
 Karplusan Forest
-Keening Stone
+Kokusho, the Evening Star
 Legacy's Allure
 Life's Finale
 Liliana of the Veil
@@ -71,15 +77,13 @@ Mnemonic Betrayal
 Mystic Forge
 Nahiri, the Harbinger
 Narset, Parter of Veils
-Nature's Claim
-Nephalia Drownyard
 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
 Noble Hierarch
 Noxious Revival
 Null Rod
 Painter's Servant
-Paradox Haze
 Phenax, God of Deception
+Phyrexian Purge
 Phyrexian Tower
 Planar Bridge
 Plateau
@@ -89,20 +93,19 @@ Prairie Stream
 Prismatic Vista
 Propaganda
 Psychic Corrosion
-Recurring Insight
 Replenish
 Rise of the Dark Realms
+Rite of Consumption
+Rite of the Raging Storm
 Sai, Master Thopterist
 Sapphire Medallion
 Saprazzan Skerry
-Savage Beating
 Savannah
 Scrubland
 Sepulchral Primordial
 Serra's Sanctum
 Smoldering Marsh
 Spellskite
-Starfield Mystic
 Sterling Grove
 Stitch in Time
 Sulfurous Springs
@@ -113,14 +116,11 @@ Sylvan Safekeeper
 Taiga
 Tarnished Citadel
 Teferi, Hero of Dominaria
-Temple Garden
 Temple of Abandon
 Temple of Deceit
 Temple of Enlightenment
 Temple of Plenty
-Terminus
 Timetwister
-Trail of Evidence
 Training Grounds
 Transmute Artifact
 Tropical Island
@@ -131,9 +131,7 @@ Urza, Lord High Artificer
 Vedalken Archmage
 Verity Circle
 Vilis, Broker of Blood
-Vivien Reid
 Volcanic Island
-Wargate
 Wasteland
 Wheel of Fortune
 Whir of Invention

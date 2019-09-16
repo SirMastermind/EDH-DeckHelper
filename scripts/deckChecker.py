@@ -32,7 +32,10 @@ else:
                     deck_df = pd.read_csv(fname, delimiter=',', header=None)
                     deck_df.columns = ['Number', 'Name']
 
-                    binder_df = pd.read_csv('./data/binder/Binder.csv', delimiter=';')
+                    for file in os.listdir("./data/binder"):
+                    	if file.endswith(".csv") and "._" not in file:
+                    		fname = "./data/binder/" + file
+                    binder_df = pd.read_csv(fname, delimiter=';')
                     binder_df.dropna(inplace=True, subset=['Name'])
 
                     merged_inner = pd.merge(left=binder_df, right=deck_df, left_on='Name', right_on='Name')
@@ -70,10 +73,13 @@ else:
                     deck_df.drop('Number', inplace=True, axis=1)
 
                     if (sys.argv[1] == "single"):
-                        binder_df = pd.read_csv('./data/binder/Binder.csv', delimiter=';')
-                        binder_df.dropna(inplace=True, subset=['Name'])
-                        binder_df.drop(['Slot', 'Have'], inplace=True, axis=1)
-                        merged_inner = pd.merge(left=binder_df, right=deck_df, left_on='Name', right_on='Name')
+                    	for file in os.listdir("./data/binder"):
+                    		if file.endswith(".csv") and "._" not in file:
+                    			fname = "./data/binder/" + file
+                    	binder_df = pd.read_csv(fname, delimiter=';')
+                    	binder_df.dropna(inplace=True, subset=['Name'])
+                    	binder_df.drop(['Slot', 'Have'], inplace=True, axis=1)
+                    	merged_inner = pd.merge(left=binder_df, right=deck_df, left_on='Name', right_on='Name')
                     elif (sys.argv[1] == "missing"):
                         for file in os.listdir("./data/collection"):
                             if file.endswith(".csv") and "._" not in file:
@@ -116,7 +122,10 @@ else:
 
                 output_df = pd.concat([output_df, diff_df])
 
-        binder_df = pd.read_csv('./data/binder/Binder.csv', delimiter=';')
+        for file in os.listdir("./data/binder"):
+        	if file.endswith(".csv") and "._" not in file:
+        		fname = "./data/binder/" + file
+        binder_df = pd.read_csv(fname, delimiter=';')
         binder_df.dropna(inplace=True, subset=['Name'])
         binder_df['Have'].fillna("No", inplace=True)
         binder_df['Have'] = binder_df['Have'].astype(str)

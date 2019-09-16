@@ -6,7 +6,10 @@ import os
 
 cards = []
 
-binder_df = pd.read_csv('./data/binder/Binder.csv', delimiter=';')
+for file in os.listdir("./data/binder"):
+	if file.endswith(".csv") and "._" not in file:
+		fname = "./data/binder/" + file
+binder_df = pd.read_csv(fname, delimiter=';')
 binder_df.dropna(inplace=True, subset=['Name'])
 binder_df.drop(['Slot', 'Have'], axis=1, inplace=True)
 
