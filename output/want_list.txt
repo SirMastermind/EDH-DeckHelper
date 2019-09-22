@@ -1,14 +1,17 @@
 Academy Ruins
 Act of Aggression
 Aluren
+Apex Altisaur
 Arcane Signet
 Arcum Dagsson
 Argothian Enchantress
+Atzocan Seer
 Badlands
 Basilisk Collar
 Bayou
 Beast Whisperer
 Beast Within
+Bellowing Aegisaur
 Birds of Paradise
 Bitterblossom
 Blast Zone
@@ -22,11 +25,14 @@ Bountiful Promenade
 Bribery
 Brushland
 Cabal Coffers
+Caltrops
 Canyon Slough
 Carpet of Flowers
 Chance Encounter
 Clever Impersonator
 Codex Shredder
+Colossal Dreadmaw
+Congregation at Dawn
 Consecrated Sphinx
 Consuming Aberration
 Copy Artifact
@@ -34,21 +40,28 @@ Copy Enchantment
 Counterbalance
 Daretti, Scrap Savant
 Darksteel Forge
+Deathgorge Scavenger
 Demonic Consultation
 Diluvian Primordial
 Dismember
+Domri, Chaos Bringer
 Eldritch Evolution
 Elvish Spirit Guide
 Endless Ranks of the Dead
 Erebos, God of the Dead
+Etali, Primal Storm
 Everflowing Chalice
 Exploration
 Exquisite Blood
 Exsanguinate
 Force of Negation
 Foreboding Ruins
+Forerunner of the Empire
 Fraying Sanity
+Ghalta, Primal Hunger
 Gilded Drake
+Gishath, Sun's Avatar
+Goring Ceratops
 Grim Tutor
 Grindstone
 Hatred
@@ -64,6 +77,10 @@ Jace, Memory Adept
 Jace, the Mind Sculptor
 Jeweled Amulet
 Karplusan Forest
+Kinjalli's Caller
+Kinjalli's Sunwing
+Knight of the Stampede
+Kodama's Reach
 Kokusho, the Evening Star
 Legacy's Allure
 Life's Finale
@@ -72,6 +89,7 @@ Liliana, Death's Majesty
 Lion's Eye Diamond
 Long-Term Plans
 Mana Leak
+Marauding Raptor
 Mind Grind
 Mnemonic Betrayal
 Mystic Forge
@@ -81,6 +99,7 @@ Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
 Noble Hierarch
 Noxious Revival
 Null Rod
+Otepec Huntmaster
 Painter's Servant
 Phenax, God of Deception
 Phyrexian Purge
@@ -88,15 +107,24 @@ Phyrexian Tower
 Planar Bridge
 Plateau
 Plunge into Darkness
+Polyraptor
 Power Artifact
 Prairie Stream
+Priest of the Wakening Sun
 Prismatic Vista
 Propaganda
 Psychic Corrosion
+Raging Swordtooth
+Rampaging Brontodon
+Ranging Raptors
+Regal Behemoth
+Regisaur Alpha
 Replenish
+Ripjaw Raptor
 Rise of the Dark Realms
 Rite of Consumption
 Rite of the Raging Storm
+Runic Armasaur
 Sai, Master Thopterist
 Sapphire Medallion
 Saprazzan Skerry
@@ -104,8 +132,11 @@ Savannah
 Scrubland
 Sepulchral Primordial
 Serra's Sanctum
+Silverclad Ferocidons
+Skyshroud Claim
 Smoldering Marsh
 Spellskite
+Star of Extinction
 Sterling Grove
 Stitch in Time
 Sulfurous Springs
@@ -116,23 +147,34 @@ Sylvan Safekeeper
 Taiga
 Tarnished Citadel
 Teferi, Hero of Dominaria
+Temple Altisaur
 Temple of Abandon
 Temple of Deceit
 Temple of Enlightenment
 Temple of Plenty
+Thrashing Brontodon
+Thundering Spineback
 Timetwister
 Training Grounds
 Transmute Artifact
+Trapjaw Tyrant
 Tropical Island
 Tundra
 Underground River
 Underground Sea
+Urza's Incubator
 Urza, Lord High Artificer
 Vedalken Archmage
+Verdant Sun's Avatar
 Verity Circle
 Vilis, Broker of Blood
 Volcanic Island
+Wakening Sun's Avatar
+Warstorm Surge
 Wasteland
+Wayward Swordtooth
 Wheel of Fortune
 Whir of Invention
 Woodland Bellower
+Zacama, Primal Calamity
+Zetalpa, Primal Dawn
