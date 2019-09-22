@@ -12,4 +12,4 @@ Input files must be in .csv with columns:
 
 Export file is a txt with a want list based on all decks.
 
-To start, just run the compile script.
+To start, just run the "compile" script in your command line.
