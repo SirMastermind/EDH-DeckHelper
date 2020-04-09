@@ -1,4 +1,18 @@
 Quantity,Name,Edition Name,Edition Code
+1,Heroic Intervention,Aether Revolt,aer
+1,Verity Circle,Ravnica Allegiance,rna
+1,Temple of Abandon,Theros,ths
+1,Rite of Consumption,Shadowmoor,shm
+1,Psychic Corrosion,Core Set 2019,m19
+1,Legacy's Allure,Tempest,tmp
+1,Everflowing Chalice,Modern Masters 2015,mm2
+1,Dismember,New Phyrexia,nph
+1,Beast Within,New Phyrexia,nph
+1,Blightsteel Colossus,Mirrodin Besieged,mbs
+1,Blessing of Leeches,Betrayers of Kamigawa,bok
+1,Reflecting Pool,Shadowmoor,shm
+1,Lightning Greaves,Commander 2019,c19
+1,Whispersilk Cloak,Magic 2011,m11
 1,Blowfly Infestation,Shadowmoor,shm
 1,Soul Snuffers,Eventide,eve
 1,Duskmantle Guildmage,Gatecrash,gtc
@@ -48,8 +62,8 @@ Quantity,Name,Edition Name,Edition Code
 1,Faerie Macabre,Modern Masters,mma
 1,Manabarbs,Magic 2012,m12
 1,Trail of Evidence,Shadows over Innistrad,soi
-2,My Wish Is Your Command,Archenemy,arc
-2,Look Skyward and Despair,Archenemy,arc
+2,My Wish Is Your Command,Archenemy Schemes,oarc
+2,Look Skyward and Despair,Archenemy Schemes,oarc
 1,Winding Way,Modern Horizons,mh1
 1,Nature's Lore,Fifth Edition,5ed
 1,Glacial Revelation,Modern Horizons,mh1
@@ -165,7 +179,6 @@ Quantity,Name,Edition Name,Edition Code
 1,Mindcrank,New Phyrexia,nph
 1,Fling,Dark Ascension,dka
 1,Bloodchief Ascension,Zendikar,zen
-1,Whispersilk Cloak,Magic 2010,m10
 1,Rootbound Crag,Magic 2010,m10
 1,Shivan Reef,Magic 2015,m15
 1,Spire Garden,Battlebond,bbd
@@ -292,7 +305,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Sword of Feast and Famine,Mirrodin Besieged,mbs
 1,Swiftfoot Boots,Commander 2018,c18
 1,Swan Song,Theros,ths
-1,Surrender Your Thoughts,Archenemy,arc
+1,Surrender Your Thoughts,Archenemy Schemes,oarc
 1,Supreme Verdict,Return to Ravnica,rtr
 1,Sunken Hollow,Battle for Zendikar,bfz
 1,Sunforger,Modern Masters 2015,mm2
@@ -385,8 +398,8 @@ Quantity,Name,Edition Name,Edition Code
 1,Rune-Scarred Demon,Magic 2012,m12
 1,Rule of Law,Mirrodin,mrd
 1,Rugged Prairie,Eventide,eve
-2,"Rotted Ones, Lay Siege",Archenemy,arc
-2,Roots of All Evil,Archenemy,arc
+2,"Rotted Ones, Lay Siege",Archenemy Schemes,oarc
+2,Roots of All Evil,Archenemy Schemes,oarc
 1,Rolling Earthquake,From the Vault: Annihilation,v14
 1,Rogue's Passage,Ultimate Masters,uma
 1,Rings of Brighthearth,Lorwyn,lrw
@@ -407,14 +420,13 @@ Quantity,Name,Edition Name,Edition Code
 1,Regna's Sanction,Battlebond,bbd
 1,Regal Force,Eventide,eve
 1,Reforge the Soul,Avacyn Restored,avr
-1,Reflecting Pool,Shadowmoor,shm
 1,Recruiter of the Guard,Conspiracy: Take the Crown,cn2
 1,Reclamation Sage,Magic 2015,m15
 1,Reclaim,Magic 2012,m12
 1,Rebuild,Modern Horizons,mh1
 1,Reap and Sow,Darksteel,dst
 1,Reanimate,Archenemy,arc
-4,Realms Befitting My Majesty,Archenemy,arc
+4,Realms Befitting My Majesty,Archenemy Schemes,oarc
 1,Read the Bones,Theros,ths
 1,"Razaketh, the Foulblooded",Hour of Devastation,hou
 1,Ravenous Slime,Commander 2018,c18
@@ -459,7 +471,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Memoricide,Scars of Mirrodin,som
 1,Memnarch,From the Vault: Lore,v16
 1,Maze of Ith,Eternal Masters,ema
-1,May Civilization Collapse,Archenemy,arc
+1,May Civilization Collapse,Archenemy Schemes,oarc
 1,Master Transmuter,Archenemy,arc
 1,Master of Cruelties,Dragon's Maze,dgm
 1,Masked Admirers,Lorwyn,lrw
@@ -491,7 +503,6 @@ Quantity,Name,Edition Name,Edition Code
 1,Liliana's Caress,Magic 2011,m11
 1,Liliana Vess,Magic 2011,m11
 1,Lignify,Lorwyn,lrw
-1,Lightning Greaves,Commander 2011,cmd
 1,Legion's Initiative,Dragon's Maze,dgm
 1,Last One Standing,Battlebond,bbd
 1,Land Tax,Battlebond,bbd
@@ -500,7 +511,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Kruphix's Insight,Commander 2018,c18
 1,Krark-Clan Ironworks,Fifth Dawn,5dn
 1,Krark's Thumb,Mirrodin,mrd
-1,Know Naught but Fire,Archenemy,arc
+1,Know Naught but Fire,Archenemy Schemes,oarc
 1,"Kiki-Jiki, Mirror Breaker",Iconic Masters,ima
 1,Khorvath's Fury,Battlebond,bbd
 1,"Kestia, the Cultivator",Commander 2018,c18
@@ -525,8 +536,8 @@ Quantity,Name,Edition Name,Edition Code
 1,Isochron Scepter,Mirrodin,mrd
 1,"Iona, Shield of Emeria",From the Vault: Angels,v15
 1,Inventors' Fair,Kaladesh,kld
-4,Introductions Are in Order,Archenemy,arc
-1,Into the Earthen Maw,Archenemy,arc
+4,Introductions Are in Order,Archenemy Schemes,oarc
+1,Into the Earthen Maw,Archenemy Schemes,oarc
 1,Into the Core,Mirrodin Besieged,mbs
 1,Insidious Dreams,Torment,tor
 1,Impulsive Maneuvers,Odyssey,ody
@@ -535,18 +546,18 @@ Quantity,Name,Edition Name,Edition Code
 1,Impending Disaster,Urza's Legacy,ulg
 1,Immaculate Magistrate,Lorwyn,lrw
 1,Illusionist's Bracers,Gatecrash,gtc
-2,Ignite the Cloneforge!,Archenemy,arc
+2,Ignite the Cloneforge!,Archenemy Schemes,oarc
 1,Ignite the Beacon,War of the Spark,war
-2,"I Know All, I See All",Archenemy,arc
+2,"I Know All, I See All",Archenemy Schemes,oarc
 1,Azor's Gateway // Sanctum of the Sun,Rivals of Ixalan,rix
 1,Ancient Tomb,Tempest,tmp
 1,Zur the Enchanter,Modern Masters 2017,mm3
 1,"Zndrsplt, Eye of Wisdom",Battlebond,bbd
 1,Zendikar Resurgent,Oath of the Gatewatch,ogw
 1,Zealous Conscripts,Avacyn Restored,avr
-2,Your Will Is Not Your Own,Archenemy,arc
-4,Your Puny Minds Cannot Fathom,Archenemy,arc
-4,Your Fate Is Thrice Sealed,Archenemy,arc
+2,Your Will Is Not Your Own,Archenemy Schemes,oarc
+4,Your Puny Minds Cannot Fathom,Archenemy Schemes,oarc
+4,Your Fate Is Thrice Sealed,Archenemy Schemes,oarc
 1,"Yosei, the Morning Star",Champions of Kamigawa,chk
 1,"Yeva, Nature's Herald",Magic 2013,m13
 1,Wurmcoil Engine,Commander Anthology Volume II,cm2
@@ -570,7 +581,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Whispering Madness,Gatecrash,gtc
 1,Whipflare,Commander Anthology Volume II,cm2
 1,Whip of Erebos,Theros,ths
-2,Which of You Burns Brightest?,Archenemy,arc
+2,Which of You Burns Brightest?,Archenemy Schemes,oarc
 1,Weirding Wood,Shadows over Innistrad,soi
 1,Weathered Wayfarer,Onslaught,ons
 1,Wear // Tear,Dragon's Maze,dgm
@@ -621,7 +632,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Torpor Orb,New Phyrexia,nph
 1,Tormenting Voice,Shadows over Innistrad,soi
 1,Torment of Hailfire,Hour of Devastation,hou
-1,"Tooth, Claw, and Tail",Archenemy,arc
+1,"Tooth, Claw, and Tail",Archenemy Schemes,oarc
 1,"Tomik, Distinguished Advokist",War of the Spark,war
 1,Tolaria West,Future Sight,fut
 1,Time Sieve,Alara Reborn,arb
@@ -637,15 +648,15 @@ Quantity,Name,Edition Name,Edition Code
 1,Thopter Assembly,Commander 2018,c18
 1,Thirst for Knowledge,Modern Masters,mma
 1,The Wanderer,War of the Spark,war
-1,The Very Soil Shall Shake,Archenemy,arc
+1,The Very Soil Shall Shake,Archenemy Schemes,oarc
 1,The Scorpion God,Hour of Devastation,hou
 1,The Scarab God,Hour of Devastation,hou
-2,The Pieces Are Coming Together,Archenemy,arc
-2,The Iron Guardian Stirs,Archenemy,arc
-1,The Fate of the Flammable,Archenemy,arc
+2,The Pieces Are Coming Together,Archenemy Schemes,oarc
+2,The Iron Guardian Stirs,Archenemy Schemes,oarc
+1,The Fate of the Flammable,Archenemy Schemes,oarc
 1,The Eldest Reborn,Dominaria,dom
 1,The Elderspell,War of the Spark,war
-2,The Dead Shall Serve,Archenemy,arc
+2,The Dead Shall Serve,Archenemy Schemes,oarc
 1,The Chain Veil,Magic 2015,m15
 1,The Antiquities War,Dominaria,dom
 1,"Thalia, Heretic Cathar",Eldritch Moon,emn
@@ -658,9 +669,9 @@ Quantity,Name,Edition Name,Edition Code
 1,Temple of Triumph,Theros,ths
 1,Temple of Silence,Theros,ths
 1,Temple of Malice,Born of the Gods,bng
-1,I Delight in Your Convulsions,Archenemy,arc
-1,I Call on the Ancient Magics,Archenemy,arc
-2,I Bask in Your Silent Awe,Archenemy,arc
+1,I Delight in Your Convulsions,Archenemy Schemes,oarc
+1,I Call on the Ancient Magics,Archenemy Schemes,oarc
+2,I Bask in Your Silent Awe,Archenemy Schemes,oarc
 1,Hydra Omnivore,Commander 2018,c18
 1,Hour of Devastation,Hour of Devastation,hou
 1,Hope of Ghirapur,Aether Revolt,aer
@@ -743,7 +754,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Fertile Ground,Commander 2018,c18
 1,Fellwar Stone,Ninth Edition,9ed
 1,Felidar Guardian,Aether Revolt,aer
-2,Feed the Machine,Archenemy,arc
+2,Feed the Machine,Archenemy Schemes,oarc
 1,Fauna Shaman,Magic 2011,m11
 1,Fatal Frenzy,Planar Chaos,plc
 1,Fall of the Thran,Dominaria,dom
@@ -758,9 +769,9 @@ Quantity,Name,Edition Name,Edition Code
 1,Exquisite Archangel,Aether Revolt,aer
 1,Expedition Map,Zendikar,zen
 1,Evolution Sage,War of the Spark,war
-1,Evil Comes to Fruition,Archenemy,arc
-2,Every Last Vestige Shall Rot,Archenemy,arc
-2,Every Hope Shall Vanish,Archenemy,arc
+1,Evil Comes to Fruition,Archenemy Schemes,oarc
+2,Every Last Vestige Shall Rot,Archenemy Schemes,oarc
+2,Every Hope Shall Vanish,Archenemy Schemes,oarc
 1,Ever-Watching Threshold,Commander 2018,c18
 1,"Etrata, the Silencer",Guilds of Ravnica,grn
 1,Ethersworn Canonist,Shards of Alara,ala
@@ -772,7 +783,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Enchantress's Presence,Commander 2018,c18
 1,Enchanter's Bane,Commander 2018,c18
 1,"Emrakul, the Aeons Torn",Rise of the Eldrazi,roe
-1,Embrace My Diabolical Vision,Archenemy,arc
+1,Embrace My Diabolical Vision,Archenemy Schemes,oarc
 1,Elvish Mystic,Magic 2014,m14
 1,Elvish Harbinger,Lorwyn,lrw
 1,Elvish Guidance,Onslaught,ons
@@ -841,7 +852,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Oracle of Mul Daya,Zendikar,zen
 1,Open the Vaults,Magic 2010,m10
 1,Open the Armory,Shadows over Innistrad,soi
-2,Only Blood Ends Your Nightmares,Archenemy,arc
+2,Only Blood Ends Your Nightmares,Archenemy Schemes,oarc
 1,"Okaun, Eye of Chaos",Battlebond,bbd
 1,Oblivion Stone,Commander 2011,cmd
 1,Oblivion Ring,Commander 2011,cmd
@@ -851,7 +862,7 @@ Quantity,Name,Edition Name,Edition Code
 1,"Nykthos, Shrine to Nyx",Theros,ths
 1,Nurturing Peatland,Modern Horizons,mh1
 1,Notion Thief,Dragon's Maze,dgm
-1,Nothing Can Stop Me Now,Archenemy,arc
+1,Nothing Can Stop Me Now,Archenemy Schemes,oarc
 1,"Nissa, Vastwood Seer // Nissa, Sage Animist",Magic Origins,ori
 1,Nihil Spellbomb,Scars of Mirrodin,som
 1,Night's Whisper,Eternal Masters,ema
@@ -866,8 +877,8 @@ Quantity,Name,Edition Name,Edition Code
 1,Necrotic Ooze,Scars of Mirrodin,som
 1,Necromancy,Visions,vis
 1,Nature's Spiral,Dominaria,dom
-2,Nature Shields Its Own,Archenemy,arc
-2,Nature Demands an Offering,Archenemy,arc
+2,Nature Shields Its Own,Archenemy Schemes,oarc
+2,Nature Demands an Offering,Archenemy Schemes,oarc
 1,Natural Order,Eternal Masters,ema
 1,Narset Transcendent,Dragons of Tarkir,dtk
 1,Myth Unbound,Commander 2018,c18
@@ -877,14 +888,14 @@ Quantity,Name,Edition Name,Edition Code
 1,Myriad Landscape,Masters 25,a25
 1,Myr Battlesphere,Commander 2018,c18
 1,Mycosynth Lattice,Battlebond,bbd
-1,My Undead Horde Awakens,Archenemy,arc
-1,My Genius Knows No Bounds,Archenemy,arc
-1,My Crushing Masterstroke,Archenemy,arc
+1,My Undead Horde Awakens,Archenemy Schemes,oarc
+1,My Genius Knows No Bounds,Archenemy Schemes,oarc
+1,My Crushing Masterstroke,Archenemy Schemes,oarc
 1,"Muzzio, Visionary Architect",Conspiracy,cns
 1,Multani's Acolyte,Urza's Legacy,ulg
 1,Mox Opal,Modern Masters 2015,mm2
 1,Mother of Runes,Eternal Masters,ema
-1,Mortal Flesh Is Weak,Archenemy,arc
+1,Mortal Flesh Is Weak,Archenemy Schemes,oarc
 1,Morphic Pool,Battlebond,bbd
 1,Monastery Siege,Fate Reforged,frf
 1,Molten Birth,Ultimate Masters,uma
@@ -894,7 +905,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Mirrorworks,Commander 2018,c18
 1,Mirrodin Besieged,Modern Horizons,mh1
 1,Dark Confidant,Ravnica: City of Guilds,rav
-1,"Dance, Pathetic Marionette",Archenemy,arc
+1,"Dance, Pathetic Marionette",Archenemy Schemes,oarc
 1,Damping Sphere,Dominaria,dom
 1,Damnation,Planar Chaos,plc
 1,Dack Fayden,Eternal Masters,ema
@@ -927,7 +938,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Chromatic Sphere,Mirrodin,mrd
 1,Chromatic Lantern,Return to Ravnica,rtr
 1,Chord of Calling,Magic 2015,m15
-1,Choose Your Champion,Archenemy,arc
+1,Choose Your Champion,Archenemy Schemes,oarc
 1,Chaos Warp,Commander 2014,c14
 1,"Chandra, Fire Artisan",War of the Spark,war
 1,Chandra's Ignition,Magic Origins,ori
@@ -993,7 +1004,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Arcane Lighthouse,Commander 2014,c14
 1,Arcane Denial,Commander 2016,c16
 1,Arbor Elf,Worldwake,wwk
-1,Approach My Molten Realm,Archenemy,arc
+1,Approach My Molten Realm,Archenemy Schemes,oarc
 1,Animate Dead,Premium Deck Series: Graveborn,pd3
 1,Anguished Unmaking,Shadows over Innistrad,soi
 1,Anger of the Gods,Theros,ths
@@ -1005,9 +1016,9 @@ Quantity,Name,Edition Name,Edition Code
 1,Altar of the Brood,Khans of Tarkir,ktk
 1,Altar of Dementia,Modern Horizons,mh1
 1,Alpha Status,Scourge,scg
-2,All Shall Smolder in My Wake,Archenemy,arc
+2,All Shall Smolder in My Wake,Archenemy Schemes,oarc
 1,All Is Dust,Rise of the Eldrazi,roe
-2,All in Good Time,Archenemy,arc
+2,All in Good Time,Archenemy Schemes,oarc
 1,"Alesha, Who Smiles at Death",Fate Reforged,frf
 1,"Akroma, Angel of Wrath",Legions,lgn
 1,Akroma's Vengeance,Commander 2011,cmd
@@ -1021,4 +1032,4 @@ Quantity,Name,Edition Name,Edition Code
 1,Abundant Growth,Avacyn Restored,avr
 1,Abundance,Duel Decks: Nissa vs. Ob Nixilis,ddr
 1,Abrupt Decay,Return to Ravnica,rtr
-1,A Display of My Dark Power,Archenemy,arc
+1,A Display of My Dark Power,Archenemy Schemes,oarc

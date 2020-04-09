@@ -2,8 +2,8 @@
 1,Mana Drain
 1,Snap
 1,Cyclonic Rift
+1,Spell Pierce
 1,Zur the Enchanter
-1,Dramatic Reversal
 1,Enlightened Tutor
 1,Swords to Plowshares
 1,Counterspell
@@ -12,19 +12,19 @@
 1,Toxic Deluge
 1,Mana Crypt
 1,Grasp of Fate
-1,Dispel
 1,Dark Petition
 1,Mox Opal
-1,Bloodstained Mire
 1,Flooded Strand
 1,Polluted Delta
 1,Windswept Heath
+1,"Urborg, Tomb of Yawgmoth"
 1,Mana Confluence
 1,Swan Song
 1,Silence
 1,Angel's Grace
 1,Notion Thief
 1,Watery Grave
+1,Dispel
 1,Hallowed Fountain
 1,Laboratory Maniac
 1,Sol Ring
@@ -32,7 +32,6 @@
 1,Gitaxian Probe
 1,Mental Misstep
 1,Preordain
-1,Spell Pierce
 1,Arid Mesa
 1,Marsh Flats
 1,Misty Rainforest
@@ -45,7 +44,6 @@
 1,Underground River
 1,Delay
 1,Pact of Negation
-1,"Urborg, Tomb of Yawgmoth"
 1,Azorius Signet
 1,Dark Confidant
 1,Dimir Signet
@@ -55,11 +53,14 @@
 1,Talisman of Dominance
 1,Talisman of Progress
 1,Chain of Vapor
+1,Bloodstained Mire
 1,Cabal Ritual
 1,Adarkar Wastes
+1,Rhystic Study
 1,Brainstorm
 1,Gush
 1,Imperial Seal
+1,Doomsday
 1,Frantic Search
 1,Grim Monolith
 1,Windfall
@@ -69,7 +70,6 @@
 1,Dark Ritual
 1,Lotus Petal
 1,Ancient Tomb
-1,Doomsday
 1,Necropotence
 1,Mana Vault
 1,City of Brass
@@ -84,7 +84,10 @@
 1,High Tide
 1,Copy Artifact
 1,Sleight of Hand
+1,"Jace, Wielder of Mysteries"
 1,Dovin's Veto
 1,Narset's Reversal
 1,Snow-Covered Swamp
 8,Snow-Covered Island
+1,Thassa's Oracle
+1,Arcane Signet

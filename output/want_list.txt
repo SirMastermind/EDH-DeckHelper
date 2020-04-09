@@ -10,27 +10,27 @@ Badlands
 Basilisk Collar
 Bayou
 Beast Whisperer
-Beast Within
 Bellowing Aegisaur
 Birds of Paradise
-Bitterblossom
 Blast Zone
-Blessing of Leeches
-Blightsteel Colossus
 Bloodtracker
 Bloom Tender
 Bond of Agony
 Boseiju, Who Shelters All
 Bountiful Promenade
+Brallin, Skyshark Rider
 Bribery
 Brushland
 Cabal Coffers
 Caltrops
 Canyon Slough
 Carpet of Flowers
+Chain Reaction
 Chance Encounter
+Chandra, the Firebrand
 Clever Impersonator
 Codex Shredder
+Collective Defiance
 Colossal Dreadmaw
 Congregation at Dawn
 Consecrated Sphinx
@@ -38,22 +38,25 @@ Consuming Aberration
 Copy Artifact
 Copy Enchantment
 Counterbalance
+Curiosity
 Daretti, Scrap Savant
 Darksteel Forge
 Deathgorge Scavenger
 Demonic Consultation
 Diluvian Primordial
-Dismember
+Dockside Extortionist
 Domri, Chaos Bringer
 Eldritch Evolution
 Elvish Spirit Guide
 Endless Ranks of the Dead
 Erebos, God of the Dead
 Etali, Primal Storm
-Everflowing Chalice
+Expansion // Explosion
 Exploration
 Exquisite Blood
 Exsanguinate
+Fateful Showdown
+Flickering Ward
 Force of Negation
 Foreboding Ruins
 Forerunner of the Empire
@@ -61,45 +64,53 @@ Fraying Sanity
 Ghalta, Primal Hunger
 Gilded Drake
 Gishath, Sun's Avatar
+Glint-Horn Buccaneer
 Goring Ceratops
 Grim Tutor
 Grindstone
 Hatred
+Heartwarming Redemption
 Helm of Obedience
-Heroic Intervention
 Horizon Canopy
 Humility
 Idyllic Tutor
 Imp's Mischief
 Imperial Seal
 Island
+Island Sanctuary
 Jace, Memory Adept
 Jace, the Mind Sculptor
 Jeweled Amulet
+Journey to Nowhere
 Karplusan Forest
 Kinjalli's Caller
 Kinjalli's Sunwing
 Knight of the Stampede
 Kodama's Reach
 Kokusho, the Evening Star
-Legacy's Allure
+Kor Haven
 Life's Finale
 Liliana of the Veil
 Liliana, Death's Majesty
 Lion's Eye Diamond
 Long-Term Plans
+Mana Bloom
 Mana Leak
 Marauding Raptor
 Mind Grind
+Mishra's Bauble
 Mnemonic Betrayal
 Mystic Forge
+Mystic Sanctuary
 Nahiri, the Harbinger
 Narset, Parter of Veils
 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
 Noble Hierarch
 Noxious Revival
 Null Rod
+Ophidian Eye
 Otepec Huntmaster
+Overburden
 Painter's Servant
 Phenax, God of Deception
 Phyrexian Purge
@@ -113,7 +124,6 @@ Prairie Stream
 Priest of the Wakening Sun
 Prismatic Vista
 Propaganda
-Psychic Corrosion
 Raging Swordtooth
 Rampaging Brontodon
 Ranging Raptors
@@ -122,7 +132,6 @@ Regisaur Alpha
 Replenish
 Ripjaw Raptor
 Rise of the Dark Realms
-Rite of Consumption
 Rite of the Raging Storm
 Runic Armasaur
 Sai, Master Thopterist
@@ -132,10 +141,14 @@ Savannah
 Scrubland
 Sepulchral Primordial
 Serra's Sanctum
+Shabraz, the Skyshark
+Shark Typhoon
 Silverclad Ferocidons
 Skyshroud Claim
 Smoldering Marsh
+Solitary Confinement
 Spellskite
+Staggering Insight
 Star of Extinction
 Sterling Grove
 Stitch in Time
@@ -148,25 +161,30 @@ Taiga
 Tarnished Citadel
 Teferi, Hero of Dominaria
 Temple Altisaur
-Temple of Abandon
 Temple of Deceit
 Temple of Enlightenment
 Temple of Plenty
+Thassa's Oracle
 Thrashing Brontodon
 Thundering Spineback
+Time Wipe
 Timetwister
+Tolarian Winds
 Training Grounds
 Transmute Artifact
 Trapjaw Tyrant
+Treasure Cruise
 Tropical Island
 Tundra
 Underground River
 Underground Sea
+Underworld Breach
+Urza's Bauble
 Urza's Incubator
 Urza, Lord High Artificer
 Vedalken Archmage
+Verdant Haven
 Verdant Sun's Avatar
-Verity Circle
 Vilis, Broker of Blood
 Volcanic Island
 Wakening Sun's Avatar
@@ -175,6 +193,7 @@ Wasteland
 Wayward Swordtooth
 Wheel of Fortune
 Whir of Invention
+Witching Well
 Woodland Bellower
 Zacama, Primal Calamity
 Zetalpa, Primal Dawn

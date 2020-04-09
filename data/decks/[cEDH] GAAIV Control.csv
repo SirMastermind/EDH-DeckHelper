@@ -15,24 +15,24 @@
 1,Swords to Plowshares
 1,Mystical Tutor
 1,Mana Crypt
-1,Apostle's Blessing
 1,Tezzeret the Seeker
 1,Mox Opal
-1,Narset Transcendent
 1,Dig Through Time
 1,Flooded Strand
 1,Polluted Delta
 1,Windswept Heath
 1,Fact or Fiction
 1,Swan Song
-1,Ethersworn Canonist
 1,Thirst for Knowledge
 1,Sphinx's Revelation
 1,Supreme Verdict
 1,Hallowed Fountain
+1,Terminus
 1,Grafdigger's Cage
+1,Negate
 1,Sol Ring
 1,Command Tower
+1,Apostle's Blessing
 1,Trinket Mage
 1,Mana Leak
 1,Preordain
@@ -42,9 +42,9 @@
 1,Misty Rainforest
 1,Scalding Tarn
 1,Fabricate
+1,Ethersworn Canonist
 1,Painter's Servant
 1,Mystic Gate
-1,Negate
 1,Ponder
 1,Aura of Silence
 1,Counterbalance
@@ -67,6 +67,7 @@
 1,Scroll Rack
 1,Ancient Tomb
 1,Mana Vault
+1,Urza's Bauble
 1,Impulse
 1,Cursed Totem
 1,Force of Will
@@ -78,7 +79,6 @@
 1,Transmute Artifact
 1,Land Tax
 1,Sea of Clouds
-1,Terminus
 1,Smothering Tithe
 1,Verity Circle
 12,Snow-Covered Island
