@@ -1,9 +1,9 @@
+1,Helm of the Host
+1,Sulfur Falls
 1,Cascade Bluffs
 1,Mind Stone
 1,Thran Dynamo
 1,Cyclonic Rift
-1,Whispersilk Cloak
-1,Homeward Path
 1,Inventors' Fair
 1,Counterspell
 1,Mystical Tutor
@@ -15,7 +15,6 @@
 1,Tezzeret the Seeker
 1,Temur Battle Rage
 1,Chaos Warp
-1,Bloodstained Mire
 1,Flooded Strand
 1,Polluted Delta
 1,Wooded Foothills
@@ -23,6 +22,7 @@
 1,Shivan Reef
 1,Marchesa's Smuggler
 1,Fact or Fiction
+1,Homeward Path
 1,Swan Song
 1,Strionic Resonator
 1,Vandalblast
@@ -35,9 +35,9 @@
 1,Snapcaster Mage
 1,Creepy Doll
 1,Negate
-1,Lightning Greaves
 1,Sol Ring
 1,Command Tower
+1,Whispersilk Cloak
 1,World at War
 1,Arid Mesa
 1,Misty Rainforest
@@ -57,6 +57,7 @@
 1,Fiery Gambit
 1,Krark's Thumb
 1,Aggravated Assault
+1,Bloodstained Mire
 1,Planar Chaos
 1,Chance Encounter
 1,Impulsive Maneuvers
@@ -67,8 +68,8 @@
 1,Viashino Sandswimmer
 1,Mogg Assassin
 1,Desperate Gambit
-1,Game of Chaos
 1,Strip Mine
+1,Gilded Lotus
 1,Mystic Confluence
 1,Spellseeker
 1,"Okaun, Eye of Chaos"
@@ -76,16 +77,14 @@
 1,Swiftfoot Boots
 1,Izzet Signet
 1,Hedron Archive
-1,Izzet Guildgate
 1,Gravitic Punch
 1,Rogue's Passage
 1,Seize the Day
 1,Molten Birth
-5,Snow-Covered Mountain
+1,Game of Chaos
+6,Snow-Covered Mountain
 6,Snow-Covered Island
 1,Prismatic Vista
 1,Fiery Islet
 1,Temple of Epiphany
-1,Sulfur Falls
-1,Helm of the Host
-1,Gilded Lotus
+1,Lightning Greaves

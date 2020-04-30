@@ -1,4 +1,89 @@
 Quantity,Name,Edition Name,Edition Code
+1,Thassa's Oracle,Theros Beyond Death,thb
+1,Mystic Forge,Core Set 2020,m20
+1,Herald's Horn,Commander 2017,c17
+1,"Tajic, Legion's Edge",Guilds of Ravnica,grn
+1,Emergence Zone,War of the Spark,war
+1,Moltensteel Dragon,New Phyrexia,nph
+1,"Zetalpa, Primal Dawn",Rivals of Ixalan,rix
+1,Kinjalli's Caller,Ixalan,xln
+1,Time Wipe,War of the Spark Promos,pwar
+1,Expansion // Explosion,Guilds of Ravnica,grn
+1,Shadowspear,Theros Beyond Death,thb
+1,Codex Shredder,Return to Ravnica,rtr
+1,Temple of Plenty,Theros Beyond Death,thb
+1,Basilisk Collar,Modern Masters 2017,mm3
+1,"Liliana, Death's Majesty",Amonkhet,akh
+1,"Judith, the Scourge Diva",Ravnica Allegiance,rna
+1,Glint-Horn Buccaneer,Core Set 2020,m20
+1,Helm of Obedience,Alliances,all
+1,Kodama's Reach,Ultimate Masters,uma
+1,Forerunner of the Empire,Rivals of Ixalan,rix
+1,Mishra's Bauble,Iconic Masters,ima
+1,Otepec Huntmaster,Ixalan,xln
+1,Witching Well,Throne of Eldraine,eld
+1,Whir of Invention,Aether Revolt,aer
+1,Kaya's Ghostform,War of the Spark,war
+1,Idyllic Tutor,Theros Beyond Death,thb
+1,Propaganda,Commander 2016,c16
+1,Temple of Enlightenment,Theros Beyond Death,thb
+1,Temple of Deceit,Theros Beyond Death,thb
+1,Thud,Core Set 2019,m19
+1,Mana Leak,Modern Masters 2015,mm2
+1,Icon of Ancestry,Core Set 2020,m20
+1,Curiosity,Masters 25,a25
+1,Mystic Sanctuary,Throne of Eldraine,eld
+1,Marauding Raptor,Core Set 2020,m20
+1,Knight of the Stampede,Rivals of Ixalan,rix
+1,Grand Warlord Radha,Dominaria,dom
+1,Worldspine Wurm,Return to Ravnica,rtr
+1,Gaddock Teeg,Lorwyn,lrw
+1,Endless Atlas,Commander 2018,c18
+1,Scavenging Ooze,Magic 2014,m14
+1,Precognition Field,Dominaria,dom
+1,Bone Miser,Commander 2019,c19
+1,Tendrils of Agony,Scourge,scg
+1,Dreamscape Artist,Planar Chaos,plc
+1,Null Profusion,Planar Chaos,plc
+1,Porphyry Nodes,Planar Chaos,plc
+1,Retether,Planar Chaos,plc
+1,"Radha, Heir to Keld",Planar Chaos,plc
+1,Simian Spirit Guide,Planar Chaos,plc
+1,Astral Slide,Onslaught,ons
+1,Freed from the Real,Saviors of Kamigawa,sok
+1,Mass Hysteria,Mirrodin,mrd
+1,Cloudstone Curio,Ravnica: City of Guilds,rav
+1,Strength of Lunacy,Torment,tor
+1,Brain Gorgers,Planar Chaos,plc
+1,Journey to Nowhere,Duel Decks: Elspeth vs. Tezzeret,ddf
+1,Eternal Dominion,Saviors of Kamigawa,sok
+1,Vow of Malice,Commander 2011,cmd
+1,Vow of Lightning,Commander 2011,cmd
+1,Vow of Duty,Commander 2011,cmd
+1,Dictate of Kruphix,Commander 2018,c18
+1,Ritual of Soot,Guilds of Ravnica Promos,pgrn
+1,Thrashing Brontodon,Rivals of Ixalan,rix
+1,"Squee, the Immortal",Dominaria,dom
+1,Beacon of Unrest,Commander 2019,c19
+1,In Garruk's Wake,Commander 2019,c19
+1,Magus of the Wheel,Commander 2019,c19
+1,"Squee, Goblin Nabob",Commander 2019,c19
+1,Warstorm Surge,Commander 2019,c19
+1,Ash Barrens,Commander 2019,c19
+1,Colossal Dreadmaw,Rivals of Ixalan,rix
+1,Violent Eruption,Commander 2019,c19
+1,Stromkirk Occultist,Commander 2019,c19
+1,Nightshade Assassin,Commander 2019,c19
+1,Murderous Compulsion,Commander 2019,c19
+1,Malevolent Whispers,Commander 2019,c19
+1,Grave Scrabbler,Commander 2019,c19
+1,Gorgon Recluse,Commander 2019,c19
+1,"Garna, the Bloodflame",Dominaria,dom
+1,From Under the Floorboards,Commander 2019,c19
+1,Fiery Temper,Commander 2019,c19
+1,Dark Withering,Commander 2019,c19
+1,Curse of Fool's Wisdom,Commander 2019,c19
+1,Call to the Netherworld,Commander 2019,c19
 1,Heroic Intervention,Aether Revolt,aer
 1,Verity Circle,Ravnica Allegiance,rna
 1,Temple of Abandon,Theros,ths
@@ -203,6 +288,19 @@ Quantity,Name,Edition Name,Edition Code
 1,Avacyn's Pilgrim,Modern Masters 2017,mm3
 1,Invoke the Firemind,Guildpact,gpt
 1,Ley Weaver,Battlebond,bbd
+1,Bloodhall Priest,Commander 2019,c19
+1,Big Game Hunter,Commander 2019,c19
+1,Avacyn's Judgment,Commander 2019,c19
+1,Asylum Visitor,Commander 2019,c19
+1,Archfiend of Spite,Commander 2019,c19
+1,Anje's Ravager,Commander 2019,c19
+1,Alchemist's Greeting,Commander 2019,c19
+1,Tolaria West,Future Sight,fut
+1,Loaming Shaman,Dissension,dis
+1,Farseek,Ravnica: City of Guilds,rav
+1,Sakura-Tribe Elder,Commander 2011,cmd
+1,Atzocan Seer,Rivals of Ixalan,rix
+1,Yavimaya Elder,Commander 2011,cmd
 1,Delirium Skeins,Dissension,dis
 1,Pain Magnification,Dissension,dis
 1,Frozen Aether,Planar Chaos,plc
@@ -634,7 +732,6 @@ Quantity,Name,Edition Name,Edition Code
 1,Torment of Hailfire,Hour of Devastation,hou
 1,"Tooth, Claw, and Tail",Archenemy Schemes,oarc
 1,"Tomik, Distinguished Advokist",War of the Spark,war
-1,Tolaria West,Future Sight,fut
 1,Time Sieve,Alara Reborn,arb
 1,Thundermaw Hellkite,Magic 2013,m13
 1,Thran Temporal Gateway,Dominaria,dom

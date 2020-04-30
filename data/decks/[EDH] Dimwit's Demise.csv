@@ -5,7 +5,6 @@
 1,The Scarab God
 1,"Liliana, Death's Majesty"
 1,Cyclonic Rift
-1,Keening Stone
 1,Counterspell
 1,Mystical Tutor
 1,Toxic Deluge
@@ -16,10 +15,9 @@
 1,Altar of the Brood
 1,Flooded Strand
 1,Polluted Delta
+1,"Urborg, Tomb of Yawgmoth"
 1,"Phenax, God of Deception"
 1,Swan Song
-1,"Nykthos, Shrine to Nyx"
-1,Temple of Deceit
 1,"Jace, Memory Adept"
 1,Rise of the Dark Realms
 1,Academy Ruins
@@ -31,6 +29,7 @@
 1,Illusionist's Bracers
 1,Watery Grave
 1,Animate Dead
+1,Army of the Damned
 1,Endless Ranks of the Dead
 1,Nephalia Drownyard
 1,Countersquall
@@ -48,6 +47,7 @@
 1,Reanimate
 1,"Ulamog, the Infinite Gyre"
 1,Training Grounds
+1,Keening Stone
 1,Marsh Flats
 1,Misty Rainforest
 1,Scalding Tarn
@@ -60,7 +60,6 @@
 1,Rings of Brighthearth
 1,Underground River
 1,Damnation
-1,"Urborg, Tomb of Yawgmoth"
 1,Paradox Haze
 1,Dimir Signet
 1,"Duskmantle, House of Shadow"
@@ -81,13 +80,12 @@
 1,Psychic Corrosion
 1,Memory Erosion
 1,Morphic Pool
-1,Army of the Damned
-1,Dimir Guildgate
 1,Mnemonic Betrayal
 1,Consuming Aberration
 1,"Ashiok, Dream Render"
 1,Command the Dreadhorde
-4,Snow-Covered Swamp
+6,Snow-Covered Swamp
 5,Snow-Covered Island
 1,Prismatic Vista
 1,Clever Impersonator
+1,Temple of Deceit

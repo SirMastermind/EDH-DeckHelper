@@ -25,6 +25,7 @@
 1,Nevinyrral's Disk
 1,Thought Vessel
 1,Tezzeret the Seeker
+1,Everflowing Chalice
 1,Flooded Strand
 1,Polluted Delta
 1,Wooded Foothills
@@ -38,6 +39,7 @@
 1,Clock of Omens
 1,Reliquary Tower
 1,Sol Ring
+1,Command Tower
 1,Phyrexian Metamorph
 1,Treasure Mage
 1,Blightsteel Colossus
@@ -62,14 +64,12 @@
 1,Thran Temporal Gateway
 1,Gilded Lotus
 1,Wurmcoil Engine
-1,Everflowing Chalice
 1,Scrap Mastery
 1,Goblin Welder
 1,Mycosynth Lattice
 1,Seat of the Synod
 1,Great Furnace
 1,Darksteel Citadel
-1,Command Tower
 1,Unwinding Clock
 1,Soul of New Phyrexia
 1,Myr Battlesphere
@@ -82,10 +82,9 @@
 1,"Saheeli, the Gifted"
 1,Treasure Nabber
 1,Saheeli's Directive
-1,Izzet Guildgate
 1,Desolate Lighthouse
 3,Snow-Covered Mountain
-6,Snow-Covered Island
+7,Snow-Covered Island
 1,Prismatic Vista
 1,Fiery Islet
 1,Temple of Epiphany

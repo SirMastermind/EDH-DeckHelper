@@ -1,120 +1,146 @@
+Abandon Reason
 Academy Ruins
 Act of Aggression
+Adriana, Captain of the Guard
+Alms of the Vein
 Aluren
 Apex Altisaur
 Arcane Signet
 Arcum Dagsson
 Argothian Enchantress
-Atzocan Seer
+Assassin's Trophy
 Badlands
-Basilisk Collar
+Bag of Holding
 Bayou
 Beast Whisperer
 Bellowing Aegisaur
 Birds of Paradise
+Biting Rain
 Blast Zone
-Bloodtracker
+Blood Scrivener
+Bloodmad Vampire
 Bloom Tender
-Bond of Agony
 Boseiju, Who Shelters All
 Bountiful Promenade
 Brallin, Skyshark Rider
 Bribery
 Brushland
 Cabal Coffers
+Call the Coppercoats
 Caltrops
 Canyon Slough
 Carpet of Flowers
+Castle Ardenvale
+Cathars' Crusade
 Chain Reaction
+Champion of the Parish
 Chance Encounter
 Chandra, the Firebrand
+Citywide Bust
+Cleansing Nova
 Clever Impersonator
-Codex Shredder
 Collective Defiance
-Colossal Dreadmaw
 Congregation at Dawn
 Consecrated Sphinx
 Consuming Aberration
 Copy Artifact
 Copy Enchantment
 Counterbalance
-Curiosity
+Culling the Weak
+Cut // Ribbons
 Daretti, Scrap Savant
 Darksteel Forge
 Deathgorge Scavenger
 Demonic Consultation
+Devout Chaplain
 Diluvian Primordial
+Disciple of Bolas
+Distemper of the Blood
 Dockside Extortionist
 Domri, Chaos Bringer
+Drannith Magistrate
+Drown in the Loch
+Eerie Interlude
 Eldritch Evolution
-Elvish Spirit Guide
 Endless Ranks of the Dead
 Erebos, God of the Dead
 Etali, Primal Storm
-Expansion // Explosion
 Exploration
 Exquisite Blood
 Exsanguinate
+Fabled Passage
+Faith of the Devoted
 Fateful Showdown
+Fierce Guardianship
+Finale of Devastation
+Fireflux Squad
+Flawless Maneuver
 Flickering Ward
 Force of Negation
-Foreboding Ruins
-Forerunner of the Empire
+Force of Vigor
 Fraying Sanity
+Frontier Warmonger
+Frontline Medic
+General Kudro of Drannith
+General's Enforcer
 Ghalta, Primal Hunger
+Gibbering Descent
 Gilded Drake
+Gisa's Bidding
 Gishath, Sun's Avatar
-Glint-Horn Buccaneer
 Goring Ceratops
-Grim Tutor
 Grindstone
 Hatred
 Heartwarming Redemption
-Helm of Obedience
 Horizon Canopy
 Humility
-Idyllic Tutor
+Ichor Slick
 Imp's Mischief
 Imperial Seal
+Incorrigible Youths
+Increasing Devotion
+Indatha Tiome
+Infernal Contract
+Insatiable Gorgers
 Island
 Island Sanctuary
 Jace, Memory Adept
 Jace, the Mind Sculptor
 Jeweled Amulet
-Journey to Nowhere
+Jirina Kudro
+Kambal, Consul of Allocation
 Karplusan Forest
-Kinjalli's Caller
+Ketria Triome
 Kinjalli's Sunwing
-Knight of the Stampede
-Kodama's Reach
+Knight of the White Orchid
 Kokusho, the Evening Star
 Kor Haven
 Life's Finale
 Liliana of the Veil
-Liliana, Death's Majesty
 Lion's Eye Diamond
 Long-Term Plans
-Mana Bloom
-Mana Leak
-Marauding Raptor
+Massacre Girl
 Mind Grind
-Mishra's Bauble
+Mirari's Wake
 Mnemonic Betrayal
-Mystic Forge
-Mystic Sanctuary
+Mortify
+Muck Drubb
+Mythos of Snapdax
 Nahiri, the Harbinger
 Narset, Parter of Veils
+Neoform
 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
 Noble Hierarch
 Noxious Revival
-Null Rod
+Oakhame Adversary
+Obsidian Battle-Axe
+Odric, Master Tactician
 Ophidian Eye
-Otepec Huntmaster
 Overburden
 Painter's Servant
+Path of Ancestry
 Phenax, God of Deception
 Phyrexian Purge
-Phyrexian Tower
 Planar Bridge
 Plateau
 Plunge into Darkness
@@ -123,77 +149,94 @@ Power Artifact
 Prairie Stream
 Priest of the Wakening Sun
 Prismatic Vista
-Propaganda
+Psychotic Episode
+Psychotic Haze
 Raging Swordtooth
 Rampaging Brontodon
 Ranging Raptors
+Raugrin Triome
+Reckless Wurm
 Regal Behemoth
 Regisaur Alpha
 Replenish
+Riders of Gavony
 Ripjaw Raptor
 Rise of the Dark Realms
-Rite of the Raging Storm
+Ruinous Ultimatum
 Runic Armasaur
 Sai, Master Thopterist
 Sapphire Medallion
 Saprazzan Skerry
+Savai Triome
 Savannah
 Scrubland
+Senseless Rage
 Sepulchral Primordial
 Serra's Sanctum
 Shabraz, the Skyshark
+Shadow of the Grave
+Shared Animosity
 Shark Typhoon
 Silverclad Ferocidons
 Skyshroud Claim
 Smoldering Marsh
 Solitary Confinement
+Species Specialist
 Spellskite
 Staggering Insight
 Star of Extinction
+Stensia Masquerade
 Sterling Grove
 Stitch in Time
 Sulfurous Springs
 Sunbaked Canyon
 Sunken Ruins
+Surly Badgersaur
 Sylvan Library
-Sylvan Safekeeper
 Taiga
 Tarnished Citadel
 Teferi, Hero of Dominaria
 Temple Altisaur
-Temple of Deceit
-Temple of Enlightenment
-Temple of Plenty
-Thassa's Oracle
-Thrashing Brontodon
+Thalia's Lieutenant
+Thraben Doomsayer
 Thundering Spineback
-Time Wipe
 Timetwister
 Tolarian Winds
 Training Grounds
 Transmute Artifact
 Trapjaw Tyrant
-Treasure Cruise
+Treasonous Ogre
 Tropical Island
 Tundra
+Twins of Maurer Estate
+Tymna the Weaver
+Unbreakable Formation
+Unclaimed Territory
 Underground River
 Underground Sea
 Underworld Breach
+Unspeakable Symbol
 Urza's Bauble
 Urza's Incubator
 Urza, Lord High Artificer
+Vault of the Archangel
 Vedalken Archmage
+Veil of Summer
 Verdant Haven
 Verdant Sun's Avatar
+Verge Rangers
+Vexing Shusher
 Vilis, Broker of Blood
 Volcanic Island
+Voldaren Pariah // Abolisher of Bloodlines
 Wakening Sun's Avatar
-Warstorm Surge
+Waste Not
 Wasteland
 Wayward Swordtooth
+Weirded Vampire
 Wheel of Fortune
-Whir of Invention
-Witching Well
 Woodland Bellower
+Wound Reflection
+Xathrid Necromancer
 Zacama, Primal Calamity
-Zetalpa, Primal Dawn
+Zagoth Triome
