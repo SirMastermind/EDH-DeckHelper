@@ -51,8 +51,8 @@
 50;Woodland Cemetery;1
 51;Canopy Vista;1
 52;Cinder Glade;1
-53;Prairie Stream;
-54;Smoldering Marsh;
+53;Prairie Stream;1
+54;Smoldering Marsh;1
 55;Sunken Hollow;1
 56;;
 57;;
@@ -92,8 +92,8 @@
 91;Indatha Tiome;
 92;Ketria Triome;
 93;Raugrin Triome;
-94;Savai Triome;
-95;Zagoth Triome;
+94;Savai Triome;1
+95;Zagoth Triome;1
 96;;
 97;;
 98;;
@@ -209,7 +209,7 @@
 208;Thran Dynamo;1
 209;Thran Temporal Gateway;1
 210;Unwinding Clock;1
-211;Urza's Bauble;
+211;Urza's Bauble;1
 212;Vanquisher's Banner;1
 213;Voltaic Key;1
 214;Whispersilk Cloak;1
@@ -228,7 +228,7 @@
 227;;
 228;;
 229;Aven Mindcensor;1
-230;Drannith Magistrate;
+230;Drannith Magistrate;1
 231;Ethersworn Canonist;1
 232;Grand Abolisher;1
 233;Karmic Guide;1
@@ -247,8 +247,8 @@
 246;Silence;1
 247;Swords to Plowshares;1
 248;Armageddon;1
-249;Wrath of God;1
-250;;
+249;Mythos of Snapdax;1
+250;Wrath of God;1
 251;;
 252;;
 253;;
@@ -289,7 +289,7 @@
 288;Dispel;1
 289;Dramatic Reversal;1
 290;Fact or Fiction;1
-291;Fierce Guardianship;
+291;Fierce Guardianship;1
 292;Flusterstorm;1
 293;Force of Negation;
 294;Force of Will;1
@@ -338,7 +338,7 @@
 337;Dark Confidant;1
 338;Doom Whisperer;1
 339;Razaketh, the Foulblooded;1
-340;Vilis, Broker of Blood;
+340;Vilis, Broker of Blood;1
 341;Animate Dead;1
 342;Dance of the Dead;1
 343;Necromancy;1
@@ -409,7 +409,7 @@
 408;;
 409;Arbor Elf;1
 410;Avacyn's Pilgrim;1
-411;Birds of Paradise;
+411;Birds of Paradise;1
 412;Bloom Tender;
 413;Boreal Druid;1
 414;Collector Ouphe;1
@@ -425,7 +425,7 @@
 424;Reclamation Sage;1
 425;Runic Armasaur;
 426;Seedborn Muse;1
-427;Carpet of Flowers;
+427;Carpet of Flowers;1
 428;Survival of the Fittest;1
 429;Sylvan Library;
 430;Utopia Sprawl;1
@@ -440,7 +440,7 @@
 439;Summoner's Pact;1
 440;Veil of Summer;
 441;Worldly Tutor;1
-442;Eldritch Evolution;
+442;Eldritch Evolution;1
 443;Finale of Devastation;
 444;Green Sun's Zenith;1
 445;Natural Order;1
@@ -461,7 +461,7 @@
 460;Vexing Shusher;
 461;Ashiok, Dream Render;1
 462;Dack Fayden;1
-463;Mirari's Wake;
+463;Mirari's Wake;1
 464;Abrupt Decay;1
 465;Anguished Unmaking;1
 466;Assassin's Trophy;
@@ -475,7 +475,7 @@
 474;Rakdos Charm;1
 475;Terminate;1
 476;Wear // Tear;1
-477;Mythos of Snapdax;
-478;Neoform;
-479;Supreme Verdict;1
+477;Neoform;
+478;Supreme Verdict;1
+479;;
 480;;

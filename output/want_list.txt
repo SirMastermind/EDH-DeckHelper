@@ -1,67 +1,45 @@
-Abandon Reason
 Academy Ruins
-Act of Aggression
-Adriana, Captain of the Guard
-Alms of the Vein
+Alhammarret's Archive
 Aluren
+Angelsong
 Apex Altisaur
-Arcane Signet
 Arcum Dagsson
 Argothian Enchantress
 Assassin's Trophy
 Badlands
-Bag of Holding
 Bayou
 Beast Whisperer
-Bellowing Aegisaur
-Birds of Paradise
-Biting Rain
 Blast Zone
-Blood Scrivener
-Bloodmad Vampire
 Bloom Tender
 Boseiju, Who Shelters All
 Bountiful Promenade
-Brallin, Skyshark Rider
 Bribery
 Brushland
 Cabal Coffers
-Call the Coppercoats
 Caltrops
-Canyon Slough
-Carpet of Flowers
 Castle Ardenvale
 Cathars' Crusade
-Chain Reaction
-Champion of the Parish
+Censor
 Chance Encounter
-Chandra, the Firebrand
-Citywide Bust
-Cleansing Nova
 Clever Impersonator
-Collective Defiance
-Congregation at Dawn
+Cloud of Faeries
+Complicate
 Consecrated Sphinx
-Consuming Aberration
 Copy Artifact
-Copy Enchantment
 Counterbalance
+Countervailing Winds
 Culling the Weak
 Cut // Ribbons
 Daretti, Scrap Savant
 Darksteel Forge
-Deathgorge Scavenger
 Demonic Consultation
-Devout Chaplain
 Diluvian Primordial
-Disciple of Bolas
-Distemper of the Blood
+Divergent Transformations
 Dockside Extortionist
-Domri, Chaos Bringer
-Drannith Magistrate
+Drannith Stinger
 Drown in the Loch
 Eerie Interlude
-Eldritch Evolution
+Elsha of the Infinite
 Endless Ranks of the Dead
 Erebos, God of the Dead
 Etali, Primal Storm
@@ -69,174 +47,111 @@ Exploration
 Exquisite Blood
 Exsanguinate
 Fabled Passage
-Faith of the Devoted
-Fateful Showdown
-Fierce Guardianship
 Finale of Devastation
-Fireflux Squad
-Flawless Maneuver
-Flickering Ward
+Flame Sweep
 Force of Negation
 Force of Vigor
+Forsake the Worldly
 Fraying Sanity
-Frontier Warmonger
-Frontline Medic
+Frostveil Ambush
 General Kudro of Drannith
-General's Enforcer
-Ghalta, Primal Hunger
 Gibbering Descent
 Gilded Drake
-Gisa's Bidding
-Gishath, Sun's Avatar
-Goring Ceratops
+Gilded Light
 Grindstone
 Hatred
-Heartwarming Redemption
 Horizon Canopy
 Humility
-Ichor Slick
 Imp's Mischief
 Imperial Seal
-Incorrigible Youths
-Increasing Devotion
 Indatha Tiome
 Infernal Contract
-Insatiable Gorgers
 Island
 Island Sanctuary
-Jace, Memory Adept
 Jace, the Mind Sculptor
 Jeweled Amulet
-Jirina Kudro
 Kambal, Consul of Allocation
 Karplusan Forest
 Ketria Triome
-Kinjalli's Sunwing
-Knight of the White Orchid
+Kindred Discovery
 Kokusho, the Evening Star
 Kor Haven
+Kykar, Wind's Fury
 Life's Finale
 Liliana of the Veil
+Limits of Solidarity
 Lion's Eye Diamond
-Long-Term Plans
-Massacre Girl
+Mage's Guile
 Mind Grind
-Mirari's Wake
+Miscalculation
 Mnemonic Betrayal
-Mortify
-Muck Drubb
-Mythos of Snapdax
-Nahiri, the Harbinger
 Narset, Parter of Veils
 Neoform
 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
 Noble Hierarch
 Noxious Revival
 Oakhame Adversary
-Obsidian Battle-Axe
-Odric, Master Tactician
-Ophidian Eye
-Overburden
 Painter's Servant
-Path of Ancestry
-Phenax, God of Deception
-Phyrexian Purge
-Planar Bridge
 Plateau
 Plunge into Darkness
 Polyraptor
 Power Artifact
-Prairie Stream
-Priest of the Wakening Sun
 Prismatic Vista
 Psychotic Episode
 Psychotic Haze
-Raging Swordtooth
 Rampaging Brontodon
-Ranging Raptors
 Raugrin Triome
-Reckless Wurm
 Regal Behemoth
-Regisaur Alpha
 Replenish
-Riders of Gavony
-Ripjaw Raptor
+Rescind
+Rielle, the Everwise
 Rise of the Dark Realms
-Ruinous Ultimatum
+Rough // Tumble
 Runic Armasaur
-Sai, Master Thopterist
-Sapphire Medallion
+Sacred Excavation
 Saprazzan Skerry
-Savai Triome
 Savannah
 Scrubland
-Senseless Rage
 Sepulchral Primordial
 Serra's Sanctum
-Shabraz, the Skyshark
-Shadow of the Grave
-Shared Animosity
 Shark Typhoon
-Silverclad Ferocidons
-Skyshroud Claim
-Smoldering Marsh
+Shredded Sails
 Solitary Confinement
-Species Specialist
 Spellskite
-Staggering Insight
-Star of Extinction
-Stensia Masquerade
-Sterling Grove
+Starstorm
 Stitch in Time
 Sulfurous Springs
 Sunbaked Canyon
 Sunken Ruins
-Surly Badgersaur
+Sweltering Suns
 Sylvan Library
 Taiga
 Tarnished Citadel
 Teferi, Hero of Dominaria
-Temple Altisaur
-Thalia's Lieutenant
-Thraben Doomsayer
-Thundering Spineback
 Timetwister
-Tolarian Winds
 Training Grounds
 Transmute Artifact
 Trapjaw Tyrant
-Treasonous Ogre
 Tropical Island
 Tundra
-Twins of Maurer Estate
 Tymna the Weaver
 Unbreakable Formation
-Unclaimed Territory
 Underground River
 Underground Sea
 Underworld Breach
 Unspeakable Symbol
-Urza's Bauble
 Urza's Incubator
 Urza, Lord High Artificer
 Vault of the Archangel
 Vedalken Archmage
 Veil of Summer
-Verdant Haven
-Verdant Sun's Avatar
-Verge Rangers
 Vexing Shusher
-Vilis, Broker of Blood
 Volcanic Island
-Voldaren Pariah // Abolisher of Bloodlines
-Wakening Sun's Avatar
 Waste Not
 Wasteland
-Wayward Swordtooth
-Weirded Vampire
+Wastes
 Wheel of Fortune
 Woodland Bellower
 Wound Reflection
-Xathrid Necromancer
+Yidaro, Wandering Monster
 Zacama, Primal Calamity
-Zagoth Triome
