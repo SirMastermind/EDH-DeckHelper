@@ -1,7 +1,7 @@
+Abrade
 Abrupt Decay
 Ad Nauseam
 Ancient Tomb
-Angel's Grace
 Animate Dead
 Arbor Elf
 Arcane Signet
@@ -9,16 +9,14 @@ Arid Mesa
 Assassin's Trophy
 Avacyn's Pilgrim
 Aven Mindcensor
-Back to Basics
 Badlands
-Baral, Chief of Compliance
 Bayou
 Birds of Paradise
 Blood Crypt
 Blood Moon
 Bloodstained Mire
 Bloom Tender
-Boreal Druid
+Brain Freeze
 Brainstorm
 Breeding Pool
 Cabal Ritual
@@ -31,7 +29,6 @@ Chrome Mox
 City of Brass
 Collector Ouphe
 Command Tower
-Consecrated Sphinx
 Copy Artifact
 Counterspell
 Crop Rotation
@@ -42,34 +39,33 @@ Dance of the Dead
 Dark Confidant
 Dark Ritual
 Deathrite Shaman
+Deflecting Swat
 Delay
 Demonic Consultation
 Demonic Tutor
 Diabolic Intent
-Dig Through Time
 Dimir Signet
 Dispel
 Dockside Extortionist
 Dovin's Veto
 Dramatic Reversal
 Drannith Magistrate
-Drown in the Loch
 Eladamri's Call
 Eldritch Evolution
 Elves of Deep Shadow
 Elvish Mystic
+Elvish Spirit Guide
 Emergence Zone
 Enlightened Tutor
 Entomb
 Eternal Witness
 Exotic Orchard
-Fabricate
+Faithless Looting
 Fellwar Stone
 Fierce Guardianship
 Fiery Islet
 Finale of Devastation
 Fire Covenant
-Flash
 Flooded Strand
 Flusterstorm
 Forbidden Orchard
@@ -84,21 +80,20 @@ Gemstone Caverns
 Gilded Drake
 Gitaxian Probe
 Godless Shrine
-Grafdigger's Cage
 Grand Abolisher
 Green Sun's Zenith
 Grim Monolith
 Hallowed Fountain
-High Tide
+Hullbreacher
+Imperial Recruiter
 Imperial Seal
-Impulse
 Intuition
 Inventors' Fair
 Isochron Scepter
-Jace, Wielder of Mysteries
+Jeska's Will
+Jeweled Lotus
 Laboratory Maniac
-Lim-Dul's Vault
-Linvala, Keeper of Silence
+Lim-Dûl's Vault
 Lion's Eye Diamond
 Llanowar Elves
 Lotus Petal
@@ -110,15 +105,17 @@ Mana Vault
 Marsh Flats
 Mental Misstep
 Merchant Scroll
+Miscast
 Misty Rainforest
 Morphic Pool
+Mox Amber
 Mox Diamond
 Mox Opal
 Muddle the Mixture
 Mystic Remora
 Mystical Tutor
-Narset's Reversal
 Narset, Parter of Veils
+Narset's Reversal
 Nature's Claim
 Necromancy
 Necropotence
@@ -128,44 +125,42 @@ Noble Hierarch
 Notion Thief
 Noxious Revival
 Nurturing Peatland
-Oakhame Adversary
-Opt
+Opposition Agent
 Overgrown Tomb
 Pact of Negation
+Peer into the Abyss
+Phantasmal Image
+Phyrexian Tower
 Plateau
-Plunge into Darkness
 Polluted Delta
 Ponder
 Praetor's Grasp
 Preordain
 Priest of Titania
 Prismatic Vista
-Protean Hulk
 Pyroblast
-Quirion Ranger
 Rain of Filth
-Razaketh, the Foulblooded
+Ranger-Captain of Eos
 Reanimate
-Reclamation Sage
 Red Elemental Blast
-Rest in Peace
+Rejuvenating Springs
 Rhystic Study
-Runic Armasaur
+Rite of Flame
 Savannah
 Scalding Tarn
-Scroll Rack
 Scrubland
-Sea of Clouds
-Seedborn Muse
 Sensei's Divining Top
+Sevinne's Reclamation
 Silence
+Simian Spirit Guide
 Smothering Tithe
+Snap
 Sol Ring
 Spell Pierce
 Spellseeker
+Spire of Industry
 Steam Vents
 Stomping Ground
-Summoner's Pact
 Survival of the Fittest
 Swan Song
 Swords to Plowshares
@@ -176,33 +171,36 @@ Talisman of Creativity
 Talisman of Dominance
 Talisman of Progress
 Tarnished Citadel
+Teferi, Master of Time
 Temple Garden
 Thassa's Oracle
+Thrasios, Triton Hero
 Timetwister
 Toxic Deluge
+Training Center
 Transmute Artifact
 Tropical Island
 Tundra
+Tymna the Weaver
 Underground River
 Underground Sea
+Undergrowth Stadium
 Underworld Breach
 Urborg, Tomb of Yawgmoth
 Utopia Sprawl
 Vampiric Tutor
 Veil of Summer
 Verdant Catacombs
-Vexing Shusher
 Volcanic Island
-Walking Ballista
 Waterlogged Grove
 Watery Grave
 Wheel of Fortune
-Whir of Invention
+Wheel of Misfortune
 Wild Growth
 Windfall
 Winds of Rebuke
 Windswept Heath
+Wishclaw Talisman
 Wooded Foothills
 Worldly Tutor
-Yavimaya Coast
 Yawgmoth's Will

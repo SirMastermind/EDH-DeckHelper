@@ -57,6 +57,18 @@ for card in multiple:
             finalCopy.remove(card)
             break
 
+with open('./data/binder/core.txt', 'r') as f:
+    core = f.read().split('\n')
+
+for value in core:
+    found = 0
+    for card in binder_df['Name']:
+        if card == value:
+            found = 1
+            break
+    if found == 0:
+        finalCopy.append(value)
+
 if ("Plains" in finalCopy):
     finalCopy.remove("Plains")
 if ("Island" in finalCopy):

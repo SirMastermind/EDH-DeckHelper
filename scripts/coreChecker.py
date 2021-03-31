@@ -70,7 +70,7 @@ for card in binder_df['Name']:
                 finalCopy.remove(card)
                 break
             except:
-                break
+                continue
 
 print("Cards to remove:")
 for card in finalCopy:
