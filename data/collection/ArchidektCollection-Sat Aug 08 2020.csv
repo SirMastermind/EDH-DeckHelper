@@ -1,4 +1,18 @@
 Quantity,Name,Edition Name,Edition Code
+1,Whirlpool Warrior,Apocalypse,apc
+1,Utvara Hellkite,Return to Ravnica,rtr
+1,Urza's Incubator,Urza's Destiny,uds
+1,True Conviction,Scars of Mirrodin,som
+1,Tooth and Nail,Mirrodin,mrd
+1,Tidespout Tyrant,Dissension,dis
+1,Thought Reflection,Commander 2015,c15
+1,Terastodon,Worldwake,wwk
+1,Temur Sabertooth,Fate Reforged,frf
+1,Sovereigns of Lost Alara,Alara Reborn,arb
+1,"Selvala, Heart of the Wilds",Conspiracy: Take the Crown,cn2
+1,"Karrthus, Tyrant of Jund",Alara Reborn,arb
+1,"Jin-Gitaxias, Core Augur",New Phyrexia,nph
+1,Infernal Contract,Seventh Edition,7ed
 1,Prairie Stream,Commander 2020,c20
 1,Battlefield Forge,Commander 2020,c20
 1,Thraben Doomsayer,Commander 2020,c20
@@ -394,6 +408,47 @@ Quantity,Name,Edition Name,Edition Code
 1,Avacyn's Pilgrim,Modern Masters 2017,mm3
 1,Invoke the Firemind,Guildpact,gpt
 1,Ley Weaver,Battlebond,bbd
+1,Hellkite Overlord,Shards of Alara,ala
+1,Hellkite Charger,Zendikar,zen
+1,Evacuation,Duels of the Planeswalkers,dpa
+1,Enter the Infinite,Gatecrash,gtc
+1,Empyrial Archangel,Shards of Alara,ala
+1,Elephant Grass,Visions,vis
+1,Dread,Lorwyn,lrw
+1,Dragonstorm,Time Spiral Timeshifted,tsb
+1,Dragonspeaker Shaman,Duel Decks: Knights vs. Dragons,ddg
+1,Dragon Broodmother,Alara Reborn,arb
+1,Doubling Cube,Fifth Dawn,5dn
+1,Devastation Tide,Avacyn Restored,avr
+1,Defense of the Heart,Urza's Legacy,ulg
+1,Crucible of Fire,Shards of Alara,ala
+1,Cathars' Crusade,Avacyn Restored,avr
+1,Boundless Realms,Magic 2013,m13
+1,Blazing Archon,Premium Deck Series: Graveborn,pd3
+1,Black Sun's Zenith,Mirrodin Besieged,mbs
+1,Beacon of Tomorrows,Fifth Dawn,5dn
+1,Assemble the Legion,Gatecrash,gtc
+1,Argentum Armor,Scars of Mirrodin,som
+1,Sarkhan Vol,Shards of Alara,ala
+1,Sarkhan the Mad,Rise of the Eldrazi,roe
+1,Remand,Modern Masters 2015,mm2
+1,Rampaging Baloths,Zendikar,zen
+1,Rafiq of the Many,Shards of Alara,ala
+1,"Kazuul, Tyrant of the Cliffs",Worldwake,wwk
+1,Plunge into Darkness,Fifth Dawn,5dn
+1,Platinum Emperion,Scars of Mirrodin,som
+1,"Omnath, Locus of Mana",From the Vault: Legends,v11
+1,March of the Machines,Archenemy,arc
+1,Young Pyromancer,Signature Spellbook: Chandra,ss3
+1,Pyroblast,Signature Spellbook: Chandra,ss3
+1,Past in Flames,Signature Spellbook: Chandra,ss3
+1,Fiery Confluence,Signature Spellbook: Chandra,ss3
+1,Cathartic Reunion,Signature Spellbook: Chandra,ss3
+1,"Chandra, Torch of Defiance",Signature Spellbook: Chandra,ss3
+1,Oakhame Adversary,Throne of Eldraine,eld
+1,Cut // Ribbons,Amonkhet,akh
+1,Beast Whisperer,Guilds of Ravnica,grn
+1,Fabled Passage,Throne of Eldraine,eld
 1,Faith of the Devoted,Commander 2019,c19
 1,"Gavi, Nest Warden",Commander 2020,c20
 1,Dismantling Wave,Commander 2020,c20
@@ -493,7 +548,6 @@ Quantity,Name,Edition Name,Edition Code
 1,Recycle,Tempest,tmp
 1,Quirion Ranger,Visions,vis
 1,Quicksilver Amulet,Urza's Legacy,ulg
-1,Pyroblast,Fifth Edition,5ed
 1,Priest of Titania,Urza's Saga,usg
 1,Phyrexian Reclamation,Urza's Legacy,ulg
 1,Phyrexian Arena,Apocalypse,apc
@@ -1203,7 +1257,6 @@ Quantity,Name,Edition Name,Edition Code
 1,Chain of Vapor,Onslaught,ons
 1,Caves of Koilos,Tenth Edition,10e
 1,Cavern of Souls,Avacyn Restored,avr
-1,Cathartic Reunion,Kaladesh,kld
 1,Cascade Bluffs,Masters 25,a25
 1,Caller of the Claw,Legions,lgn
 1,Caged Sun,New Phyrexia,nph
