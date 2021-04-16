@@ -17,9 +17,7 @@
 1,Chaos Warp
 1,Flooded Strand
 1,Polluted Delta
-1,Wooded Foothills
 1,Rolling Earthquake
-1,Shivan Reef
 1,Marchesa's Smuggler
 1,Fact or Fiction
 1,Homeward Path
@@ -46,7 +44,6 @@
 1,Soul's Fire
 1,Tolaria West
 1,Fatal Frenzy
-1,Academy Ruins
 1,Karplusan Minotaur
 1,Stitch in Time
 1,Fellwar Stone
@@ -82,9 +79,11 @@
 1,Seize the Day
 1,Molten Birth
 1,Game of Chaos
-6,Snow-Covered Mountain
+7,Snow-Covered Mountain
 6,Snow-Covered Island
-1,Prismatic Vista
 1,Fiery Islet
 1,Temple of Epiphany
 1,Lightning Greaves
+1,Shivan Reef
+1,Academy Ruins
+1,Training Center

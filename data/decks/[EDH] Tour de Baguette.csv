@@ -13,8 +13,6 @@
 1,Thought Vessel
 1,Containment Priest
 1,Flooded Strand
-1,Polluted Delta
-1,Windswept Heath
 1,Cloud of Faeries
 1,Rescind
 1,Hallowed Fountain
@@ -27,7 +25,6 @@
 1,Command Tower
 1,Arid Mesa
 1,Marsh Flats
-1,Misty Rainforest
 1,Scalding Tarn
 1,Tolaria West
 1,Sacred Foundry
@@ -40,6 +37,7 @@
 1,Mage's Guile
 1,Miscalculation
 1,Ancient Tomb
+1,Sea of Clouds
 1,"Jace, Wielder of Mysteries"
 1,Prismatic Vista
 1,Secluded Steppe
@@ -90,3 +88,5 @@
 1,Drake Haven
 1,Raugrin Triome
 1,Frostveil Ambush
+1,Training Center
+1,Spectator Seating

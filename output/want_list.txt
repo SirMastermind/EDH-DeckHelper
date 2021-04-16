@@ -1,157 +1,231 @@
-Academy Ruins
+Adrix and Nev, Twincasters
+Aether Mutation
+Alchemist's Refuge
 Alhammarret's Archive
-Aluren
+Alrund's Epiphany
+Ancient Greenwarden
 Angelsong
 Apex Altisaur
 Arcum Dagsson
 Argothian Enchantress
+Armorcraft Judge
+Ashaya, Soul of the Wild
 Assassin's Trophy
-Badlands
-Bayou
-Beast Whisperer
-Blast Zone
+Awakening Zone
+Azusa, Lost but Seeking
+Barkchannel Pathway // Tidechannel Pathway
+Blessing of Frost
+Blightstep Pathway // Searstep Pathway
 Bloom Tender
 Boseiju, Who Shelters All
 Bountiful Promenade
 Bribery
-Brushland
 Cabal Coffers
 Caltrops
-Castle Ardenvale
-Cathars' Crusade
+Castle Vantress
 Censor
 Chance Encounter
+Clearwater Pathway // Murkwater Pathway
 Clever Impersonator
 Cloud of Faeries
 Complicate
-Consecrated Sphinx
 Copy Artifact
-Counterbalance
 Countervailing Winds
+Crafty Cutpurse
+Cragcrown Pathway // Timbercrown Pathway
+Crowned Ceratok
 Culling the Weak
-Cut // Ribbons
+Curiosity Crafter
+Curse of the Swine
 Daretti, Scrap Savant
+Darkbore Pathway // Slitherbore Pathway
 Darksteel Forge
+Death's Presence
+Deekah, Fractal Theorist
+Deep Forest Hermit
+Deflecting Swat
 Demonic Consultation
 Diluvian Primordial
-Divergent Transformations
 Dockside Extortionist
-Drannith Stinger
-Drown in the Loch
+Double Major
+Doubling Season
 Eerie Interlude
-Elsha of the Infinite
+Elderfang Ritualist
+Elderfang Venom
+Elven Ambush
+Elvish Promenade
+Elvish Warmaster
+Emrakul's Evangel
 Endless Ranks of the Dead
 Erebos, God of the Dead
-Etali, Primal Storm
+Esix, Fractal Bloom
 Exploration
 Exquisite Blood
 Exsanguinate
-Fabled Passage
+Ezuri's Predation
+Field of the Dead
 Finale of Devastation
-Flame Sweep
 Force of Negation
 Force of Vigor
+Forgotten Ancient
 Forsake the Worldly
 Fraying Sanity
-Frostveil Ambush
+Garruk, Unleashed
 General Kudro of Drannith
 Gibbering Descent
 Gilded Drake
 Gilded Light
-Grindstone
+Gilt-Leaf Palace
+Glasspool Mimic // Glasspool Shore
+Golgari Findbroker
+Growth Spiral
+Guardian Project
+Guardian of Tazeem
+Gyre Sage
+Harald Unites the Elves
+Harvest Season
 Hatred
+Hengegate Pathway // Mistgate Pathway
 Horizon Canopy
-Humility
+Hornet Queen
+Hullbreacher
 Imp's Mischief
 Imperial Seal
-Indatha Tiome
-Infernal Contract
-Island
+Inspiring Call
 Island Sanctuary
-Jace, the Mind Sculptor
-Jeweled Amulet
+Jeska's Will
+Jeweled Lotus
+Jiang Yanggu, Wildcrafter
 Kambal, Consul of Allocation
+Karametra's Acolyte
 Karplusan Forest
 Ketria Triome
-Kindred Discovery
+Khalni Garden
 Kokusho, the Evening Star
 Kor Haven
-Kykar, Wind's Fury
+Krosan Grip
+Lathril, Blade of the Elves
 Life's Finale
-Liliana of the Veil
 Limits of Solidarity
 Lion's Eye Diamond
+Littjara Mirrorlake
+Lotus Cobra
+Loyal Guardian
+Lumbering Falls
 Mage's Guile
+Maskwood Nexus
+Master of Waves
+Miara, Thorn of the Glade
+Migration Path
 Mind Grind
 Miscalculation
+Mistcutter Hydra
 Mnemonic Betrayal
+Mox Amber
+Nacatl War-Pride
 Narset, Parter of Veils
+Needleverge Pathway // Pillarverge Pathway
 Neoform
 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+Nissa, Genesis Mage
+Nissa, Vital Force
+Nissa, Who Shakes the World
 Noble Hierarch
+Notorious Throng
 Noxious Revival
-Oakhame Adversary
-Painter's Servant
-Plateau
-Plunge into Darkness
+Opposition Agent
+Oran-Rief Ooze
+Oran-Rief, the Vastwood
+Pact of the Serpent
+Peer into the Abyss
+Phantasmal Image
+Phyrexian Tower
+Poison-Tip Archer
+Pollenbright Druid
 Polyraptor
-Power Artifact
+Primal Vigor
 Prismatic Vista
 Psychotic Episode
 Psychotic Haze
-Rampaging Brontodon
+Putrefy
+Quest for Renewal
+Ram Through
+Rampant Growth
+Rapid Hybridization
 Raugrin Triome
 Regal Behemoth
+Rejuvenating Springs
+Renata, Called to the Hunt
 Replenish
+Replicating Ring
 Rescind
-Rielle, the Everwise
+Return Upon the Tide
 Rise of the Dark Realms
-Rough // Tumble
+Risen Reef
+Rishkar, Peema Renegade
+Rite of Replication
+Roil Elemental
+Ruin Crab
 Runic Armasaur
 Sacred Excavation
-Saprazzan Skerry
-Savannah
-Scrubland
+Scute Swarm
+Second Harvest
+Seed the Land
 Sepulchral Primordial
 Serra's Sanctum
-Shark Typhoon
+Sevinne's Reclamation
 Shredded Sails
+Skemfar Elderhall
+Skemfar Shadowsage
+Skittering Invasion
+Slurrk, All-Ingesting
+Solidarity of Heroes
 Solitary Confinement
-Spellskite
+Soul-Guide Lantern
+Spawning Bed
+Sporemound
 Starstorm
 Stitch in Time
 Sulfurous Springs
 Sunbaked Canyon
 Sunken Ruins
 Sweltering Suns
+Sword of Truth and Justice
 Sylvan Library
-Taiga
+Sylvan Offering
 Tarnished Citadel
-Teferi, Hero of Dominaria
+Teferi, Master of Time
+Tendershoot Dryad
+Thrasios, Triton Hero
+Three Visits
+Throne of the God-Pharaoh
 Timetwister
+Toski, Bearer of Secrets
 Training Grounds
 Transmute Artifact
-Trapjaw Tyrant
-Tropical Island
-Tundra
+Tuskguard Captain
 Tymna the Weaver
 Unbreakable Formation
 Underground River
-Underground Sea
+Undergrowth Champion
+Undergrowth Stadium
 Underworld Breach
 Unspeakable Symbol
-Urza's Incubator
-Urza, Lord High Artificer
-Vault of the Archangel
+Vault of Champions
 Vedalken Archmage
 Veil of Summer
-Vexing Shusher
-Volcanic Island
+Vineglimmer Snarl
+Vivien, Monsters' Advocate
+Vorinclex, Monstrous Raider
 Waste Not
 Wasteland
 Wastes
 Wheel of Fortune
+Whiptongue Hydra
 Woodland Bellower
 Wound Reflection
+Wrap in Vigor
 Yidaro, Wandering Monster
+Yorvo, Lord of Garenbrig
 Zacama, Primal Calamity
+Zendikar's Roil
