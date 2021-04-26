@@ -1,4 +1,7 @@
 Quantity,Name,Edition Name,Edition Code
+1,Dragonlord's Servant,Tarkir Dragonfury,ptkdf
+1,Wrap in Vigor,Future Sight,fut
+1,Deep Forest Hermit,Modern Horizons,mh1
 1,Skittering Invasion,Rise of the Eldrazi,roe
 1,Gilded Light,Modern Horizons,mh1
 1,Angelsong,Shards of Alara,ala
@@ -12,10 +15,8 @@ Quantity,Name,Edition Name,Edition Code
 1,Master Biomancer,Commander 2021,c21
 1,"Kaseto, Orochi Archmage",Commander 2021,c21
 1,Biomass Mutation,Commander 2021,c21
-1,Return of the Wildspeaker,Commander 2021,c21
 1,Managorger Hydra,Commander 2021,c21
 1,Kazandu Tuskcaller,Commander 2021,c21
-1,Incubation Druid,Commander 2021,c21
 1,Hydra Broodmaster,Commander 2021,c21
 1,Hornet Queen,Commander 2021,c21
 1,Hornet Nest,Commander 2021,c21
@@ -332,7 +333,7 @@ Quantity,Name,Edition Name,Edition Code
 1,Ichor Slick,Future Sight,fut
 1,Thassa's Oracle,Theros Beyond Death,thb
 1,Mystic Forge,Core Set 2020,m20
-1,Herald's Horn,Commander 2017,c17
+1,Herald's Horn,Mystery Booster,mb1
 1,"Tajic, Legion's Edge",Guilds of Ravnica,grn
 1,Emergence Zone,War of the Spark,war
 1,Moltensteel Dragon,New Phyrexia,nph

@@ -101,7 +101,8 @@ else:
                 i += 1
         print("There is no deck with that number.")
     elif (sys.argv[1] == "all"):
-        output = open("./output/want_list.txt", 'w')
+        output = open("./output/want_list.csv", 'w')
+        output.write("card" + '\n')
         output_df = pd.DataFrame(columns=['Name'])
         for file in os.listdir("./data/decks"):
             if file.endswith(".csv"):

@@ -9,12 +9,10 @@
 1,Enlightened Tutor
 1,Mystical Tutor
 1,Mana Crypt
-9,Wastes
 1,Thought Vessel
 1,Containment Priest
 1,Flooded Strand
 1,Cloud of Faeries
-1,Rescind
 1,Hallowed Fountain
 1,Steam Vents
 1,Elixir of Immortality
@@ -26,6 +24,7 @@
 1,Arid Mesa
 1,Marsh Flats
 1,Scalding Tarn
+1,Angelsong
 1,Tolaria West
 1,Sacred Foundry
 1,Fellwar Stone
@@ -39,7 +38,9 @@
 1,Ancient Tomb
 1,Sea of Clouds
 1,"Jace, Wielder of Mysteries"
-1,Prismatic Vista
+2,Snow-Covered Mountain
+6,Snow-Covered Island
+2,Snow-Covered Plains
 1,Secluded Steppe
 1,Lonely Sandbar
 1,Hall of Heliod's Generosity
@@ -52,7 +53,6 @@
 1,Ash Barrens
 1,Alhammarret's Archive
 1,Forsake the Worldly
-1,Angelsong
 1,Idyllic Tutor
 1,Thassa's Oracle
 1,Drannith Stinger
@@ -69,6 +69,7 @@
 1,Dismantling Wave
 1,Astral Drift
 1,Fluctuator
+1,Go for Blood
 1,Fierce Guardianship
 1,Decree of Justice
 1,Cast Out
