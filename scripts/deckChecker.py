@@ -87,7 +87,7 @@ else:
                             if file.endswith(".csv") and "._" not in file:
                                 fname = "./data/collection/" + file
                         collection_df = pd.read_csv(fname, delimiter=',')
-                        collection_df.drop(['Quantity', 'Edition Name', 'Edition Code'], inplace=True, axis=1)
+                        collection_df = collection_df[['Quantity','Name']]
                         merged_inner = pd.merge(left=collection_df, right=deck_df, left_on='Name', right_on='Name')
 
                     diff_df = deck_df[(~deck_df['Name'].isin(merged_inner['Name']))]
@@ -118,7 +118,7 @@ else:
                     if file.endswith(".csv") and "._" not in file:
                         fname = "./data/collection/" + file
                 collection_df = pd.read_csv(fname, delimiter=',')
-                collection_df.drop(['Quantity', 'Edition Name', 'Edition Code'], inplace=True, axis=1)
+                collection_df = collection_df[['Quantity','Name']]
                 merged_inner = pd.merge(left=collection_df, right=deck_df, left_on='Name', right_on='Name')
 
                 diff_df = deck_df[(~deck_df['Name'].isin(merged_inner['Name']))]
