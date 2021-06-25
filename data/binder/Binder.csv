@@ -108,7 +108,7 @@
 107;Necroblossom Snarl;
 108;Port Town;
 109;Shineshadow Snarl;
-110;Vineglimmer Snarl;
+110;Vineglimmer Snarl;1
 111;Indatha Tiome;1
 112;Ketria Triome;1
 113;Raugrin Triome;1
@@ -284,7 +284,7 @@
 283;Spellseeker;1
 284;Thassa's Oracle;1
 285;Jace, Wielder of Mysteries;1
-286;Narset, Parter of Veils;
+286;Narset, Parter of Veils;1
 287;Teferi, Master of Time;
 288;Tezzeret the Seeker;1
 289;Copy Artifact;
@@ -475,7 +475,7 @@
 474;Rakdos Charm;1
 475;Terminate;1
 476;Wear // Tear;1
-477;Neoform;
+477;Neoform;1
 478;Supreme Verdict;1
 479;;
 480;;

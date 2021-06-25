@@ -2,11 +2,8 @@
 1,Woodland Cemetery
 1,Myriad Landscape
 1,"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun"
-1,Herald's Horn
-1,Harvest Season
 1,Throne of the God-Pharaoh
 1,Heroic Intervention
-1,Krosan Grip
 1,Shamanic Revelation
 1,Reclamation Sage
 1,Llanowar Wastes
@@ -28,7 +25,6 @@
 1,Joraga Warcaller
 1,Quest for Renewal
 1,Beastmaster Ascension
-1,Elvish Promenade
 1,Immaculate Magistrate
 1,Imperious Perfect
 1,Lys Alana Huntmaster
@@ -53,16 +49,17 @@
 1,Golgari Findbroker
 1,Guardian Project
 1,Finale of Devastation
-17,Snow-Covered Forest
+16,Snow-Covered Forest
 2,Snow-Covered Swamp
 1,Llanowar Tribe
 1,Temple of Malady
 1,Lightning Greaves
-1,Putrefy
+1,Herald's Horn
 1,Arcane Signet
 1,Path of Ancestry
 1,Doubling Season
 1,Undergrowth Stadium
+1,"Miara, Thorn of the Glade"
 1,Darkbore Pathway // Slitherbore Pathway
 1,Elven Ambush
 1,Elderfang Ritualist
@@ -79,5 +76,9 @@
 1,Haunting Voyage
 1,Pact of the Serpent
 1,Elderfang Venom
-1,"Miara, Thorn of the Glade"
+1,Harvest Season
+1,Elvish Promenade
 1,Poison-Tip Archer
+1,Putrefy
+1,Krosan Grip
+1,"Yavimaya, Cradle of Growth"

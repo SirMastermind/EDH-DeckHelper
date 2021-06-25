@@ -1,4 +1,46 @@
 Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse Id,Scryfall ID,MTGO ID,
+1,Diluvian Primordial,False,NM,EN,,Commander 2021,c21,519155,eb580daa-0cf3-4816-b8c5-49927682a91d,89341,120
+1,Double Major,False,NM,EN,,Strixhaven: School of Mages,stx,513671,c3d35413-8742-4443-8859-93c91112978d,88865,179
+1,Psychotic Episode,False,NM,EN,,Time Spiral Remastered,tsr,509497,fa6d8c51-bff9-4eba-8c1b-2d45b7635c52,0,132
+1,Elvish Promenade,False,NM,EN,,Kaldheim Commander,khc,508349,20602cb8-f925-4de0-ad4b-86d0f5514384,0,59
+1,Harvest Season,False,NM,EN,,Kaldheim Commander,khc,508353,326b5fad-bb8d-4019-84a8-1a319a14962e,0,63
+1,Elderfang Venom,False,NM,EN,,Kaldheim Commander,khc,508161,7d5bbb02-a04e-4add-ae9a-67819cffdb3a,0,15
+1,Pact of the Serpent,False,NM,EN,,Kaldheim Commander,khc,508155,c5b3d118-ba4b-4a93-92a2-cd763de49d29,0,9
+1,"Lathril, Blade of the Elves",False,NM,EN,,Kaldheim Commander,khc,508147,547888c3-a9a6-4413-b29a-6bcd8a9279bf,0,1
+1,Elderfang Ritualist,False,NM,EN,,Kaldheim,khm,506927,57348f93-8764-4b1a-b02e-4e7881337fa2,87293,385
+1,Elvish Warmaster,False,NM,EN,,Kaldheim,khm,507231,3e59380e-2c82-46a9-9749-4dcb978d5419,0,363
+1,Littjara Mirrorlake,False,NM,EN,,Kaldheim,khm,503884,6bf2bb3e-828f-4d53-9d0a-26bbc5e7f3cc,87879,264
+1,Replicating Ring,False,NM,EN,,Kaldheim,khm,503860,b079e285-8431-46aa-bb04-70cac586ed0b,87831,244
+1,Skemfar Shadowsage,False,NM,EN,,Kaldheim,khm,503719,c204130f-0483-49ed-8512-03a74894702e,87549,110
+1,Harald Unites the Elves,False,NM,EN,,Kaldheim,khm,503829,e7c5f681-0145-45e9-b943-ca9784cfdea0,87769,213
+1,Blessing of Frost,False,NM,EN,,Kaldheim,khm,503774,42f01f4d-491e-4f25-a017-a0d9c437ac8c,87659,161
+1,"Slurrk, All-Ingesting",False,NM,EN,,Commander Legends,cmr,497776,4da14a82-0c33-4319-9af5-390013ccbe19,85294,256
+1,Armorcraft Judge,False,NM,EN,,Commander Legends,cmr,497738,4e1483d4-bb91-4bf9-a57f-dd46fa31056b,85218,218
+1,Tuskguard Captain,False,NM,EN,,Zendikar Rising Commander,znc,496023,1faffaf0-6be6-458f-b0f1-e3e74627c406,0,85
+1,Shredded Sails,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479656,8b10219a-aa72-4431-9a6a-984109a605c8,80281,136
+1,Migration Path,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479684,d345ca63-16a3-4988-93f5-d0e00e8d6ab0,80337,164
+1,Crowned Ceratok,False,NM,EN,,Mystery Booster,mb1,0,e63308fc-40b6-40f5-a0a8-d0ca06d83de5,0,1174
+1,"Jiang Yanggu, Wildcrafter",False,NM,EN,,War of the Spark,war,461091,10e0d47d-b13c-4d48-881f-8aaa347ef209,71934,164
+1,Emrakul's Evangel,False,NM,EN,,Eldritch Moon,emn,414457,51c21822-972f-4c20-ac3b-80ba9af101c5,61500,156
+1,Starstorm,False,NM,EN,,Commander 2014,c14,389692,4327f5bd-e2e6-40de-82c3-853a23b4ddc8,55097,182
+1,Vineglimmer Snarl,False,NM,EN,,Strixhaven: School of Mages,stx,513766,f77e5ca7-dde1-435f-9b40-87558dd88749,89055,274
+1,"Toski, Bearer of Secrets",False,NM,EN,,Kaldheim,khm,507673,08eb31f3-7686-4d6b-a0e4-5d6ece6fba82,0,319
+1,Soul-Guide Lantern,False,NM,EN,,Theros Beyond Death,thb,476488,7c850b94-75c9-4457-8b5e-1193352d6fcb,79598,237
+1,Skemfar Elderhall,False,NM,EN,,Kaldheim,khm,503888,82c2a0f7-0f53-4627-8be8-227fde331a69,87887,268
+1,"Renata, Called to the Hunt",False,NM,EN,,Theros Beyond Death,thb,476447,2b27e6b2-13ad-42b2-a121-70935913723d,79516,196
+1,Ram Through,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479690,ac0b24e7-14e7-45ee-b5d8-bdb8674b669c,80349,170
+1,Putrefy,False,NM,EN,,Strixhaven Mystical Archive,sta,517613,3882ebea-2864-40ef-a21d-6ba80a0bd417,89183,63
+1,Neoform,False,NM,EN,,War of the Spark,war,461133,92d8f67e-4f2f-4a1f-b190-7c3f39e477e4,72018,206
+1,"Narset, Parter of Veils",False,NM,EN,,War of the Spark,war,460988,8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5,71728,61
+1,"Miara, Thorn of the Glade",False,NM,EN,,Commander Legends,cmr,497653,41a76adc-42e1-4f65-940c-d0a5555c0633,85048,133
+1,Maskwood Nexus,False,NM,EN,,Kaldheim,khm,503856,471d2aef-cfd4-4131-bbc7-62eeed9f3343,87823,240
+1,Lotus Cobra,False,NM,EN,,Zendikar Rising,znr,495204,151bdf3a-4445-43b1-8cea-2737c13d9dee,0,307
+1,Growth Spiral,False,NM,EN,,Ravnica Allegiance,rna,457322,7c77a6b1-ef06-4da5-8e86-a5204216cb77,71356,178
+1,Golgari Findbroker,False,NM,EN,,Guilds of Ravnica,grn,452925,e12bd0e5-db96-4340-9b04-6855fd0fd8b9,69723,175
+1,Glasspool Mimic // Glasspool Shore,False,NM,EN,,Zendikar Rising,znr,491688,5adcb500-8c77-4925-8e2c-1243502827d1,83069,60
+1,Castle Vantress,False,NM,EN,,Throne of Eldraine,eld,473204,0a8b9d37-e89c-44ad-bd1b-51cb06ec3e0b,78630,242
+1,"Azusa, Lost but Seeking",False,NM,EN,,Core Set 2021,m21,485496,0b8aff2c-1f7b-4507-b914-53f8c4706b3d,81573,173
+1,Ancient Greenwarden,False,NM,EN,,Zendikar Rising,znr,491823,dfe08e59-fdc4-436f-b05c-6ad386c46310,83339,178
 1,"Vorinclex, Monstrous Raider",False,NM,EN,,Kaldheim,khm,507640,dd4b4019-b73d-4be3-991e-2deb811ee675,0,333
 1,Dragonlord's Servant,False,NM,PT,,Tarkir Dragonfury,ptkdf,0,ce134b85-2cbd-4dab-b233-040fd1f31765,0,138
 1,Wrap in Vigor,False,NM,PT,,Future Sight,fut,130331,070d438a-ce68-480b-bdfc-1fc3e151e5f8,26680,141
@@ -584,7 +626,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Narset's Reversal,False,NM,EN,,War of the Spark,war,460989,63754036-d51e-47bb-925b-564d9dc922ff,71730,62
 1,Exotic Orchard,False,NM,EN,,Conflux,con,189273,6aae6480-4e71-4d94-a648-f80d3849d792,31939,142
 1,Dovin's Veto,False,NM,EN,,War of the Spark,war,461120,5d6b5054-2224-4f68-9d82-3ed17c5dacc4,71992,193
-1,Opt,False,NM,EN,,Dominaria,dom,442948,25f2e4d0-effd-4e83-b7aa-1a0d8f120951,67585,60
+1,Opt,False,NM,EN,,Strixhaven Mystical Archive,sta,517569,ab59ac4f-2a77-4566-85c0-32666447dcf2,89095,19
 1,"Liliana, Dreadhorde General",False,NM,EN,,War of the Spark,war,461024,d75ebba8-34ca-47a0-bf13-8318ad73b343,71800,97
 1,"Kasmina, Enigmatic Mentor",False,NM,EN,,War of the Spark,war,460983,c77d9454-a78c-4063-ad66-46b2f5a030aa,71718,56
 1,Sunpetal Grove,False,NM,EN,,Magic 2012,m12,221923,0c0e02be-e41f-49b4-8393-c4cd2992e380,41229,229
@@ -1323,7 +1365,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Dack Fayden,False,NM,EN,,Eternal Masters,ema,413741,10158a5e-5a03-41ab-85d2-0907ccf32c9b,60731,199
 1,Cyclonic Rift,False,NM,EN,,Modern Masters 2017,mm3,425860,268f6afc-bf16-4ca7-a986-945a95d3bffc,63403,35
 1,Cursed Totem,False,NM,EN,,Mirage,mir,3247,cc99ee76-45b6-4f1d-b0b0-7da8775ca90c,6885,299
-1,Cultivate,False,NM,EN,,Magic 2011,m11,204996,2ef3dbe4-5c03-4be4-ab48-45b6689b6712,37350,168
+1,Cultivate,False,NM,EN,,Strixhaven Mystical Archive,sta,517601,b3896717-1e46-4aa2-88b7-1c4fe76edde1,89159,51
 1,Crystal Vein,False,NM,EN,,Mirage,mir,3571,1afb6e29-058e-44c5-a3fa-56c462f070a0,6883,325
 1,Cruel Ultimatum,False,NM,EN,,Shards of Alara,ala,175079,0d267804-23de-4521-ae64-4dd5cd836c6c,31147,164
 1,Crucible of Worlds,False,NM,EN,,Tenth Edition,10e,129480,fcc887b1-299e-49f2-94ab-7c3fb24b1432,27627,319
