@@ -97,17 +97,17 @@
 96;Cragcrown Pathway // Timbercrown Pathway;
 97;Darkbore Pathway // Slitherbore Pathway;
 98;Hengegate Pathway // Mistgate Pathway;
-99;Needleverge Pathway // Pillarverge Pathway;
+99;Needleverge Pathway // Pillarverge Pathway;1
 100;Riverglide Pathway // Lavaglide Pathway;1
 101;Choked Estuary;
 102;Foreboding Ruins;
 103;Fortified Village;
-104;Frostboil Snarl;
-105;Furycalm Snarl;
+104;Frostboil Snarl;1
+105;Furycalm Snarl;1
 106;Game Trail;
-107;Necroblossom Snarl;
+107;Necroblossom Snarl;1
 108;Port Town;
-109;Shineshadow Snarl;
+109;Shineshadow Snarl;1
 110;Vineglimmer Snarl;1
 111;Indatha Tiome;1
 112;Ketria Triome;1
@@ -363,7 +363,7 @@
 362;Diabolic Intent;1
 363;Imperial Seal;
 364;Living Death;1
-365;Peer into the Abyss;
+365;Peer into the Abyss;1
 366;Praetor's Grasp;1
 367;Reanimate;1
 368;Toxic Deluge;1
