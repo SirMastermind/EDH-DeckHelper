@@ -1,6 +1,7 @@
 1,Mana Drain
 1,Mind Stone
 1,Countervailing Winds
+1,Forsake the Worldly
 1,Censor
 1,Sacred Excavation
 1,Limits of Solidarity
@@ -11,12 +12,12 @@
 1,Mana Crypt
 1,Thought Vessel
 1,Containment Priest
+1,Starstorm
 1,Flooded Strand
 1,Cloud of Faeries
 1,Hallowed Fountain
 1,Steam Vents
 1,Elixir of Immortality
-1,Reliquary Tower
 1,Laboratory Maniac
 1,Akroma's Vengeance
 1,Sol Ring
@@ -38,9 +39,9 @@
 1,Ancient Tomb
 1,Sea of Clouds
 1,"Jace, Wielder of Mysteries"
-2,Snow-Covered Mountain
-6,Snow-Covered Island
-2,Snow-Covered Plains
+1,Snow-Covered Mountain
+4,Snow-Covered Island
+1,Snow-Covered Plains
 1,Secluded Steppe
 1,Lonely Sandbar
 1,Hall of Heliod's Generosity
@@ -51,8 +52,6 @@
 1,Bag of Holding
 1,Dockside Extortionist
 1,Ash Barrens
-1,Alhammarret's Archive
-1,Forsake the Worldly
 1,Idyllic Tutor
 1,Thassa's Oracle
 1,Drannith Stinger
@@ -75,12 +74,12 @@
 1,Cast Out
 1,Smoldering Crater
 1,Remote Isle
+1,Reliquary Tower
 1,Irrigated Farmland
 1,Drifting Meadow
 1,Desert of the True
 1,Desert of the Fervent
 1,Desert of the Mindful
-1,Starstorm
 1,Slice and Dice
 1,Vizier of Tumbling Sands
 1,New Perspectives
@@ -91,3 +90,8 @@
 1,Frostveil Ambush
 1,Training Center
 1,Spectator Seating
+1,Riverglide Pathway // Lavaglide Pathway
+1,Needleverge Pathway // Pillarverge Pathway
+1,Hengegate Pathway // Mistgate Pathway
+1,Alhammarret's Archive
+1,Deserted Beach

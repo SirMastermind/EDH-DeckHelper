@@ -1,0 +1,206 @@
+Abrade
+Abrupt Decay
+Ad Nauseam
+Ancient Tomb
+Animate Dead
+Arbor Elf
+Arcane Signet
+Arid Mesa
+Assassin's Trophy
+Avacyn's Pilgrim
+Aven Mindcensor
+Badlands
+Bayou
+Birds of Paradise
+Blood Crypt
+Blood Moon
+Bloodstained Mire
+Bloom Tender
+Brain Freeze
+Brainstorm
+Breeding Pool
+Cabal Ritual
+Carpet of Flowers
+Cavern of Souls
+Cephalid Coliseum
+Chain of Vapor
+Chord of Calling
+Chrome Mox
+City of Brass
+Collector Ouphe
+Command Tower
+Copy Artifact
+Counterspell
+Crop Rotation
+Culling the Weak
+Cursed Totem
+Cyclonic Rift
+Dance of the Dead
+Dark Confidant
+Dark Ritual
+Deathrite Shaman
+Deflecting Swat
+Delay
+Demonic Consultation
+Demonic Tutor
+Diabolic Intent
+Dimir Signet
+Dispel
+Dockside Extortionist
+Dovin's Veto
+Dramatic Reversal
+Drannith Magistrate
+Eladamri's Call
+Eldritch Evolution
+Elves of Deep Shadow
+Elvish Mystic
+Elvish Spirit Guide
+Emergence Zone
+Enlightened Tutor
+Entomb
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Fiery Islet
+Finale of Devastation
+Fire Covenant
+Flooded Strand
+Flusterstorm
+Forbidden Orchard
+Force of Negation
+Force of Vigor
+Force of Will
+Frantic Search
+Fyndhorn Elves
+Gaea's Cradle
+Gamble
+Gemstone Caverns
+Gilded Drake
+Gitaxian Probe
+Godless Shrine
+Grand Abolisher
+Green Sun's Zenith
+Grim Monolith
+Hallowed Fountain
+Hullbreacher
+Imperial Recruiter
+Imperial Seal
+Intuition
+Inventors' Fair
+Isochron Scepter
+Jeska's Will
+Jeweled Lotus
+Laboratory Maniac
+Lim-Dûl's Vault
+Lion's Eye Diamond
+Llanowar Elves
+Lotus Petal
+Luxury Suite
+Mana Confluence
+Mana Crypt
+Mana Drain
+Mana Vault
+Marsh Flats
+Mental Misstep
+Merchant Scroll
+Miscast
+Misty Rainforest
+Morphic Pool
+Mox Amber
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Narset's Reversal
+Nature's Claim
+Necromancy
+Necropotence
+Negate
+Neoform
+Noble Hierarch
+Notion Thief
+Noxious Revival
+Nurturing Peatland
+Opposition Agent
+Overgrown Tomb
+Pact of Negation
+Peer into the Abyss
+Phantasmal Image
+Phyrexian Tower
+Plateau
+Polluted Delta
+Ponder
+Praetor's Grasp
+Preordain
+Priest of Titania
+Prismatic Vista
+Pyroblast
+Rain of Filth
+Ranger-Captain of Eos
+Reanimate
+Red Elemental Blast
+Rejuvenating Springs
+Rhystic Study
+Rite of Flame
+Savannah
+Scalding Tarn
+Scrubland
+Sensei's Divining Top
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Smothering Tithe
+Snap
+Sol Ring
+Spell Pierce
+Spellseeker
+Spire of Industry
+Steam Vents
+Stomping Ground
+Survival of the Fittest
+Swan Song
+Swords to Plowshares
+Sylvan Library
+Taiga
+Tainted Pact
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Progress
+Tarnished Citadel
+Teferi, Master of Time
+Temple Garden
+Thassa's Oracle
+Thrasios, Triton Hero
+Timetwister
+Toxic Deluge
+Training Center
+Transmute Artifact
+Tropical Island
+Tundra
+Tymna the Weaver
+Underground River
+Underground Sea
+Undergrowth Stadium
+Underworld Breach
+Urborg, Tomb of Yawgmoth
+Utopia Sprawl
+Vampiric Tutor
+Veil of Summer
+Verdant Catacombs
+Volcanic Island
+Waterlogged Grove
+Watery Grave
+Wheel of Fortune
+Wheel of Misfortune
+Wild Growth
+Windfall
+Winds of Rebuke
+Windswept Heath
+Wishclaw Talisman
+Wooded Foothills
+Worldly Tutor
+Yawgmoth's Will

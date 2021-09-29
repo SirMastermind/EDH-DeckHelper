@@ -6,6 +6,7 @@
 1,"Nicol Bolas, God-Pharaoh"
 1,Basalt Monolith
 1,Cyclonic Rift
+1,Dark Intimations
 1,Inventors' Fair
 1,Counterspell
 1,Mystical Tutor
@@ -16,22 +17,17 @@
 1,Ob Nixilis Reignited
 1,"Jace, Vryn's Prodigy // Jace, Telepath Unbound"
 1,Tezzeret the Seeker
-1,Flooded Strand
-1,Polluted Delta
 1,Rolling Earthquake
 1,The Chain Veil
 1,"Urborg, Tomb of Yawgmoth"
 1,Mana Confluence
 1,Swan Song
-1,Ral Zarek
 1,Watery Grave
 1,Vandalblast
 1,Chromatic Lantern
 1,Steam Vents
-1,Reliquary Tower
 1,"Nicol Bolas, Planeswalker"
 1,Dragonskull Summit
-1,Rakdos Signet
 1,Sol Ring
 1,Command Tower
 1,Torpor Orb
@@ -39,11 +35,6 @@
 1,Liliana Vess
 1,Voltaic Key
 1,Drowned Catacomb
-1,Arid Mesa
-1,Marsh Flats
-1,Misty Rainforest
-1,Scalding Tarn
-1,Verdant Catacombs
 1,Fabricate
 1,Demonic Tutor
 1,Rings of Brighthearth
@@ -55,7 +46,6 @@
 1,Talisman of Dominance
 1,Talisman of Indulgence
 1,Vault of Whispers
-1,Bloodstained Mire
 1,Brainstorm
 1,Grim Monolith
 1,Yawgmoth's Will
@@ -79,7 +69,6 @@
 1,"Tezzeret, Master of the Bridge"
 1,"Liliana, Dreadhorde General"
 1,Karn's Bastion
-1,"Ral, Storm Conduit"
 1,"Kasmina, Enigmatic Mentor"
 1,"Saheeli, Sublime Artificer"
 1,"Chandra, Fire Artisan"
@@ -90,8 +79,16 @@
 1,Deliver Unto Evil
 1,Command the Dreadhorde
 1,Sarkhan the Masterless
-2,Snow-Covered Mountain
-2,Snow-Covered Swamp
-2,Snow-Covered Island
+3,Snow-Covered Mountain
+3,Snow-Covered Swamp
+3,Snow-Covered Island
 1,Talisman of Creativity
+1,"Ashiok, Nightmare Muse"
+1,Reliquary Tower
+1,Rakdos Signet
 1,Training Center
+1,Drossforge Bridge
+1,Mistvault Bridge
+1,Silverbluff Bridge
+1,Haunted Ridge
+1,Shipwreck Marsh

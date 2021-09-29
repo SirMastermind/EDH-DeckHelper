@@ -20,7 +20,6 @@
 1,Gavony Township
 1,Sunpetal Grove
 1,Path to Exile
-1,Orzhov Signet
 1,Sol Ring
 1,Command Tower
 1,Beast Within
@@ -30,7 +29,6 @@
 1,Llanowar Elves
 1,Caves of Koilos
 1,Essence Warden
-1,Into the North
 1,Godless Shrine
 1,Elves of Deep Shadow
 1,Golgari Signet
@@ -45,13 +43,14 @@
 1,Smothering Tithe
 1,Bolas's Citadel
 1,"Sorin, Vengeful Bloodlord"
-5,Snow-Covered Forest
+4,Snow-Covered Forest
 3,Snow-Covered Swamp
 4,Snow-Covered Plains
 1,Lightning Greaves
 1,"Heliod, Sun-Crowned"
 1,Mythos of Nethroi
 1,Arcane Signet
+1,Orzhov Signet
 1,Eerie Ultimatum
 1,Indatha Triome
 1,"Vito, Thorn of the Dusk Rose"
@@ -68,18 +67,19 @@
 1,"Lathiel, the Bounteous Dawn"
 1,Darkbore Pathway // Slitherbore Pathway
 1,Crested Sunmare
+1,Into the North
 1,"Vorinclex, Monstrous Raider"
 1,"Willowdusk, Essence Seer"
 1,Cultivate
 1,"Valentin, Dean of the Vein // Lisette, Dean of the Root"
-1,Accomplished Alchemist
 1,"Dina, Soul Steeper"
 1,Beledros Witherbloom
 1,Mortality Spear
+1,Accomplished Alchemist
 1,Blossoming Bogbeast
-1,Veinwitch Coven
 1,Trudge Garden
 1,Ezzaroot Channeler
+1,Veinwitch Coven
 1,Myriad Landscape
 1,Well of Lost Dreams
 1,Alhammarret's Archive
@@ -89,3 +89,4 @@
 1,Nykthos Paragon
 1,"Trelasarra, Moon Dancer"
 1,Cleric Class
+1,Overgrown Farmland

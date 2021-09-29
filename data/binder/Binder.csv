@@ -67,8 +67,8 @@
 66;Spectator Seating;1
 67;Spire Garden;1
 68;Training Center;1
-69;Undergrowth Stadium;
-70;Vault of Champions;
+69;Undergrowth Stadium;1
+70;Vault of Champions;1
 71;Fiery Islet;1
 72;Horizon Canopy;
 73;Nurturing Peatland;1
@@ -89,17 +89,17 @@
 88;Temple of Plenty;1
 89;Temple of Silence ;1
 90;Temple of Triumph;1
-91;Barkchannel Pathway // Tidechannel Pathway;
+91;Barkchannel Pathway // Tidechannel Pathway;1
 92;Blightstep Pathway // Searstep Pathway;
 93;Branchloft Pathway // Boulderloft Pathway;1
 94;Brightclimb Pathway // Grimclimb Pathway;1
-95;Clearwater Pathway // Murkwater Pathway;
-96;Cragcrown Pathway // Timbercrown Pathway;
-97;Darkbore Pathway // Slitherbore Pathway;
-98;Hengegate Pathway // Mistgate Pathway;
+95;Clearwater Pathway // Murkwater Pathway;1
+96;Cragcrown Pathway // Timbercrown Pathway;1
+97;Darkbore Pathway // Slitherbore Pathway;1
+98;Hengegate Pathway // Mistgate Pathway;1
 99;Needleverge Pathway // Pillarverge Pathway;1
 100;Riverglide Pathway // Lavaglide Pathway;1
-101;Choked Estuary;
+101;Choked Estuary;1
 102;Foreboding Ruins;
 103;Fortified Village;
 104;Frostboil Snarl;1
@@ -109,138 +109,138 @@
 108;Port Town;
 109;Shineshadow Snarl;1
 110;Vineglimmer Snarl;1
-111;Indatha Tiome;1
-112;Ketria Triome;1
-113;Raugrin Triome;1
-114;Savai Triome;1
-115;Zagoth Triome;1
+111;Deserted Beach;
+112;Haunted Ridge;
+113;Overgrown Farmland;
+114;Rockfall Vale;
+115;Shipwreck Marsh;
 116;;
 117;;
 118;;
 119;;
 120;;
-121;Cavern of Souls;1
-122;City of Brass;1
-123;Command Tower;1
-124;Exotic Orchard;1
-125;Forbidden Orchard;1
-126;Mana Confluence;1
-127;Reflecting Pool;1
-128;Tarnished Citadel;
-129;Arid Mesa;1
-130;Bloodstained Mire;1
-131;Flooded Strand;1
-132;Marsh Flats;1
-133;Misty Rainforest;1
-134;Polluted Delta;1
-135;Scalding Tarn;1
-136;Verdant Catacombs;1
-137;Windswept Heath;1
-138;Wooded Foothills;1
-139;Fabled Passage;1
-140;Prismatic Vista;
-141;Evolving Wilds;1
-142;Myriad Landscape;1
-143;Terramorphic Expanse;1
-144;Darksteel Citadel;1
-145;Ancient Den;1
-146;Great Furnace;1
-147;Seat of the Synod;1
-148;Tree of Tales;1
-149;Vault of Whispers;1
-150;Academy Ruins;1
-151;Ancient Tomb;1
-152;Bojuka Bog;1
-153;Cabal Coffers;
-154;Cephalid Coliseum;1
-155;Emergence Zone;1
-156;Flagstones of Trokair;1
-157;Gaea's Cradle;1
-158;Geier Reach Sanitarium;1
-159;Gemstone Caverns;1
-160;Hall of Heliod's Generosity;1
-161;Hall of the Bandit Lord;1
-162;Hanweir Battlements;1
-163;Homeward Path;1
-164;Inventors' Fair;1
-165;Karn's Bastion;1
-166;Nykthos, Shrine to Nyx;1
-167;Oran-Rief, the Vastwood;1
-168;Path of Ancestry;1
-169;Phyrexian Tower;
-170;Reliquary Tower;1
-171;Rogue's Passage;1
-172;Spire of Industry;1
-173;Strip Mine;1
-174;Tolaria West;1
-175;Urborg, Tomb of Yawgmoth;1
-176;;
-177;;
-178;;
-179;;
-180;;
-181;Arcane Signet;1
-182;Azorius Signet;1
-183;Bag of Holding;1
-184;Boros Signet;1
-185;Chromatic Lantern;1
-186;Chrome Mox;1
-187;Commander's Sphere;1
-188;Cursed Totem;1
-189;Dimir Signet;1
-190;Elixir of Immortality;1
-191;Fellwar Stone;1
-192;Gilded Lotus;1
-193;Golgari Signet;1
-194;Grim Monolith;1
-195;Gruul Signet;1
-196;Hedron Archive;1
-197;Herald's Horn;1
-198;Isochron Scepter;1
-199;Izzet Signet;1
-200;Jeweled Lotus;
-201;Lightning Greaves;1
-202;Lion's Eye Diamond;
-203;Lotus Petal;1
-204;Mana Crypt;1
-205;Mana Vault;1
-206;Mind Stone;1
-207;Mindcrank;1
-208;Mox Amber;
-209;Mox Diamond;1
-210;Mox Opal;1
-211;Nevinyrral's Disk;1
-212;Orzhov Signet;1
-213;Rakdos Signet;1
-214;Rings of Brighthearth;1
-215;Selesnya Signet;1
-216;Sensei's Divining Top;1
-217;Simic Signet;1
-218;Skullclamp;1
-219;Sol Ring;1
-220;Swiftfoot Boots;1
-221;Talisman of Conviction;1
-222;Talisman of Creativity;1
-223;Talisman of Curiosity;1
-224;Talisman of Dominance;1
-225;Talisman of Hierarchy;1
-226;Talisman of Impulse;1
-227;Talisman of Indulgence;1
-228;Talisman of Progress;1
-229;Talisman of Resilience;1
-230;Talisman of Unity;1
-231;Thought Vessel;1
-232;Thran Dynamo;1
-233;Thran Temporal Gateway;1
-234;Unwinding Clock;1
-235;Vanquisher's Banner;1
-236;Whispersilk Cloak;1
-237;Myr Battlesphere;1
-238;;
-239;;
-240;;
-241;;
-242;;
+121;Indatha Triome;1
+122;Ketria Triome;1
+123;Raugrin Triome;1
+124;Savai Triome;1
+125;Zagoth Triome;1
+126;;
+127;;
+128;;
+129;;
+130;;
+131;Cavern of Souls;1
+132;City of Brass;1
+133;Command Tower;1
+134;Exotic Orchard;1
+135;Forbidden Orchard;1
+136;Mana Confluence;1
+137;Reflecting Pool;1
+138;Tarnished Citadel;
+139;Arid Mesa;1
+140;Bloodstained Mire;1
+141;Flooded Strand;1
+142;Marsh Flats;1
+143;Misty Rainforest;1
+144;Polluted Delta;1
+145;Scalding Tarn;1
+146;Verdant Catacombs;1
+147;Windswept Heath;1
+148;Wooded Foothills;1
+149;Fabled Passage;1
+150;Prismatic Vista;
+151;Evolving Wilds;1
+152;Myriad Landscape;1
+153;Terramorphic Expanse;1
+154;Darksteel Citadel;1
+155;Ancient Den;1
+156;Great Furnace;1
+157;Seat of the Synod;1
+158;Tree of Tales;1
+159;Vault of Whispers;1
+160;Darkmoss Bridge;
+161;Drossforge Bridge;1
+162;Goldmire Bridge;
+163;Mistvault Bridge;1
+164;Razortide Bridge;
+165;Rustvale Bridge;
+166;Silverbluff Bridge;1
+167;Slagwoods Bridge;
+168;Tanglepool Bridge;
+169;Thornglint Bridge;
+170;Academy Ruins;1
+171;Ancient Tomb;1
+172;Bojuka Bog;1
+173;Cabal Coffers;
+174;Geier Reach Sanitarium;1
+175;Hall of Heliod's Generosity;1
+176;Hall of the Bandit Lord;1
+177;Hanweir Battlements;1
+178;Homeward Path;1
+179;Inventors' Fair;1
+180;Karn's Bastion;1
+181;Nykthos, Shrine to Nyx;1
+182;Oran-Rief, the Vastwood;1
+183;Path of Ancestry;1
+184;Reliquary Tower;1
+185;Rogue's Passage;1
+186;Strip Mine;1
+187;Tolaria West;1
+188;Urborg, Tomb of Yawgmoth;1
+189;Yavimaya, Cradle of Growth;1
+190;;
+191;;
+192;;
+193;Alhammarret's Archive;1
+194;Arcane Signet;1
+195;Azorius Signet;1
+196;Bag of Holding;1
+197;Boros Signet;1
+198;Chromatic Lantern;1
+199;Chrome Mox;1
+200;Commander's Sphere;1
+201;Dimir Signet;1
+202;Elixir of Immortality;1
+203;Fellwar Stone;1
+204;Gilded Lotus;1
+205;Golgari Signet;1
+206;Gruul Signet;1
+207;Hedron Archive;1
+208;Herald's Horn;1
+209;Izzet Signet;1
+210;Lightning Greaves;1
+211;Mana Crypt;1
+212;Mana Vault;1
+213;Mind Stone;1
+214;Mindcrank;1
+215;Nevinyrral's Disk;1
+216;Orzhov Signet;1
+217;Rakdos Signet;1
+218;Rings of Brighthearth;1
+219;Selesnya Signet;1
+220;Sensei's Divining Top;1
+221;Simic Signet;1
+222;Skullclamp;1
+223;Sol Ring;1
+224;Swiftfoot Boots;1
+225;Talisman of Conviction;1
+226;Talisman of Creativity;1
+227;Talisman of Curiosity;1
+228;Talisman of Dominance;1
+229;Talisman of Hierarchy;1
+230;Talisman of Impulse;1
+231;Talisman of Indulgence;1
+232;Talisman of Progress;1
+233;Talisman of Resilience;1
+234;Talisman of Unity;1
+235;The Chain Veil;1
+236;Thought Vessel;1
+237;Thran Dynamo;1
+238;Thran Temporal Gateway;1
+239;Unwinding Clock;1
+240;Vanquisher's Banner;1
+241;Whispersilk Cloak;1
+242;Myr Battlesphere;1
 243;;
 244;;
 245;;
@@ -251,152 +251,152 @@
 250;;
 251;;
 252;;
-253;Aven Mindcensor;1
-254;Containment Priest;1
-255;Drannith Magistrate;1
-256;Grand Abolisher;1
-257;Karmic Guide;1
-258;Linvala, Keeper of Silence;1
-259;Mother of Runes;1
-260;Ranger-Captain of Eos;1
-261;Recruiter of the Guard;1
-262;Thalia, Heretic Cathar;1
-263;Land Tax;1
-264;Smothering Tithe;1
-265;Enlightened Tutor;1
-266;Generous Gift;1
-267;Silence;1
-268;Swords to Plowshares;1
-269;Armageddon;1
-270;Idyllic Tutor;1
-271;Mythos of Snapdax;1
-272;Sevinne's Reclamation;
-273;Wrath of God;1
+253;Grand Abolisher;1
+254;Mother of Runes;1
+255;Authority of the Consuls;1
+256;Smothering Tithe;1
+257;Enlightened Tutor;1
+258;Flawless Maneuver;1
+259;Generous Gift;1
+260;Path to Exile;1
+261;Swords to Plowshares;1
+262;Idyllic Tutor;1
+263;Mythos of Snapdax;1
+264;;
+265;;
+266;;
+267;;
+268;;
+269;;
+270;;
+271;;
+272;;
+273;;
 274;;
 275;;
 276;;
-277;Gilded Drake;
-278;Hullbreacher;
-279;Laboratory Maniac;1
-280;Phantasmal Image;
-281;Snapcaster Mage;1
-282;Spark Double;1
-283;Spellseeker;1
-284;Thassa's Oracle;1
-285;Jace, Wielder of Mysteries;1
-286;Narset, Parter of Veils;1
-287;Teferi, Master of Time;
-288;Tezzeret the Seeker;1
-289;Copy Artifact;
-290;Decree of Silence;1
-291;Mystic Remora;1
-292;Rhystic Study;1
-293;Blue Sun's Zenith;1
-294;Brain Freeze;
-295;Brainstorm;1
-296;Chain of Vapor;1
-297;Counterspell;1
-298;Cyclonic Rift;1
-299;Delay;1
-300;Dispel;1
-301;Dramatic Reversal;1
-302;Fierce Guardianship;1
-303;Flusterstorm;1
-304;Force of Negation;
-305;Force of Will;1
-306;Frantic Search;1
-307;Intuition;1
-308;Mana Drain;1
-309;Mental Misstep;1
-310;Miscast;1
-311;Muddle the Mixture;1
-312;Mystic Confluence;1
-313;Mystical Tutor;1
-314;Narset's Reversal;1
-315;Negate;1
-316;Pact of Negation;1
-317;Snap;1
-318;Spell Pierce;1
-319;Swan Song;1
-320;Winds of Rebuke;1
-321;Fabricate;1
-322;Gitaxian Probe;1
-323;Merchant Scroll;1
-324;Ponder;1
-325;Preordain;1
-326;Time Spiral;1
-327;Timetwister;
-328;Transmute Artifact;
-329;Windfall;1
-330;;
-331;;
-332;;
-333;;
+277;Spark Double;1
+278;Spellseeker;1
+279;Jace, Wielder of Mysteries;1
+280;Tezzeret the Seeker;1
+281;Decree of Silence;1
+282;Rhystic Study;1
+283;Blue Sun's Zenith;1
+284;Brainstorm;1
+285;Counterspell;1
+286;Cyclonic Rift;1
+287;Frantic Search;1
+288;Mana Drain;1
+289;Mystic Confluence;1
+290;Mystical Tutor;1
+291;Negate;1
+292;Swan Song;1
+293;Fabricate;1
+294;Time Spiral;1
+295;Windfall;1
+296;;
+297;;
+298;;
+299;;
+300;;
+301;;
+302;;
+303;;
+304;;
+305;;
+306;;
+307;;
+308;;
+309;;
+310;;
+311;;
+312;;
+313;Doom Whisperer;1
+314;Vilis, Broker of Blood;1
+315;Liliana Vess;1
+316;Liliana, Dreadhorde General;1
+317;Ob Nixilis Reignited;1
+318;Bolas's Citadel;1
+319;Animate Dead;1
+320;Phyrexian Reclamation;1
+321;Whip of Erebos;1
+322;Vampiric Tutor;1
+323;Buried Alive;1
+324;Command the Dreadhorde;1
+325;Damn;1
+326;Damnation;1
+327;Demonic Tutor;1
+328;Haunting Voyage;1
+329;Living Death;1
+330;Reanimate;1
+331;The Elderspell;1
+332;Toxic Deluge;1
+333;Yawgmoth's Will;1
 334;;
 335;;
 336;;
-337;Dark Confidant;1
-338;Doom Whisperer;1
-339;Opposition Agent;
-340;Vilis, Broker of Blood;1
-341;Animate Dead;1
-342;Dance of the Dead;1
-343;Necromancy;1
-344;Necropotence;1
-345;Phyrexian Reclamation;1
-346;Whip of Erebos;1
-347;Wishclaw Talisman;1
-348;Ad Nauseam;1
-349;Cabal Ritual;1
-350;Culling the Weak;
-351;Dark Ritual;1
-352;Demonic Consultation;
-353;Entomb;1
-354;Plunge into Darkness;1
-355;Rain of Filth;1
-356;Tainted Pact;1
-357;Vampiric Tutor;1
-358;Buried Alive;1
-359;Command the Dreadhorde;1
-360;Damnation;1
-361;Demonic Tutor;1
-362;Diabolic Intent;1
-363;Imperial Seal;
-364;Living Death;1
-365;Peer into the Abyss;1
-366;Praetor's Grasp;1
-367;Reanimate;1
-368;Toxic Deluge;1
-369;Yawgmoth's Will;1
+337;;
+338;;
+339;;
+340;;
+341;;
+342;;
+343;;
+344;;
+345;;
+346;;
+347;;
+348;;
+349;Glint-Horn Buccaneer;1
+350;Sarkhan the Masterless;1
+351;Aggravated Assault;1
+352;Chaos Warp;1
+353;Fling;1
+354;Temur Battle Rage;1
+355;Blasphemous Act;1
+356;By Force;1
+357;Chandra's Ignition;1
+358;Faithless Looting;1
+359;Gamble;1
+360;Rolling Earthquake;1
+361;Vandalblast;1
+362;;
+363;;
+364;;
+365;;
+366;;
+367;;
+368;;
+369;;
 370;;
 371;;
 372;;
-373;Dockside Extortionist;
-374;Glint-Horn Buccaneer;1
-375;Imperial Recruiter;1
-376;Simian Spirit Guide;1
-377;Aggravated Assault;1
-378;Blood Moon;1
-379;Underworld Breach;
-380;Abrade;1
-381;Chaos Warp;1
-382;Deflecting Swat;
-383;Fling;1
-384;Pyroblast;1
-385;Red Elemental Blast;1
-386;Savage Beating;1
-387;Temur Battle Rage;1
-388;Blasphemous Act;1
-389;By Force;1
-390;Chandra's Ignition;1
-391;Faithless Looting;1
-392;Gamble;1
-393;Jeska's Will;
-394;Rite of Flame;1
-395;Rolling Earthquake;1
-396;Vandalblast;1
-397;Wheel of Fortune;
-398;Wheel of Misfortune;1
+373;Avenger of Zendikar;1
+374;Beast Whisperer;1
+375;Elves of Deep Shadow;1
+376;Elvish Mystic;1
+377;Eternal Witness;1
+378;Llanowar Elves;1
+379;Nissa, Who Shakes the World;1
+380;Doubling Season;
+381;Parallel Lives;1
+382;Primal Vigor;1
+383;Wild Growth;1
+384;Beast Within;1
+385;Heroic Intervention;1
+386;Krosan Grip;1
+387;Cultivate;1
+388;Grow from the Ashes;1
+389;Kodama's Reach;1
+390;Nature's Lore;1
+391;Rampant Growth;1
+392;Skyshroud Claim;1
+393;Three Visits;1
+394;Triumph of the Hordes;1
+395;;
+396;;
+397;;
+398;;
 399;;
 400;;
 401;;
@@ -407,75 +407,75 @@
 406;;
 407;;
 408;;
-409;Arbor Elf;1
-410;Avacyn's Pilgrim;1
-411;Avenger of Zendikar;1
-412;Beast Whisperer;1
-413;Birds of Paradise;1
-414;Bloom Tender;
-415;Collector Ouphe;1
-416;Elves of Deep Shadow;1
-417;Elvish Mystic;1
-418;Elvish Spirit Guide;1
-419;Eternal Witness;1
-420;Fyndhorn Elves;1
-421;Llanowar Elves;1
-422;Noble Hierarch;
-423;Priest of Titania;1
-424;Nissa, Who Shakes the World;
-425;Carpet of Flowers;1
-426;Doubling Season;
-427;Parallel Lives;1
-428;Primal Vigor;
-429;Survival of the Fittest;1
-430;Sylvan Library;
-431;Utopia Sprawl;1
-432;Wild Growth;1
-433;Beast Within;1
-434;Chord of Calling;1
-435;Crop Rotation;1
-436;Force of Vigor;
-437;Heroic Intervention;1
-438;Krosan Grip;1
-439;Nature's Claim;1
-440;Noxious Revival;
-441;Veil of Summer;
-442;Worldly Tutor;1
-443;Cultivate;1
-444;Eldritch Evolution;1
-445;Finale of Devastation;
-446;Green Sun's Zenith;1
-447;Grow from the Ashes;1
-448;Kodama's Reach;1
-449;Rampant Growth;1
-450;Skyshroud Claim;1
-451;Three Visits;1
-452;Triumph of the Hordes;1
+409;;
+410;;
+411;;
+412;;
+413;;
+414;;
+415;;
+416;;
+417;;
+418;;
+419;;
+420;;
+421;;
+422;;
+423;;
+424;;
+425;;
+426;;
+427;;
+428;;
+429;;
+430;;
+431;;
+432;;
+433;Garna, the Bloodflame;1
+434;Tymna the Weaver;1
+435;Ashiok, Dream Render;1
+436;Dack Fayden;1
+437;Nicol Bolas, Dragon-God;1
+438;Nicol Bolas, God-Pharaoh;1
+439;Mirari's Wake;1
+440;Anguished Unmaking;1
+441;Assassin's Trophy;
+442;Boros Charm;1
+443;Counterflux;1
+444;Heartwarming Redemption;1
+445;Rakdos Charm;1
+446;Terminate;1
+447;Eerie Ultimatum;1
+448;Supreme Verdict;1
+449;Vindicate;1
+450;;
+451;;
+452;;
 453;;
 454;;
 455;;
 456;;
-457;Deathrite Shaman;1
-458;Garna, the Bloodflame;1
-459;Notion Thief;1
-460;Thrasios, Triton Hero;
-461;Tymna the Weaver;
-462;Ashiok, Dream Render;1
-463;Dack Fayden;1
-464;Mirari's Wake;1
-465;Abrupt Decay;1
-466;Anguished Unmaking;1
-467;Assassin's Trophy;
-468;Boros Charm;1
-469;Counterflux;1
-470;Dovin's Veto;1
-471;Eladamri's Call;1
-472;Fire Covenant;1
-473;Lim-Dûl's Vault;1
-474;Rakdos Charm;1
-475;Terminate;1
-476;Wear // Tear;1
-477;Neoform;1
-478;Supreme Verdict;1
+457;;
+458;;
+459;;
+460;;
+461;;
+462;;
+463;;
+464;;
+465;;
+466;;
+467;;
+468;;
+469;;
+470;;
+471;;
+472;;
+473;;
+474;;
+475;;
+476;;
+477;;
+478;;
 479;;
 480;;
