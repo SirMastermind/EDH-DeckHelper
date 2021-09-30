@@ -209,38 +209,38 @@
 208;Herald's Horn;1
 209;Izzet Signet;1
 210;Lightning Greaves;1
-211;Mana Crypt;1
-212;Mana Vault;1
-213;Mind Stone;1
-214;Mindcrank;1
-215;Nevinyrral's Disk;1
-216;Orzhov Signet;1
-217;Rakdos Signet;1
-218;Rings of Brighthearth;1
-219;Selesnya Signet;1
-220;Sensei's Divining Top;1
-221;Simic Signet;1
-222;Skullclamp;1
-223;Sol Ring;1
-224;Swiftfoot Boots;1
-225;Talisman of Conviction;1
-226;Talisman of Creativity;1
-227;Talisman of Curiosity;1
-228;Talisman of Dominance;1
-229;Talisman of Hierarchy;1
-230;Talisman of Impulse;1
-231;Talisman of Indulgence;1
-232;Talisman of Progress;1
-233;Talisman of Resilience;1
-234;Talisman of Unity;1
-235;The Chain Veil;1
-236;Thought Vessel;1
-237;Thran Dynamo;1
-238;Thran Temporal Gateway;1
-239;Unwinding Clock;1
-240;Vanquisher's Banner;1
-241;Whispersilk Cloak;1
-242;Myr Battlesphere;1
+211;Mana Vault;1
+212;Mind Stone;1
+213;Mindcrank;1
+214;Nevinyrral's Disk;1
+215;Orzhov Signet;1
+216;Rakdos Signet;1
+217;Rings of Brighthearth;1
+218;Selesnya Signet;1
+219;Sensei's Divining Top;1
+220;Simic Signet;1
+221;Skullclamp;1
+222;Sol Ring;1
+223;Swiftfoot Boots;1
+224;Talisman of Conviction;1
+225;Talisman of Creativity;1
+226;Talisman of Curiosity;1
+227;Talisman of Dominance;1
+228;Talisman of Hierarchy;1
+229;Talisman of Impulse;1
+230;Talisman of Indulgence;1
+231;Talisman of Progress;1
+232;Talisman of Resilience;1
+233;Talisman of Unity;1
+234;The Chain Veil;1
+235;Thought Vessel;1
+236;Thran Dynamo;1
+237;Thran Temporal Gateway;1
+238;Unwinding Clock;1
+239;Vanquisher's Banner;1
+240;Whispersilk Cloak;1
+241;Myr Battlesphere;1
+242;;
 243;;
 244;;
 245;;
@@ -254,16 +254,16 @@
 253;Grand Abolisher;1
 254;Mother of Runes;1
 255;Authority of the Consuls;1
-256;Smothering Tithe;1
-257;Enlightened Tutor;1
-258;Flawless Maneuver;1
-259;Generous Gift;1
-260;Path to Exile;1
-261;Swords to Plowshares;1
-262;Idyllic Tutor;1
-263;Mythos of Snapdax;1
-264;;
-265;;
+256;Ghostly Prison;1
+257;Smothering Tithe;1
+258;Sphere of Safety;1
+259;Enlightened Tutor;1
+260;Flawless Maneuver;1
+261;Generous Gift;1
+262;Path to Exile;1
+263;Swords to Plowshares;1
+264;Idyllic Tutor;1
+265;Mythos of Snapdax;1
 266;;
 267;;
 268;;
@@ -280,21 +280,21 @@
 279;Jace, Wielder of Mysteries;1
 280;Tezzeret the Seeker;1
 281;Decree of Silence;1
-282;Rhystic Study;1
-283;Blue Sun's Zenith;1
-284;Brainstorm;1
-285;Counterspell;1
-286;Cyclonic Rift;1
-287;Frantic Search;1
-288;Mana Drain;1
-289;Mystic Confluence;1
-290;Mystical Tutor;1
-291;Negate;1
-292;Swan Song;1
-293;Fabricate;1
-294;Time Spiral;1
-295;Windfall;1
-296;;
+282;Propaganda;1
+283;Rhystic Study;1
+284;Blue Sun's Zenith;1
+285;Brainstorm;1
+286;Counterspell;1
+287;Cyclonic Rift;1
+288;Fierce Guardianship;1
+289;Frantic Search;1
+290;Mana Drain;1
+291;Mystic Confluence;1
+292;Mystical Tutor;1
+293;Negate;1
+294;Swan Song;1
+295;Fabricate;1
+296;Windfall;1
 297;;
 298;;
 299;;
@@ -331,7 +331,7 @@
 330;Reanimate;1
 331;The Elderspell;1
 332;Toxic Deluge;1
-333;Yawgmoth's Will;1
+333;;
 334;;
 335;;
 336;;
@@ -360,7 +360,7 @@
 359;Gamble;1
 360;Rolling Earthquake;1
 361;Vandalblast;1
-362;;
+362;Wheel of Misfortune;1
 363;;
 364;;
 365;;
@@ -407,23 +407,23 @@
 406;;
 407;;
 408;;
-409;;
-410;;
-411;;
-412;;
-413;;
-414;;
-415;;
-416;;
-417;;
-418;;
-419;;
-420;;
-421;;
-422;;
-423;;
-424;;
-425;;
+409;Garna, the Bloodflame;1
+410;Tymna the Weaver;1
+411;Ashiok, Dream Render;1
+412;Dack Fayden;1
+413;Nicol Bolas, Dragon-God;1
+414;Nicol Bolas, God-Pharaoh;1
+415;Mirari's Wake;1
+416;Anguished Unmaking;1
+417;Assassin's Trophy;
+418;Boros Charm;1
+419;Counterflux;1
+420;Heartwarming Redemption;1
+421;Rakdos Charm;1
+422;Terminate;1
+423;Eerie Ultimatum;1
+424;Supreme Verdict;1
+425;Vindicate;1
 426;;
 427;;
 428;;
@@ -431,23 +431,23 @@
 430;;
 431;;
 432;;
-433;Garna, the Bloodflame;1
-434;Tymna the Weaver;1
-435;Ashiok, Dream Render;1
-436;Dack Fayden;1
-437;Nicol Bolas, Dragon-God;1
-438;Nicol Bolas, God-Pharaoh;1
-439;Mirari's Wake;1
-440;Anguished Unmaking;1
-441;Assassin's Trophy;
-442;Boros Charm;1
-443;Counterflux;1
-444;Heartwarming Redemption;1
-445;Rakdos Charm;1
-446;Terminate;1
-447;Eerie Ultimatum;1
-448;Supreme Verdict;1
-449;Vindicate;1
+433;;
+434;;
+435;;
+436;;
+437;;
+438;;
+439;;
+440;;
+441;;
+442;;
+443;;
+444;;
+445;;
+446;;
+447;;
+448;;
+449;;
 450;;
 451;;
 452;;
@@ -455,20 +455,20 @@
 454;;
 455;;
 456;;
-457;;
-458;;
-459;;
-460;;
-461;;
-462;;
-463;;
-464;;
-465;;
-466;;
-467;;
-468;;
-469;;
-470;;
+457;Earthcraft;1
+458;Force of Will;1
+459;Gaea's Cradle;1
+460;Grim Monolith;1
+461;Helm of Obidience;1
+462;Intuition;1
+463;Kozilek, Butcher of Truth;1
+464;Mana Crypt;1
+465;Mox Diamond;1
+466;Survival of the Fittest;1
+467;Time Spiral;1
+468;Volrath's Stronghold;1
+469;Yavimaya Hollow;1
+470;Yawgmoth's Will;1
 471;;
 472;;
 473;;

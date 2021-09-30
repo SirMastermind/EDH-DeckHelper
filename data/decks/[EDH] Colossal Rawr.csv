@@ -17,7 +17,6 @@
 1,Priest of the Wakening Sun
 1,Wakening Sun's Avatar
 1,Otepec Huntmaster
-1,Star of Extinction
 1,Deathgorge Scavenger
 1,Ranging Raptors
 1,Ripjaw Raptor
@@ -30,13 +29,11 @@
 1,Heroic Intervention
 1,Swords to Plowshares
 1,Natural Order
-1,Mana Crypt
 1,Canopy Vista
 1,Mirari's Wake
 1,Eternal Witness
 1,Boros Charm
 1,Stomping Ground
-1,Cavern of Souls
 1,Sunpetal Grove
 1,Pyrohemia
 1,Sol Ring
@@ -48,7 +45,6 @@
 1,Sensei's Divining Top
 1,Aggravated Assault
 1,Urza's Incubator
-1,Yavimaya Hollow
 1,Wrath of God
 1,Ancient Tomb
 1,Nature's Lore
@@ -66,8 +62,8 @@
 1,"Domri, Chaos Bringer"
 1,"Domri, Anarch of Bolas"
 6,Snow-Covered Forest
-3,Snow-Covered Mountain
-3,Snow-Covered Plains
+4,Snow-Covered Mountain
+4,Snow-Covered Plains
 1,Generous Gift
 1,Eladamri's Call
 1,Marauding Raptor
@@ -76,6 +72,8 @@
 1,Lightning Greaves
 1,Warstorm Surge
 1,Raging Swordtooth
+1,Star of Extinction
+1,Arcane Signet
 1,Quartzwood Crasher
 1,Rampaging Brontodon
 1,"Etali, Primal Storm"
