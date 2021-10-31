@@ -5,6 +5,7 @@
 1,Thran Dynamo
 1,Cyclonic Rift
 1,Inventors' Fair
+1,Hanweir Battlements
 1,Counterspell
 1,Mystical Tutor
 1,Gamble
@@ -14,8 +15,6 @@
 1,Tezzeret the Seeker
 1,Temur Battle Rage
 1,Chaos Warp
-1,Flooded Strand
-1,Polluted Delta
 1,Rolling Earthquake
 1,Marchesa's Smuggler
 1,Fact or Fiction
@@ -34,9 +33,6 @@
 1,Command Tower
 1,Whispersilk Cloak
 1,World at War
-1,Arid Mesa
-1,Misty Rainforest
-1,Scalding Tarn
 1,Fabricate
 1,Soul's Fire
 1,Tolaria West
@@ -51,7 +47,6 @@
 1,Fiery Gambit
 1,Krark's Thumb
 1,Aggravated Assault
-1,Bloodstained Mire
 1,Planar Chaos
 1,Impulsive Maneuvers
 1,Squee's Revenge
@@ -73,8 +68,8 @@
 1,Seize the Day
 1,Molten Birth
 1,Game of Chaos
-7,Snow-Covered Mountain
-6,Snow-Covered Island
+10,Snow-Covered Mountain
+8,Snow-Covered Island
 1,Fiery Islet
 1,Talisman of Creativity
 1,Temple of Epiphany

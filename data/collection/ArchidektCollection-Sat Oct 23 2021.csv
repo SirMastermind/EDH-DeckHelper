@@ -1,4 +1,126 @@
 Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse Id,Scryfall ID,MTGO ID,
+1,"Nicol Bolas, Planeswalker",False,NM,EN,,Magic 2013,m13,260991,0e3b1fea-5c2c-4848-8109-548f56b99d49,45280,199
+1,"Nicol Bolas, Planeswalker",False,NM,EN,,Conflux,con,179441,48ee3939-bc12-4275-a446-9de36f0b4672,31909,120
+1,Plague Myr,True,NM,EN,,Magic Online Promos,prm,0,f6765e7b-5b3a-4108-957f-8d6f1779672d,39640,39640
+1,Quest for the Holy Relic,False,NM,EN,,Zendikar,zen,197406,00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc,34788,33
+1,Obzedat's Aid,False,NM,EN,,Dragon's Maze,dgm,369002,b846ba99-81ba-424a-98eb-f9f69c40f984,48256,89
+1,Mind Shatter,False,NM,EN,,Duels of the Planeswalkers,dpa,0,4e6ab1b7-73a9-48ab-bf15-3602d96bf017,34320,28
+1,Rage Reflection,False,NM,EN,,Duels of the Planeswalkers,dpa,0,1900c0b1-b2b0-4561-ae63-ab7cd4c54580,34105,52
+1,Underworld Dreams,False,NM,EN,,Duels of the Planeswalkers,dpa,0,960c53f5-6d28-4bc4-b6a1-345f2a2a97f8,33987,35
+1,Banefire,False,NM,EN,,Duels of the Planeswalkers,dpa,0,e03d70c6-fde0-4eb0-8d39-69879448ab05,34115,38
+1,Forest,False,NM,EN,,Duel Decks: Ajani vs. Nicol Bolas,ddh,262651,c9421f47-6b69-4ac1-97e3-ca0f55cd4076,42082,38
+1,Forest,False,NM,EN,,Innistrad,isd,245247,b606f644-1728-4cb3-90ed-121838875de1,42740,262
+1,Forest,False,NM,EN,,Commander 2011,cmd,249802,12180141-f817-420f-a7cf-cd82a5ef9786,40738,318
+1,Forest,False,NM,EN,,Return to Ravnica,rtr,289328,e6850740-6219-4f82-a705-2e7b20ede751,46547,272
+1,Forest,False,NM,EN,,Return to Ravnica,rtr,333718,ddfcde62-1b20-48ce-8ba0-7929edcd26fc,46824,274
+4,Forest,False,NM,EN,,Zendikar,zen,195158,f0ca4b9f-4ee6-4ad8-a95f-326ada9de3cd,34838,246
+2,Forest,False,NM,PT,,Zendikar,zen,195158,f0ca4b9f-4ee6-4ad8-a95f-326ada9de3cd,34838,246
+2,Forest,False,NM,EN,,Zendikar,zen,201962,6744c441-42b3-48b2-af06-1e27ec776d97,34870,247
+4,Forest,False,NM,EN,,Zendikar,zen,201961,341b05e6-93bb-4071-b8c6-1644f56e026d,34864,249
+1,Forest,False,NM,PT,,Zendikar,zen,201961,341b05e6-93bb-4071-b8c6-1644f56e026d,34864,249
+1,Forest,False,NM,PT,,Zendikar,zen,195177,52c21f91-6679-4adb-baf2-b06cf505150c,34856,248
+3,Snow-Covered Forest,False,NM,EN,,Modern Horizons,mh1,464203,1c59fc48-704b-4187-b9d3-2a2cff6dd54b,72880,254
+1,Forest,True,NM,EN,,2017 Gift Pack,g17,0,049528b8-f922-4671-931d-9b37640d5a07,0,5
+1,Forest,True,NM,PT,,Mirrodin,mrd,48421,77aec0b2-30f2-4f35-a9a3-24d87795d177,19937,303
+1,Forest,True,NM,EN,,Rivals of Ixalan,rix,439860,92c9e16d-525b-4ba9-890d-fa2719206ba0,66859,196
+1,Mountain,False,NM,PT,,Zendikar,zen,201967,e3de70f1-6fb1-4191-b66f-491c794f9c05,34850,243
+1,Mountain,False,NM,EN,,Zendikar,zen,201967,e3de70f1-6fb1-4191-b66f-491c794f9c05,34850,243
+1,Mountain,False,NM,EN,,Amonkhet,akh,426955,d3112990-3919-46b0-b927-14566c689a81,64168,253
+1,Mountain,False,NM,PT,,Zendikar,zen,195181,03bacab3-25fb-4a0c-81b3-7e9e22899c2c,34862,244
+1,Mountain,False,NM,EN,,Zendikar,zen,195181,03bacab3-25fb-4a0c-81b3-7e9e22899c2c,34862,244
+7,Snow-Covered Mountain,False,NM,EN,,Modern Horizons,mh1,464202,d2209e6f-1d9d-43bb-a314-a8fefc509e78,72878,253
+1,Mountain,True,NM,EN,,2017 Gift Pack,g17,0,9a1636d7-2c04-4dfa-8501-0bd9771e3ddc,0,4
+1,Mountain,True,NM,EN,,Ravnica: City of Guilds,rav,95096,dad3662a-f7b4-45d5-a35e-fc6c38474692,23522,299
+1,Mountain,True,NM,EN,,Lorwyn,lrw,143623,83beeef7-2bb5-4c3a-9be4-79a968696d65,28197,294
+1,Mountain,True,NM,EN,,Magic 2012,m12,244329,1a8d9be0-255a-482a-b055-f483859266c5,41563,244
+1,Mountain,True,NM,EN,,Scars of Mirrodin,som,214668,a68647c2-a343-4314-8abb-00e7de6ecf0d,38377,243
+3,Mountain,True,NM,EN,,Shadowmoor,shm,157885,7d671616-f58c-4ee9-9ed7-78ebc385948a,29741,296
+1,Mountain,True,NM,EN,,Core Set 2019,m19,447413,bb4004c8-c3d9-494e-a257-6d8443cbf1b7,68715,276
+1,Swamp,False,NM,EN,,Zendikar,zen,195194,847cac15-b404-4e0f-964e-7aee41c93346,34872,239
+1,Swamp,False,NM,EN,,Zendikar,zen,195157,bc9e2d99-a3ad-4bfb-a781-a8a9454085c9,34836,241
+1,Swamp,False,NM,PT,,Zendikar,zen,195157,bc9e2d99-a3ad-4bfb-a781-a8a9454085c9,34836,241
+5,Snow-Covered Swamp,False,NM,EN,,Modern Horizons,mh1,464201,c835f235-4196-4281-9788-13e5d54a92d0,72876,252
+1,Swamp,True,NM,EN,,2017 Gift Pack,g17,0,75384818-7003-4a9a-9da8-9b2455d98a4e,0,3
+4,Island,False,NM,EN,,Zendikar,zen,201963,551f905b-4ce0-4071-a721-7e51be14d114,34842,236
+1,Island,False,NM,PT,,Zendikar,zen,201963,551f905b-4ce0-4071-a721-7e51be14d114,34842,236
+7,Snow-Covered Island,False,NM,EN,,Modern Horizons,mh1,464200,8ac1fceb-8427-409c-98a4-9a5c1ff980b4,72874,251
+1,Island,True,NM,EN,,Theros Beyond Death,thb,476502,acf7b664-3e75-4018-81f6-2a14ab59f258,79626,251
+1,Island,True,NM,PT,,Shadowmoor,shm,157883,28da317c-8512-4342-9be5-d14b87a509c7,29737,289
+1,Island,True,NM,PT,,Ravnica: City of Guilds,rav,95113,f9cba2b8-d865-46e8-81f1-752598a0d729,23556,294
+1,Island,True,NM,PT,,Ravnica: City of Guilds,rav,95107,1d603978-3877-454e-8910-53a4cc95431d,23544,292
+1,Island,True,NM,PT,,Eighth Edition,8ed,46441,4146a316-c409-4121-931f-1d3b5ae63675,19341,335
+1,Island,True,NM,PT,,Lorwyn,lrw,143628,5885738f-a51d-418c-b194-0ba8ef6af556,28595,286
+1,Island,True,NM,EN,,Avacyn Restored,avr,269633,5cf3685e-0ed3-4dc3-9033-8faa10b17c27,44161,235
+1,Island,True,NM,EN,,2017 Gift Pack,g17,0,8326b99f-9ccd-401e-aef9-9473303d10a0,0,2
+3,Plains,False,NM,EN,,Zendikar,zen,195173,6b362e9b-8d25-405e-b70e-f3c9533627a7,34854,231
+3,Plains,False,NM,EN,,Zendikar,zen,195163,e9646663-ba93-446b-ad83-71503924e7f8,34844,233
+3,Snow-Covered Plains,False,NM,EN,,Modern Horizons,mh1,464199,7a961768-6166-4852-b518-23eb4cced47d,72872,250
+1,Plains,True,NM,EN,,Theros Beyond Death,thb,476501,a9891b7b-fc52-470c-9f74-292ae665f378,79624,250
+1,Plains,True,NM,EN,,2017 Gift Pack,g17,0,f7720870-b6cc-4833-930d-6da05b36d17a,0,1
+1,Plains,True,NM,EN,,Shadows over Innistrad,soi,410053,6401c6e7-3415-4e68-b40c-9777c33785eb,60066,284
+1,Plains,True,NM,EN,,Return to Ravnica,rtr,289312,d293ea0f-8b87-4d8a-ad8f-650131c83c20,46515,253
+1,Plains,True,NM,EN,,Ravnica: City of Guilds,rav,95108,3d8d3cd4-0f5f-4424-82ee-d8ba81da47fd,23546,287
+1,Plains,True,NM,EN,,Ravnica: City of Guilds,rav,95112,97b7beb9-0805-47b9-8e62-ff110e9e086a,23554,288
+1,Mountain,True,NM,EN,,Strixhaven: School of Mages,stx,516684,9660fb20-f499-4f7a-9f25-e463f095ab90,88469,372
+1,Plains,True,NM,EN,,Strixhaven: School of Mages,stx,516679,49f7e5de-1fa8-406e-a411-fc8a11937000,88459,367
+1,Command Tower,False,NM,EN,,Commander 2021,c21,519319,b53a112c-671c-4312-af56-53fdb735829b,89673,284
+1,Sol Ring,False,NM,EN,,Commander 2021,c21,519298,4cbc6901-6a4a-4d0a-83ea-7eefa3b35021,89631,263
+1,Arcane Signet,False,NM,EN,,Commander 2021,c21,519269,01b186af-8825-4257-80fd-9c1ecdb21414,89573,234
+1,Blighted Agent,False,NM,EN,,New Phyrexia,nph,214383,cddaebde-a060-4510-8c97-68432d931987,39748,29
+1,Thoughtcast,False,NM,EN,,Mirrodin,mrd,46085,efb965a7-877a-4302-b507-25b0a9e32d9b,19787,54
+1,Sign in Blood,False,NM,EN,,Duel Decks Anthology: Garruk vs. Liliana,gvl,393921,e5ae9dea-98b4-4088-864c-8ca4b1da86e6,0,49
+1,Bastion of Remembrance,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479593,2dd354dd-939e-4b1a-8ed6-fe89a7fd64bf,80155,73
+1,"Raff Capashen, Ship's Mage",False,NM,EN,,Dominaria,dom,443090,674070e3-6efe-45e4-aff6-e4a49ec2106e,67869,202
+1,"Tatyova, Benthic Druid",False,NM,EN,,Dominaria,dom,443094,93657aaa-7a0f-49ad-b026-6f79b3bd6768,67877,206
+1,Spike Feeder,False,NM,EN,,Commander 2011,cmd,247521,167873cd-2659-4251-b14a-4cb6755628de,40485,172
+1,Tandem Lookout,False,NM,EN,,Avacyn Restored,avr,240203,83564e67-2677-4955-a3b9-3b221dbb100b,44131,80
+1,Coveted Jewel,False,NM,EN,,Commander 2018,c18,450655,f83ed433-fae3-4fa5-acad-bb8a5b535ce3,0,54
+1,Spawning Grounds,False,NM,EN,,Commander 2018,c18,451118,46106777-e366-47da-b8ba-b010ac96f1fe,0,163
+1,"Danitha Capashen, Paragon",False,NM,EN,,Dominaria,dom,442900,b2a2b53c-0bf2-4d3d-91c2-57a484ae4f6b,67489,12
+1,Mycosynth Wellspring,False,NM,EN,,New Phyrexia,nph,218039,097f7ab8-01fa-4699-943a-32075aecebc2,39830,145
+1,Llanowar Reborn,False,NM,EN,,Commander 2021,c21,519331,b77f3af2-0ebd-47b4-8011-fc402a887744,89697,296
+1,Jubilant Skybonder,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479743,7f8f2d69-fba9-40e5-8ef7-75e14ef4070a,80455,223
+1,Indatha Crystal,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479755,bdace59f-f025-4717-8eb4-3d1e13b31d2b,80479,235
+1,Campaign of Vengeance,False,NM,EN,,Eldritch Moon,emn,414487,c284997a-cfc3-4ffc-bc25-00c130fb1eb0,61266,182
+1,Hedron Crab,False,NM,EN,,Zendikar,zen,180348,f0fa1946-4f97-4c52-b5f2-b80571230616,34460,47
+1,Gravity Well,False,NM,EN,,Rise of the Eldrazi,roe,194919,1feb13d0-1a62-4acd-9267-3b2df4b6a199,36678,185
+1,Reconnaissance Mission,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479585,ae9f7efa-d125-4f83-825e-172ea099a62a,80139,65
+1,"Novijen, Heart of Progress",False,NM,EN,,Commander 2021,c21,519340,9a1e15e7-4ba6-41ad-b27b-aee2d037b6a7,89715,305
+1,Blighted Woodland,False,NM,EN,,Commander 2020,c20,482886,b4073c69-fce0-4755-97f2-0a10fabed3e4,0,258
+1,Trygon Predator,False,NM,EN,,Commander 2020,c20,482860,06879efa-46ca-46bc-9acd-d48ad343fe5f,0,232
+1,Primal Empathy,False,NM,EN,,Commander 2021,c21,519262,656c2277-7420-4e4d-bed5-3683ec1c70de,89559,227
+1,Plaxcaster Frogling,False,NM,EN,,Commander 2021,c21,519261,13a5413a-a082-4f9d-93f5-123e689b3b72,89557,226
+1,Incubation // Incongruity,False,NM,EN,,Commander 2021,c21,519254,099b1265-11a5-48e2-9529-24fa3ea46377,89543,219
+1,Coiling Oracle,False,NM,EN,,Commander 2021,c21,519247,bb8acaa5-5194-4ab3-92b8-4123a903eca3,89525,212
+1,Study Hall,False,NM,EN,,Commander 2021,c21,518476,a3de9859-98b6-4efe-847a-43bac5b1ef9f,89903,80
+1,"Zimone, Quandrix Prodigy",False,NM,EN,,Strixhaven: School of Mages,stx,513742,0ca14c17-dc72-4f68-92f2-14a6c4019f4e,89007,250
+1,Quandrix Cultivator,False,NM,EN,,Strixhaven: School of Mages,stx,513710,e3ca9ff7-0dcf-4ecc-879c-957d290ad7f5,88943,218
+1,Golden Ratio,False,NM,EN,,Strixhaven: School of Mages,stx,513682,626fbddb-3963-4dd2-8507-9777ed66bbbc,88887,190
+1,Eureka Moment,False,NM,EN,,Strixhaven: School of Mages,stx,513676,e400c9b7-c789-49dd-9f72-b9d1df03fcca,88875,184
+1,Vine Gecko,False,NM,EN,,Zendikar Rising,znr,491870,7a6f9984-dec7-4a1f-91d6-1e85b5df5e4c,83433,219
+1,Glimmerpoint Stag,False,NM,EN,,Scars of Mirrodin,som,194046,5fb553f3-b1f6-47e7-94c1-8c09410c7163,37963,9
+1,Razor Hippogriff,False,NM,EN,,Scars of Mirrodin,som,194323,fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab,38075,17
+1,Perilous Myr,False,NM,EN,,Scars of Mirrodin,som,194056,4b942605-eb4a-452d-9b07-a4f912f96958,37969,192
+1,Gold Myr,False,NM,EN,,Scars of Mirrodin,som,194384,ac92126c-fb22-4b97-bbc5-b0533a0baad8,38101,157
+1,Silver Myr,False,NM,EN,,Scars of Mirrodin,som,194378,fdd60081-3942-4e0e-aacd-a0c121bb08c7,38099,202
+1,Stoic Rebuttal,False,NM,EN,,Scars of Mirrodin,som,212703,f2805239-f30a-4eca-a10b-41673daaa287,38353,46
+1,Riddlesmith,False,NM,EN,,Scars of Mirrodin,som,202643,08e25713-05ea-4eed-aa7f-5ca4e57a8152,38115,40
+1,Viridian Revel,False,NM,EN,,Scars of Mirrodin,som,194266,2d7f565e-0fb8-40c8-9540-213d35af846a,38053,132
+1,Carrion Call,False,NM,EN,,Scars of Mirrodin,som,194340,bc3c1a8e-3bdb-42cf-9442-5de7e4670d66,38083,115
+1,Dispense Justice,False,NM,EN,,Scars of Mirrodin,som,209015,7b3330a1-98b6-4b09-9bca-6c7c89447ba2,38243,5
+1,Iron Myr,False,NM,EN,,Scars of Mirrodin,som,194168,5bd0a588-b695-4060-b5d5-c6a74710ff0f,38019,168
+1,Psychic Miasma,False,NM,EN,,Scars of Mirrodin,som,206345,fd9c3267-7988-416c-85a4-0e314e42ddb9,38155,76
+1,Skinrender,False,NM,EN,,Scars of Mirrodin,som,204958,be358357-2abe-4ead-bb18-76cad8274489,38453,78
+1,Relic Putrescence,False,NM,EN,,Scars of Mirrodin,som,209720,ca940b4e-6f5e-4492-b6e0-dbf619eddadd,38311,77
+1,Rejuvenating Springs,False,NM,EN,,Commander Legends,cmr,497874,51e69910-0d90-48a0-af29-3cddaeec5151,85490,354
+1,Karametra's Acolyte,False,NM,EN,,Theros,ths,373538,374a1b7c-ce11-4734-aff2-b0bd00857fad,50232,160
+1,Thornglint Bridge,False,NM,EN,,Modern Horizons 2,mh2,522334,9d483643-6a11-47f7-a0aa-190e0179525f,90897,258
+1,"Liesa, Forgotten Archangel",False,NM,EN,,Innistrad: Midnight Hunt,mid,538500,93a4ecfa-8173-4c9b-a28f-dc06e63491de,94144,319
+1,Slagwoods Bridge,False,NM,EN,,Modern Horizons 2,mh2,522332,e51b48e9-a75a-4acd-9462-5e1ac2b0d803,90893,256
+1,Goldmire Bridge,False,NM,EN,,Modern Horizons 2,mh2,522323,dbe2a1fa-196f-497f-a15f-0b3b04da9cbb,90875,247
+1,Razortide Bridge,False,NM,EN,,Modern Horizons 2,mh2,522328,e7ea7395-430e-4036-92c9-17a850ec2371,90885,252
+1,Dark Intimations,False,NM,EN,,Aether Revolt,aer,423795,dd8f103c-a688-4f22-ae59-2bce1db9d44a,62833,128
+1,Darkmoss Bridge,False,NM,EN,,Modern Horizons 2,mh2,522321,f11f0be9-b9f7-45d2-9499-c5d849d7289f,90871,245
 1,Hellish Rebuke,False,NM,EN,,Forgotten Realms Commander,afc,531931,b4b558cf-8754-4c4f-87f1-8e6d84b93658,0,26
 1,Mask of Griselbrand,False,NM,EN,,Innistrad: Midnight Hunt,mid,534885,829786e2-260b-4bc6-935b-1868b37e2d33,93184,111
 1,Port Town,False,NM,EN,,Forgotten Realms Commander,afc,532642,e6a12a68-a88c-440d-a6ee-b235afbbbfb8,0,255
@@ -823,7 +945,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Windswept Heath,False,NM,EN,,Khans of Tarkir,ktk,386725,e7b28650-cddc-4878-b1d1-b5a764f4df49,54202,248
 1,Winds of Rath,False,NM,EN,,Commander 2018,c18,451034,f1d10f75-3ee1-456a-a858-17c07ff020d2,0,79
 1,Winds of Abandon,False,NM,EN,,Modern Horizons,mh1,463986,3bb17913-fe4d-4acd-9b75-71f5a90f898b,72446,37
-1,Windfall,False,NM,EN,,Urza's Saga,usg,7168,2aef4608-5ba8-4636-b5e7-cac57c5c0608,12415,111
+1,Windfall,False,NM,EN,,Commander 2020,c20,482756,3484e885-253e-41dc-a541-1576debc9884,0,128
 1,Wild Pair,False,NM,EN,,Planar Chaos,plc,122468,38385d7a-fff2-4fe4-90ae-b9c58ad3b1f5,26545,144
 1,Wild Growth,False,NM,EN,,Commander 2018,c18,451120,18fbebd4-d5b4-429a-bfbd-8a7173924d1c,0,165
 1,Whispering Madness,False,NM,EN,,Gatecrash,gtc,366263,64e4b0cc-e611-4a4b-8392-b37bfc3a77e1,47879,207
