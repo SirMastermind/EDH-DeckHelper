@@ -19,7 +19,7 @@ mainmenu () {
 	echo "Press 9 to produce want list from all decklists."
 	echo "Press 0 to check cards that should be added to the binder."
 	echo "Press q to check cards that should be removed to the binder."
-	echo "Press w to check common cards in two decks."
+	echo "Press w to check common cards between any decks."
 	echo "Press x to exit the script."
 	read  -n 1 -p "Input Selection: " "mainmenuinput"
 	echo ""
