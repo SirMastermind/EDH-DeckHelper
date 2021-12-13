@@ -1,22 +1,17 @@
 1,Hinterland Harbor
 1,New Horizons
 1,Solemnity
-1,Propaganda
 1,Burgeoning
 1,Authority of the Consuls
 1,Abundance
 1,Ghostly Prison
 1,Counterspell
 1,Argothian Enchantress
-1,Sylvan Library
 1,Maze of Ith
 1,Weirding Wood
 1,Grasp of Fate
 1,Karmic Justice
 1,Starfield of Nyx
-1,Flooded Strand
-1,Polluted Delta
-1,Windswept Heath
 1,Verdant Haven
 1,Yavimaya Coast
 1,Mirari's Wake
@@ -36,8 +31,6 @@
 1,Command Tower
 1,Journey to Nowhere
 1,Luminarch Ascension
-1,Scalding Tarn
-1,Verdant Catacombs
 1,Wargate
 1,Flooded Grove
 1,Greater Auramancy
@@ -53,14 +46,12 @@
 1,Brushland
 1,Decree of Silence
 1,Words of Wind
-1,Solitary Confinement
 1,Cleansing Meditation
 1,Deserted Temple
 1,Adarkar Wastes
 1,Dueling Grounds
 1,Sterling Grove
 1,Overburden
-1,Kor Haven
 1,Aura Thief
 1,Faith Healer
 1,Carpet of Flowers
@@ -71,6 +62,7 @@
 1,Land Tax
 1,Sea of Clouds
 1,Bountiful Promenade
+1,Seaside Citadel
 1,Wild Growth
 1,Overgrowth
 1,Herald of the Pantheon
@@ -84,14 +76,21 @@
 1,Temple Garden
 2,Snow-Covered Forest
 1,Snow-Covered Island
-3,Snow-Covered Plains
+4,Snow-Covered Plains
 1,Hall of Heliod's Generosity
 1,Leyline of Anticipation
 1,Starfield Mystic
 1,Dance of the Manse
+1,Propaganda
 1,Idyllic Tutor
+1,Sylvan Library
 1,Rejuvenating Springs
+1,Solitary Confinement
 1,Sanctum Weaver
 1,"Yavimaya, Cradle of Growth"
 1,"Sythis, Harvest's Hand"
 1,Resurgent Belief
+1,Deserted Beach
+1,Overgrown Farmland
+1,Alchemist's Refuge
+1,Dreamroot Cascade

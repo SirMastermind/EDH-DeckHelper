@@ -100,25 +100,25 @@
 99;Needleverge Pathway // Pillarverge Pathway;1
 100;Riverglide Pathway // Lavaglide Pathway;1
 101;Choked Estuary;1
-102;Foreboding Ruins;
-103;Fortified Village;
+102;Foreboding Ruins;1
+103;Fortified Village;1
 104;Frostboil Snarl;1
 105;Furycalm Snarl;1
-106;Game Trail;
+106;Game Trail;1
 107;Necroblossom Snarl;1
-108;Port Town;
+108;Port Town;1
 109;Shineshadow Snarl;1
 110;Vineglimmer Snarl;1
-111;Deserted Beach;
-112;Haunted Ridge;
-113;Overgrown Farmland;
-114;Rockfall Vale;
-115;Shipwreck Marsh;
-116;;
-117;;
-118;;
-119;;
-120;;
+111;Deathcap Glade;
+112;Deserted Beach;
+113;Dreamroot Cascade;
+114;Haunted Ridge;
+115;Overgrown Farmland;1
+116;Rockfall Vale;
+117;Shattered Sanctum;
+118;Shipwreck Marsh;
+119;Stormcarved Coast;
+120;Sundown Pass;
 121;Indatha Triome;1
 122;Ketria Triome;1
 123;Raugrin Triome;1
@@ -166,7 +166,7 @@
 165;Rustvale Bridge;
 166;Silverbluff Bridge;1
 167;Slagwoods Bridge;1
-168;Tanglepool Bridge;
+168;Tanglepool Bridge;1
 169;Thornglint Bridge;1
 170;Academy Ruins;1
 171;Ancient Tomb;1

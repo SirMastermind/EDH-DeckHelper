@@ -13,8 +13,8 @@
 1,"Alesha, Who Smiles at Death"
 1,"Urborg, Tomb of Yawgmoth"
 1,Boros Charm
+1,Chromatic Lantern
 1,Cathars' Crusade
-1,Vault of the Archangel
 1,Grand Abolisher
 1,Skullclamp
 1,Sol Ring
@@ -28,7 +28,6 @@
 1,Talisman of Indulgence
 1,City of Brass
 1,Luxury Suite
-1,Commander's Sphere
 1,"Tajic, Legion's Edge"
 1,"Judith, the Scourge Diva"
 1,Smothering Tithe
@@ -37,7 +36,7 @@
 1,Massacre Girl
 2,Snow-Covered Mountain
 2,Snow-Covered Swamp
-8,Snow-Covered Plains
+6,Snow-Covered Plains
 1,Generous Gift
 1,Talisman of Hierarchy
 1,Talisman of Conviction
@@ -89,3 +88,6 @@
 1,Damn
 1,"Adeline, Resplendent Cathar"
 1,Haunted Ridge
+1,Vault of the Archangel
+1,Shattered Sanctum
+1,Sundown Pass

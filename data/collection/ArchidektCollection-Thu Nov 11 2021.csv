@@ -1,4 +1,47 @@
 Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse Id,Scryfall ID,MTGO ID,
+1,Swamp,True,NM,EN,,Secret Lair Drop,sld,0,084efea7-2a22-4cca-a1f9-b47aad2ebcac,0,560
+1,"Sheoldred, Whispering One",False,NM,EN,,Secret Lair Drop,sld,0,18206ae6-08e2-4ad2-bc0a-6626a89b9516,0,211
+1,"Vorinclex, Voice of Hunger",False,NM,EN,,Secret Lair Drop,sld,0,603a7305-c036-47ef-8926-25b66a7905df,0,213
+1,Urabrask the Hidden,False,NM,EN,,Secret Lair Drop,sld,0,f60f6330-f1ce-4a39-ab58-49bb5fa96081,0,212
+1,"Jin-Gitaxias, Core Augur",False,NM,EN,,Secret Lair Drop,sld,0,c5341194-90c3-4554-8c45-f4442ad2eef0,0,210
+1,"Elesh Norn, Grand Cenobite",False,NM,EN,,Secret Lair Drop,sld,0,b436e594-ec27-465d-a570-7645ddbbc2f7,0,209
+1,Gyre Sage,False,NM,EN,,Midnight Hunt Commander,mic,539401,b4b3160e-5f88-456d-913e-a55e072e6326,93696,140
+1,Overgrown Farmland,False,NM,EN,,Innistrad: Midnight Hunt,mid,538438,a46aa097-ad92-4f9a-be52-e4e485a8fe99,0,283
+1,Skyclave Relic,False,NM,EN,,Zendikar Rising,znr,491903,20259dff-4984-4d0b-aa49-34f3aaf31e3a,83499,252
+1,Thought Monitor,False,NM,EN,,Modern Horizons 2,mh2,522147,996c1952-8d10-4296-8960-ff8993833649,90515,71
+1,Malevolent Hermit // Benevolent Geist,False,NM,EN,,Innistrad: Midnight Hunt,mid,534823,e79269af-63eb-43d2-afee-c38fa14a0c5b,93060,61
+1,Risen Reef,False,NM,EN,,Core Set 2020,m20,466971,82389aaa-9f32-4169-a71c-1aea5af9e935,73333,217
+1,Awakening Zone,False,NM,EN,,Double Masters,2xm,489826,be0c3878-3097-4451-9ec0-7f45a0f72323,82340,153
+1,Quest for Renewal,False,NM,EN,,Worldwake,wwk,194007,41b7ad82-1115-4f80-886a-3f59f568423f,35599,110
+1,Mystic Reflection,False,NM,EN,,Kaldheim,khm,503677,f7b877e2-60eb-46cd-acd7-8555b9e7e993,87465,69
+1,Foreboding Ruins,False,NM,EN,,Shadows over Innistrad,soi,410040,3c26ee31-7e2a-4eed-b448-04989fb57523,60080,272
+1,Undergrowth Champion,False,NM,EN,,Battle for Zendikar,bfz,402083,d53104d8-5b9a-45b6-a2f9-b2c5d231a03d,58667,197
+1,"Untaidake, the Cloud Keeper",False,NM,EN,,Champions of Kamigawa,chk,79218,3c571f66-7a00-4cb0-9da9-8271083f49d3,21411,285
+1,"Kambal, Consul of Allocation",False,NM,EN,,Kaladesh,kld,417756,49d61ddb-2662-427c-a97d-21e41b86130d,62037,183
+1,Court of Cunning,False,NM,EN,,Commander Legends,cmr,497583,2f585f52-7b07-4453-b543-9654d314aa36,84908,63
+1,Despark,False,NM,EN,,Strixhaven Mystical Archive,sta,517609,c2743ca3-8b4a-429a-9f9b-090d632b6601,89175,59
+1,Fortified Village,False,NM,EN,,Midnight Hunt Commander,mic,539435,d38ec179-6b1c-41f6-9538-a84ba26ce4ad,93764,174
+1,Trash for Treasure,False,NM,EN,,Double Masters,2xm,489821,75993427-fb8d-41cc-9016-323e804a5eb7,82330,148
+1,Primevals' Glorious Rebirth,False,NM,EN,,Dominaria,dom,443089,80dd2950-502c-4859-85fe-9fbef09aef43,67867,201
+1,Urza's Ruinous Blast,False,NM,EN,,Dominaria,dom,442927,57b50a96-6221-44f0-b54a-76076621047e,67543,39
+1,Sheltered Thicket,False,NM,EN,,Amonkhet,akh,426950,d23cd764-3f5c-4c93-ba83-e5ff397003a2,64158,248
+1,"Vadrik, Astral Archmage",False,NM,EN,,Innistrad: Midnight Hunt,mid,538507,f7e4a483-727d-45f4-bf20-47d94d37e0d0,94158,325
+1,Quartzwood Crasher,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479721,c8e4c609-19c9-433b-a852-7999e375ee4f,80411,201
+1,Tanglepool Bridge,False,NM,EN,,Modern Horizons 2,mh2,522333,57d2b895-8921-4615-a674-fb85eed5ea3f,90895,257
+1,Jungle Shrine,False,NM,EN,,Mystery Booster,mb1,0,ab59b09d-2b28-4263-8c3c-72483c5345f7,0,1677
+1,Abundant Harvest,False,NM,EN,,Strixhaven Mystical Archive,sta,517598,16782095-0b7f-4489-8a97-b74f8efef352,89153,48
+1,Khalni Garden,False,NM,EN,,Worldwake,wwk,197789,1cc6a5e6-0b73-4488-8954-4b168ce7106d,35513,138
+1,Game Trail,False,NM,EN,,Forgotten Realms Commander,afc,532627,77b532ea-f170-4b04-970c-2128978941a4,0,240
+1,Biovisionary,False,NM,EN,,Gatecrash,gtc,366414,2000b4e8-7887-454e-9d52-211516613dd0,47759,146
+1,Ajani Unyielding,False,NM,EN,,Commander 2020,c20,482829,9675ba74-3e3c-4570-bdc0-44b90de7953b,0,201
+1,Dispatch,False,NM,EN,,Modern Masters 2015,mm2,397781,242aeb96-0163-4d3d-9cc1-43c37a9278f5,57324,15
+1,Bronze Guardian,False,NM,EN,,Commander 2021,c21,521609,392c1de5-968e-4ac4-9170-a0c6263857d1,0,340
+1,Blade Historian,False,NM,EN,,Strixhaven: School of Mages,stx,513657,a46d64ec-aca4-428e-bce6-66cd755c8cc3,88837,165
+1,Arcane Sanctum,False,NM,EN,,Forgotten Realms Commander,afc,532610,48d87619-6a6d-42ba-8a69-910d3cc7aede,0,223
+1,Myr Retriever,False,NM,EN,,Double Masters,2xm,489950,7f0149d4-0731-474a-a1c3-28c25e486c14,82588,277
+1,Compulsive Research,False,NM,EN,,Strixhaven Mystical Archive,sta,517564,0f578fbf-c3c7-4407-9fda-3c13b165798c,89085,14
+1,Reya Dawnbringer,False,NM,EN,,Ultimate Masters,uma,456628,44b45bdd-829a-4fc1-ad37-17c2bd57fac8,70137,32
+1,Scrap Trawler,False,NM,EN,,Commander 2021,c21,519295,bf1e1b54-2f97-4d33-807a-99ca38f21777,89625,260
 1,"Nicol Bolas, Planeswalker",False,NM,EN,,Magic 2013,m13,260991,0e3b1fea-5c2c-4848-8109-548f56b99d49,45280,199
 1,"Nicol Bolas, Planeswalker",False,NM,EN,,Conflux,con,179441,48ee3939-bc12-4275-a446-9de36f0b4672,31909,120
 1,Plague Myr,True,NM,EN,,Magic Online Promos,prm,0,f6765e7b-5b3a-4108-957f-8d6f1779672d,39640,39640
@@ -284,7 +327,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,"Miara, Thorn of the Glade",False,NM,EN,,Commander Legends,cmr,497653,41a76adc-42e1-4f65-940c-d0a5555c0633,85048,133
 1,Maskwood Nexus,False,NM,EN,,Kaldheim,khm,503856,471d2aef-cfd4-4131-bbc7-62eeed9f3343,87823,240
 1,Lotus Cobra,False,NM,EN,,Zendikar Rising,znr,495204,151bdf3a-4445-43b1-8cea-2737c13d9dee,0,307
-1,Growth Spiral,False,NM,EN,,Ravnica Allegiance,rna,457322,7c77a6b1-ef06-4da5-8e86-a5204216cb77,71356,178
+1,Growth Spiral,False,NM,EN,,Strixhaven Mystical Archive,sta,517611,ae9f9b3d-d463-4bc6-b822-872a1f8867c8,89179,61
 1,Golgari Findbroker,False,NM,EN,,Guilds of Ravnica,grn,452925,e12bd0e5-db96-4340-9b04-6855fd0fd8b9,69723,175
 1,Glasspool Mimic // Glasspool Shore,False,NM,EN,,Zendikar Rising,znr,491688,5adcb500-8c77-4925-8e2c-1243502827d1,83069,60
 1,Castle Vantress,False,NM,EN,,Throne of Eldraine,eld,473204,0a8b9d37-e89c-44ad-bd1b-51cb06ec3e0b,78630,242
@@ -734,7 +777,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Duskmantle Guildmage,False,NM,EN,,Gatecrash,gtc,366328,9a1509ff-387e-4ccd-bda0-86e8738a98fb,47461,158
 1,"Duskmantle, House of Shadow",False,NM,EN,,Ravnica: City of Guilds,rav,88943,2d3c85e2-58a5-4469-85ea-7e89268f310c,23070,277
 1,Wayfarer's Bauble,False,NM,PT,,Fifth Dawn,5dn,51110,3db8fc1d-69fa-4a88-8f12-11fd614aac01,20776,165
-1,Tezzeret's Gambit,False,NM,EN,,New Phyrexia,nph,227547,fff5a09e-9276-44b8-b374-4b84aebd47cc,39910,47
+1,Tezzeret's Gambit,False,NM,EN,,Strixhaven Mystical Archive,sta,517571,05e5dbfd-84cf-4fe1-850f-3d2965ed3120,89099,21
 1,Vizkopa Guildmage,False,NM,EN,,Gatecrash,gtc,366371,41f505a3-2c54-43a9-b4a9-43a1451b36f6,47465,206
 1,Essence Harvest,False,NM,EN,,Avacyn Restored,avr,271114,7c3fac03-a019-4faa-bc1c-09e3a394fff7,44195,100
 1,Devour in Shadow,False,NM,PT,,Fifth Dawn,5dn,50210,98c80584-b7b5-4dcd-8a00-812b9dd9b1b9,20748,46
@@ -857,7 +900,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Golgari Signet,False,NM,EN,,Ravnica: City of Guilds,rav,95536,be03b002-1a3e-4b21-bc23-7f5a9cedb74f,23564,262
 1,Tree of Tales,False,LP,PT,,Mirrodin,mrd,46067,94db07aa-43d3-41b5-924e-60f1756b9c69,20249,285
 1,Terramorphic Expanse,False,NM,EN,,Duel Decks: Ajani vs. Nicol Bolas,ddh,249381,80e9c309-5903-49ac-869f-9f3c7aa827fd,42217,76
-1,Evolving Wilds,False,NM,EN,,Commander 2011,cmd,247396,3b52b2e9-31d1-4c9a-bf40-fc9c1eac7528,40592,272
+1,Evolving Wilds,False,NM,EN,,Adventures in the Forgotten Realms,afr,530837,bf6069f2-7a32-4cb7-b2ab-ea6b51267cca,0,353
 1,Wooded Bastion,False,NM,EN,,Shadowmoor,shm,146747,7e088fe6-e47a-4e27-b07e-ec35db045359,29495,281
 1,It That Betrays,False,NM,EN,,Rise of the Eldrazi,roe,198171,34d790ad-3559-4c32-9057-e2e326740bdc,36738,7
 1,"Kozilek, Butcher of Truth",False,NM,EN,,Rise of the Eldrazi,roe,193632,067fac91-2483-4678-b86a-2c54a3a480cf,36628,6
@@ -902,7 +945,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Llanowar Wastes,False,NM,EN,,Magic 2015,m15,383302,d75b4559-8946-45bb-a580-318a13d1e89e,53348,244
 1,Tidehollow Sculler,False,NM,EN,,Shards of Alara,ala,175054,1abecc77-07f2-43e4-8585-0a8199cdcf01,31125,202
 1,Imperious Perfect,False,NM,EN,,Lorwyn,lrw,139683,706fce74-fed9-4bf7-949d-7df6bef29238,28373,220
-1,Mana Tithe,False,NM,EN,,Planar Chaos,plc,122324,7d48d622-f397-4f31-b1a5-0c23f60aa71c,26511,25
+1,Mana Tithe,False,NM,EN,,Strixhaven Mystical Archive,sta,517558,e7f32354-893d-4f0b-b555-e0757fb5443b,89073,8
 1,Talisman of Impulse,False,NM,EN,,Mirrodin,mrd,39600,a00b65f7-70d0-4bbd-ac13-be24cc3374ee,19683,254
 1,Cleansing Meditation,False,NM,CT,,Torment,tor,29883,fd6609ef-71af-4775-affc-34153700c556,17099,3
 1,Avacyn's Pilgrim,False,NM,EN,,Modern Masters 2017,mm3,425944,e9600bdc-6a1b-4f7a-aa7d-538fb89df937,63289,119
@@ -1061,7 +1104,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Tainted Pact,False,NM,EN,,Odyssey,ody,29953,c513f51b-a0db-4c08-8acc-1e91060b93b7,16751,164
 1,Sylvan Scrying,False,LP,EN,,Mirrodin,mrd,49529,b4ff07b6-be9f-498f-9f36-cbd64f1b10cc,20225,130
 1,Sylvan Ranger,False,NM,EN,,Magic 2011,m11,204976,5f73ea30-c6d2-4224-ae54-f6b89e006cf4,37108,198
-1,Swords to Plowshares,False,NM,EN,,Eternal Masters,ema,413574,b6bafa7b-62a4-477c-b2f5-6b9d26c6cbf4,60667,32
+1,Swords to Plowshares,False,NM,EN,,Strixhaven Mystical Archive,sta,517560,cc9ece2f-7eda-4fc5-a562-3e16e71560e9,89077,10
 1,Sword of War and Peace,False,NM,EN,,New Phyrexia,nph,214368,fab5bc6c-8943-4078-866a-5d02f9be0eef,39730,161
 1,Sword of the Paruns,False,NM,EN,,Guildpact,gpt,107095,a2225d05-d85c-4304-8226-b056e7dedad7,23889,156
 1,Sword of the Meek,False,NM,EN,,Future Sight,fut,126215,e9f13705-6ede-4c29-a2b4-a082bf69e9c5,26660,165
@@ -1668,7 +1711,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,"Bruna, Light of Alabaster",False,NM,EN,,Commander 2018,c18,451125,58c56bad-68ed-4328-a7ea-c528b58dc2fd,0,170
 1,"Brudiclad, Telchor Engineer",False,NM,EN,,Commander 2018,c18,450640,c8f6fd4d-7761-482c-a641-97eab1553e6a,0,39
 1,"Breya, Etherium Shaper",True,NM,JP,,Commander 2016,c16,420646,8b585ce8-77a3-4755-8aa6-aee83724bbab,0,29
-1,Brainstorm,False,NM,EN,,Mercadian Masques,mmq,19571,9ff71d13-c4b7-4125-ab10-db4abbb7a074,13157,61
+1,Brainstorm,False,NM,EN,,Strixhaven Mystical Archive,sta,517563,11d27509-07c2-4445-a1d5-e56523fb8566,89083,13
 1,Boros Signet,False,NM,EN,,Commander 2020,c20,482867,c6b1edb0-47ee-4679-93e8-0a06138f9c5e,0,239
 1,Boros Charm,False,NM,EN,,Gatecrash,gtc,366435,d4ddf9cc-40a7-4b4f-bb51-b08171453c9a,47477,148
 1,Boreal Druid,False,NM,PT,,Coldsnap,csp,121193,473d3633-6dc7-4026-a50e-3ea76b9e8c20,24637,105
@@ -1676,7 +1719,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Bolas's Citadel,True,NM,EN,,War of the Spark Promos,pwar,0,33010ef0-8eba-402e-bf9b-e2efb41d2290,0,79
 1,Boil,False,NM,EN,,Eighth Edition,8ed,45373,15a0087c-4e0f-4547-b441-b5a517c00b91,19023,180
 1,Board the Weatherlight,False,NM,EN,,Dominaria,dom,442896,a11d10fa-d42d-4867-9e2f-fc8de582d5e7,67481,8
-1,Blue Sun's Zenith,False,NM,EN,,Commander 2013,c13,376268,1ed91aab-9009-4cab-9dd8-b595648df011,51122,32
+1,Blue Sun's Zenith,False,NM,EN,,Strixhaven Mystical Archive,sta,517562,3cad77b5-94eb-4715-9fc1-75c45c28e83a,89081,12
 1,Bloodstained Mire,False,NM,PT,,Onslaught,ons,39505,68c72226-6f52-4322-8b14-18737293dfa0,18249,313
 1,Bloodgift Demon,False,NM,CS,,Innistrad,isd,226885,f271addb-e267-4397-b181-f1eaeabbfe71,42786,89
 1,Blood Moon,False,NM,EN,,Modern Masters 2017,mm3,425915,8d045477-7593-46f9-8b40-1356aff1132f,63049,90

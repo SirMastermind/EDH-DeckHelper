@@ -3,6 +3,7 @@
 1,Fleet Swallower
 1,Fraying Sanity
 1,The Scarab God
+1,Fetid Pools
 1,Cyclonic Rift
 1,Counterspell
 1,Mystical Tutor
@@ -12,8 +13,6 @@
 1,Void Winnower
 1,Sunken Hollow
 1,Altar of the Brood
-1,Flooded Strand
-1,Polluted Delta
 1,"Urborg, Tomb of Yawgmoth"
 1,"Phenax, God of Deception"
 1,Army of the Damned
@@ -44,10 +43,6 @@
 1,Reanimate
 1,"Ulamog, the Infinite Gyre"
 1,Keening Stone
-1,Marsh Flats
-1,Misty Rainforest
-1,Scalding Tarn
-1,Verdant Catacombs
 1,Cabal Coffers
 1,Traumatize
 1,Demonic Tutor
@@ -77,16 +72,18 @@
 1,Mnemonic Betrayal
 1,"Ashiok, Dream Render"
 1,Command the Dreadhorde
-5,Snow-Covered Swamp
-5,Snow-Covered Island
-1,Prismatic Vista
+6,Snow-Covered Swamp
+7,Snow-Covered Island
 1,Altar of Dementia
 1,Clever Impersonator
 1,"Liliana, Death's Majesty"
 1,Temple of Deceit
 1,Windfall
 1,Academy Ruins
+1,Clearwater Pathway // Murkwater Pathway
 1,Court of Cunning
+1,Port of Karfell
 1,Diluvian Primordial
 1,Fractured Sanity
+1,Choked Estuary
 1,Shipwreck Marsh

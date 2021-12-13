@@ -12,7 +12,6 @@
 1,Thought Vessel
 1,Containment Priest
 1,Starstorm
-1,Flooded Strand
 1,Cloud of Faeries
 1,Chromatic Lantern
 1,Hallowed Fountain
@@ -22,14 +21,10 @@
 1,Akroma's Vengeance
 1,Sol Ring
 1,Command Tower
-1,Arid Mesa
-1,Marsh Flats
-1,Scalding Tarn
 1,Angelsong
 1,Tolaria West
 1,Sacred Foundry
-1,Fellwar Stone
-1,Chrome Mox
+1,Talisman of Progress
 1,Decree of Silence
 1,Decree of Annihilation
 1,Astral Slide
@@ -40,8 +35,10 @@
 1,Sea of Clouds
 1,"Jace, Wielder of Mysteries"
 1,Snow-Covered Mountain
-4,Snow-Covered Island
+5,Snow-Covered Island
 1,Snow-Covered Plains
+1,Talisman of Creativity
+1,Talisman of Conviction
 1,Secluded Steppe
 1,Lonely Sandbar
 1,Hall of Heliod's Generosity
@@ -50,7 +47,6 @@
 1,Rebuild
 1,Gilded Light
 1,Bag of Holding
-1,Dockside Extortionist
 1,Ash Barrens
 1,Idyllic Tutor
 1,Thassa's Oracle
@@ -95,3 +91,6 @@
 1,Hengegate Pathway // Mistgate Pathway
 1,Alhammarret's Archive
 1,Deserted Beach
+1,Desolate Lighthouse
+1,Stormcarved Coast
+1,Sundown Pass

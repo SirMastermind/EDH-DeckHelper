@@ -19,20 +19,20 @@ mainmenu () {
 	echo "Press 9 to produce want list from all decklists."
 	echo "Press 0 to check cards that should be added to the binder."
 	echo "Press q to check cards that should be removed to the binder."
-	echo "Press w to check wanted cards in a list."
+	echo "Press w to check common cards in two decks."
 	echo "Press x to exit the script."
 	read  -n 1 -p "Input Selection: " "mainmenuinput"
 	echo ""
 
-	if [ "$mainmenuinput" = "1" ]; then
-		echo "Reading the collection..."
+	if [ "$mainmenuinput" = "1" ]; then # Press 1 to check your collection.
+		echo "Reading the collection..." 
 		python3 ./scripts/printer.py collection
 		echo ""
 		echo "Press any key to continue..."
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "2" ]; then
+	elif [ "$mainmenuinput" = "2" ]; then # Press 2 to check your binder.
 		echo "Reading the binder..."
 		python3 ./scripts/printer.py binder
 		echo ""
@@ -40,7 +40,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "3" ]; then
+	elif [ "$mainmenuinput" = "3" ]; then # Press 3 to check cards you have in your binder.
 		echo "Reading the binder..."
 		python3 ./scripts/printer.py have
 		echo ""
@@ -48,7 +48,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "4" ]; then
+	elif [ "$mainmenuinput" = "4" ]; then # Press 4 to check cards you miss in your binder.
 		echo "Reading the binder..."
 		python3 ./scripts/printer.py miss
 		echo ""
@@ -56,7 +56,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "5" ]; then
+	elif [ "$mainmenuinput" = "5" ]; then # Press 5 to check a decklist.
 		echo "Reading decks..."
 		python3 ./scripts/printer.py decks
 		echo ""
@@ -64,7 +64,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "6" ]; then
+	elif [ "$mainmenuinput" = "6" ]; then # Press 6 to check positions from a decklist in the binder.
 		echo "Reading decks..."
 		python3 ./scripts/deckChecker.py decks
 		echo ""
@@ -72,7 +72,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "7" ]; then
+	elif [ "$mainmenuinput" = "7" ]; then # Press 7 to check single cards from a decklist.
 		echo "Reading decks..."
 		python3 ./scripts/deckChecker.py single
 		echo ""
@@ -80,7 +80,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "8" ]; then
+	elif [ "$mainmenuinput" = "8" ]; then # Press 8 to check cards missing from a decklist.
 		echo "Reading decks..."
 		python3 ./scripts/deckChecker.py missing
 		echo ""
@@ -88,7 +88,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "9" ]; then
+	elif [ "$mainmenuinput" = "9" ]; then # Press 9 to produce want list from all decklists.
 		echo "Reading decks..."
 		python3 ./scripts/deckChecker.py all
 		echo ""
@@ -96,7 +96,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "0" ]; then
+	elif [ "$mainmenuinput" = "0" ]; then # Press 0 to check cards that should be added to the binder.
 		echo "Compiling all decks..."
 		python3 ./scripts/binderChecker.py
 		echo ""
@@ -104,7 +104,7 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "q" ]; then
+	elif [ "$mainmenuinput" = "q" ]; then # Press q to check cards that should be removed to the binder.
 		echo "Compiling all decks..."
 		python3 ./scripts/coreChecker.py
 		echo ""
@@ -112,17 +112,17 @@ mainmenu () {
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "w" ]; then
+	elif [ "$mainmenuinput" = "w" ]; then # Press w to check common cards in two decks.
 		echo "Reading lists..."
-		python3 ./scripts/checkWantList.py
+		python3 ./scripts/checkCommonCards.py
 		echo ""
 		echo "Press any key to continue..."
 		read -n 1
 		clear
 		mainmenu
-	elif [ "$mainmenuinput" = "x" ]; then
+	elif [ "$mainmenuinput" = "x" ]; then # Press x to exit the script.
 		exit
-	elif [ "$mainmenuinput" = "X" ]; then
+	elif [ "$mainmenuinput" = "X" ]; then # Press x to exit the script.
 		exit
 	else
 		echo "You have entered an invallid selection!"
