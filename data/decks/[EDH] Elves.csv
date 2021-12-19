@@ -4,6 +4,7 @@
 1,Throne of the God-Pharaoh
 1,Heroic Intervention
 1,Shamanic Revelation
+1,"Freyalise, Llanowar's Fury"
 1,Reclamation Sage
 1,Llanowar Wastes
 1,"Nykthos, Shrine to Nyx"
@@ -22,8 +23,6 @@
 1,Elvish Champion
 1,Joraga Warcaller
 1,Quest for Renewal
-1,Beastmaster Ascension
-1,Immaculate Magistrate
 1,Imperious Perfect
 1,Lys Alana Huntmaster
 1,Llanowar Elves
@@ -47,10 +46,11 @@
 1,Golgari Findbroker
 1,Guardian Project
 1,Finale of Devastation
-16,Snow-Covered Forest
-2,Snow-Covered Swamp
+12,Snow-Covered Forest
+4,Snow-Covered Swamp
 1,Temple of Malady
 1,Lightning Greaves
+1,Castle Garenbrig
 1,Gilt-Leaf Palace
 1,Herald's Horn
 1,Arcane Signet
@@ -76,9 +76,11 @@
 1,Elderfang Venom
 1,Harvest Season
 1,Elvish Promenade
+1,Prowess of the Fair
 1,Putrefy
 1,Krosan Grip
 1,Myriad Landscape
 1,"Yavimaya, Cradle of Growth"
 1,Circle of Dreams Druid
+1,Grim Backwoods
 1,Deathcap Glade
