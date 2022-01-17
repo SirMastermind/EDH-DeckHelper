@@ -1,4 +1,18 @@
 Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse Id,Scryfall ID,MTGO ID,
+1,Teferi's Protection,False,NM,EN,,Strixhaven Mystical Archive,sta,517561,28e21c8c-5ad1-4830-8621-f0fd6500ca79,89079,11
+1,Ichor Wellspring,False,NM,EN,,Commander 2021,c21,519280,1ccdb407-ac8f-4736-89d3-ab0d086096ea,89595,245
+1,Rustvale Bridge,False,NM,EN,,Modern Horizons 2,mh2,522329,2207467a-b82a-47ae-8867-15a859328fe9,90887,253
+1,Deserted Beach,False,NM,EN,,Innistrad: Midnight Hunt,mid,538436,c092d9c5-538f-4667-9070-bdce7f8b522a,0,281
+1,Rockfall Vale,False,NM,EN,,Innistrad: Midnight Hunt,mid,538439,3bfcc5d4-babd-4b66-95fa-c5ec6c49e93a,0,284
+1,Shipwreck Marsh,False,NM,EN,,Innistrad: Midnight Hunt,mid,538440,07ad2562-fc26-40a1-9e6c-21f4f88dc2d8,0,285
+1,Deathcap Glade,False,NM,EN,,Innistrad: Crimson Vow,vow,544949,619474c0-2978-4152-9943-292707d99fb3,0,281
+1,Dreamroot Cascade,False,NM,EN,,Innistrad: Crimson Vow,vow,544950,2997c3b1-0255-41be-9189-03da53838f63,0,282
+1,Shattered Sanctum,False,NM,EN,,Innistrad: Crimson Vow,vow,544951,9885da74-30bd-461d-98ca-0dc72d817dbd,0,283
+1,Stormcarved Coast,False,NM,EN,,Innistrad: Crimson Vow,vow,544952,3e589848-2c25-43e8-a940-7769f7936815,0,284
+1,Sundown Pass,False,NM,EN,,Innistrad: Crimson Vow,vow,544953,5f1e7d34-f250-4a61-a95b-75450d134eec,0,285
+1,"Runo Stromkirk // Krothuss, Lord of the Deep",False,NM,EN,,Innistrad: Crimson Vow,vow,545050,17171779-e5d2-4431-a92d-def5606e9825,94226,327
+1,"Lathiel, the Bounteous Dawn",True,NM,EN,,Commander Legends,cmr,502755,913752eb-b446-41f8-9914-f78f981b042b,0,605
+1,"Adeline, Resplendent Cathar",False,NM,EN,,Innistrad: Midnight Hunt,mid,538491,2f71585a-3ea8-40f8-8e02-e155477fd8b5,94126,312
 1,Swamp,True,NM,EN,,Secret Lair Drop,sld,0,084efea7-2a22-4cca-a1f9-b47aad2ebcac,0,560
 1,"Sheoldred, Whispering One",False,NM,EN,,Secret Lair Drop,sld,0,18206ae6-08e2-4ad2-bc0a-6626a89b9516,0,211
 1,"Vorinclex, Voice of Hunger",False,NM,EN,,Secret Lair Drop,sld,0,603a7305-c036-47ef-8926-25b66a7905df,0,213
@@ -237,8 +251,8 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Phantasmal Image,False,NM,EN,,Forgotten Realms Commander,afc,532476,c1c080cf-a5e8-4d9d-af49-f78588971e87,0,89
 1,"Heliod, Sun-Crowned",False,NM,EN,,Theros Beyond Death,thb,0,e11cf760-da35-41f2-8cf5-a5141103eeb3,0,259
 1,Alhammarret's Archive,False,NM,EN,,Commander 2021,c21,519268,4f4187f1-05bd-4db6-a2e7-d677eff588ee,89571,233
-1,Clearwater Pathway // Murkwater Pathway,False,NM,EN,,Zendikar Rising,znr,0,b0fe4b53-18f6-42eb-b03f-cab3e5a7fba6,0,286
-1,Cragcrown Pathway // Timbercrown Pathway,False,NM,EN,,Zendikar Rising,znr,0,050602c0-b5b7-4076-af33-0f7a58d0b260,0,287
+1,Clearwater Pathway // Murkwater Pathway,False,NM,EN,,Zendikar Rising,znr,495465,b0fe4b53-18f6-42eb-b03f-cab3e5a7fba6,0,286
+1,Cragcrown Pathway // Timbercrown Pathway,False,NM,EN,,Zendikar Rising,znr,495467,050602c0-b5b7-4076-af33-0f7a58d0b260,0,287
 1,Sylvan Library,False,NM,EN,,Commander Collection: Green,cc1,509341,7a483778-b88b-473f-9217-7583e69b3e70,0,5
 1,Nacatl War-Pride,False,NM,EN,,Future Sight,fut,130588,4ef863d2-1e11-41cc-90d5-008bf6234565,26706,147
 1,Choked Estuary,False,NM,EN,,Forgotten Realms Commander,afc,532615,5573b816-97d0-46c1-8438-f5740fa4759a,0,228
@@ -275,14 +289,14 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Dance of the Manse,False,NM,EN,,Throne of Eldraine,eld,473148,5dca90ef-1c17-4dcc-9fef-dab9ee92f590,78516,186
 1,"Sarulf, Realm Eater",False,NM,EN,,Kaldheim,khm,507684,45b31046-d84d-4afa-a207-bb6cccac4339,0,330
 1,"Phylath, World Sculptor",False,NM,EN,,Zendikar Rising,znr,495210,c344a3cd-43e0-4333-83ec-081f0e39530a,0,313
-1,Wandering Archaic // Explore the Vastlands,False,NM,EN,,Strixhaven: School of Mages,stx,513482,18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312,88489,6
+1,Wandering Archaic // Explore the Vastlands,False,NM,EN,,Strixhaven: School of Mages,stx,513482,18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312,88487,6
 1,Furycalm Snarl,False,NM,EN,,Strixhaven: School of Mages,stx,513758,53e33f37-7fd1-4431-a032-cd61b644401c,89039,266
 1,Shineshadow Snarl,False,NM,EN,,Strixhaven: School of Mages,stx,513764,84a46ebf-6938-4100-8f5f-0605ad2be4fc,89051,272
 1,Frostboil Snarl,False,NM,EN,,Strixhaven: School of Mages,stx,513757,c22ba565-da08-4957-93bb-8d266fe0b0d8,89037,265
 1,Necroblossom Snarl,False,NM,EN,,Strixhaven: School of Mages,stx,513761,b0aed316-c28a-4c1a-a0a3-ab75ceba3ee7,89045,269
-1,Needleverge Pathway // Pillarverge Pathway,False,NM,EN,,Zendikar Rising,znr,0,ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a,0,288
+1,Needleverge Pathway // Pillarverge Pathway,False,NM,EN,,Zendikar Rising,znr,495469,ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a,0,288
 1,Ochre Jelly,False,NM,EN,,Adventures in the Forgotten Realms,afr,530964,ee60bdf5-d954-4e28-9858-d3780c1b5b41,0,330
-1,"Valentin, Dean of the Vein // Lisette, Dean of the Root",False,NM,EN,,Strixhaven: School of Mages,stx,513652,65008352-bc7e-40b2-a832-b46813e5dc4c,88829,161
+1,"Valentin, Dean of the Vein // Lisette, Dean of the Root",False,NM,EN,,Strixhaven: School of Mages,stx,513652,65008352-bc7e-40b2-a832-b46813e5dc4c,88827,161
 1,Rhox Faithmender,False,NM,EN,,Jumpstart,jmp,489614,62498e3c-2e9b-4444-a61c-fae3f8906010,0,130
 1,Sanctum Weaver,False,NM,EN,,Modern Horizons 2,mh2,522247,4d42e22d-f60e-40c5-b069-5e1708f3bebc,90719,171
 1,"Sythis, Harvest's Hand",False,NM,EN,,Modern Horizons 2,mh2,522290,0babfe00-9bad-48fc-b3b1-df8280242fd2,90809,214
@@ -406,9 +420,9 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Haunting Voyage,False,NM,EN,,Kaldheim,khm,503707,2ac5bca0-35fe-47be-a78c-d5eac68a3bfa,87525,98
 1,Canopy Tactician,False,NM,EN,,Kaldheim,khm,506920,3eaf48c9-09bc-4d81-a3a5-432219a71754,87279,378
 1,Realmwalker,False,NM,EN,,Kaldheim,khm,507191,e8a0877c-5217-422d-89b8-92f951068693,0,399
-1,Brightclimb Pathway // Grimclimb Pathway,False,NM,EN,,Zendikar Rising,znr,0,eb55e544-ab9d-403d-93ee-19e792a256c5,0,285
-1,Branchloft Pathway // Boulderloft Pathway,False,NM,EN,,Zendikar Rising,znr,0,738ebafa-04be-4ba9-ae65-5f85e00c645a,0,284
-1,Riverglide Pathway // Lavaglide Pathway,False,NM,EN,,Zendikar Rising,znr,0,78792607-0872-4de4-a9d8-92f1d58f4a71,0,289
+1,Brightclimb Pathway // Grimclimb Pathway,False,NM,EN,,Zendikar Rising,znr,495463,eb55e544-ab9d-403d-93ee-19e792a256c5,0,285
+1,Branchloft Pathway // Boulderloft Pathway,False,NM,EN,,Zendikar Rising,znr,495462,738ebafa-04be-4ba9-ae65-5f85e00c645a,0,284
+1,Riverglide Pathway // Lavaglide Pathway,False,NM,EN,,Zendikar Rising,znr,495472,78792607-0872-4de4-a9d8-92f1d58f4a71,0,289
 1,Tyvar Kell,False,NM,EN,,Kaldheim,khm,507138,a19b35ee-03ba-43f0-8c57-29718c899719,0,287
 1,Voracious Hydra,True,NM,EN,,Core Set 2020,m20,466954,74bbe44f-864a-446c-bfc9-5f5188e663b8,73299,200
 1,Vault of the Archangel,False,NM,EN,,Dark Ascension,dka,270938,35a65437-430a-42ef-854f-6e66f8e1a04a,43485,158
