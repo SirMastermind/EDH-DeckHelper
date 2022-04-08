@@ -1,4 +1,135 @@
 Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse Id,Scryfall ID,MTGO ID,
+1,Unquenchable Fury,False,NM,EN,,Neon Dynasty Commander,nec,553920,db6b3f71-d833-4548-8d66-1d51da08d8b9,0,23
+1,Duh,False,NM,EN,,Unsanctioned,und,479428,318bc78c-65ef-4d1b-a710-cdf08636b572,0,35
+1,Staying Power,False,NM,EN,,Unsanctioned,und,479410,fcc13f28-6d2e-4589-b475-3c18d0eea2de,0,13
+1,Frankie Peanuts,False,NM,EN,,Unsanctioned,und,479404,440c3e8b-d9c6-46cd-9f39-86db077fb89d,0,5
+1,"Ludevic, Necro-Alchemist",True,NM,EN,,Commander Legends,cmr,503328,07d6724f-f781-446b-be69-5c6949f9bbaa,0,525
+1,"Tevesh Szat, Doom of Fools",False,NM,EN,,Commander Legends,cmr,497673,8f244716-78ab-46f5-b6e9-fc1e6db28052,85088,153
+1,Windborn Muse,False,NM,EN,,Crimson Vow Commander,voc,545721,b098ad05-3e30-4a73-b327-da1cdc22786d,0,101
+1,Midnight Clock,False,NM,EN,,Crimson Vow Commander,voc,545728,106fc548-a50c-4c0a-820d-b4fc0d4a0495,0,108
+1,Sword of Hearth and Home,False,NM,EN,,Modern Horizons 2,mh2,522314,a16fabbe-4557-4067-b882-f2e5dbd8b458,90857,238
+1,Punctuate,False,NM,EN,,Unhinged,unh,74248,79b90711-1bf8-446c-9431-df693b8d8d79,0,84
+1,"Alibou, Ancient Witness",True,NM,EN,,Commander 2021,c21,518313,fd2fc2d4-c4fb-4dcb-93fa-aaf8c1182f15,89257,7
+1,Combat Calligrapher,False,NM,EN,,Commander 2021,c21,518410,d3b9136e-7f71-40d5-bdfb-d710cd39912d,89771,14
+1,Baron Von Count,False,NM,EN,,Unstable,ust,439516,19d31d5c-6d4d-4bd8-b69c-b44c5b7f089f,0,127
+1,Veil of Summer,False,NM,EN,,The List,plist,0,802ec16f-efa4-4618-8bbe-3377d8a0c9c4,0,436
+1,Krark's Other Thumb,False,NM,EN,,Unstable,ust,439540,fe6eab86-ca0c-4fd6-9839-dda15ba2b1ac,0,151
+1,"Nils, Discipline Enforcer",False,NM,EN,,Commander 2021,c21,518416,873f5d0c-7fee-4921-90d3-379c483e2882,89783,20
+1,Mycoloth,False,NM,EN,,Commander 2015,c15,405313,014c07d2-b698-4459-b8b8-47f3aa1acce3,0,192
+1,Farewell to Arms,False,NM,EN,,Unhinged,unh,74300,71bc23dc-ae0e-499b-824a-7eb0e20a3282,0,56
+1,Complicate,False,NM,EN,,Onslaught,ons,41146,33f69670-e494-42b8-9148-fe105ec61aa0,17849,76
+1,Face to Face,False,NM,EN,,Unhinged,unh,73966,64c93900-1af7-4c6b-a844-055bb7e27ddb,0,76
+1,"Slogurk, the Overslime",False,NM,EN,,Innistrad: Midnight Hunt,mid,535038,f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3,93490,242
+1,Swamp,False,NM,EN,,Innistrad: Midnight Hunt,mid,538231,77ba59d8-c13c-4966-845f-c090e9f061cb,94168,272
+1,Forest,False,NM,EN,,Innistrad: Midnight Hunt,mid,538236,122b5548-5ff5-43e4-b799-75c709b1c32d,94178,277
+1,Island,False,NM,EN,,Innistrad: Midnight Hunt,mid,538230,ed2cfa62-c972-4373-b405-a075697d009c,94166,271
+1,Forest,False,NM,EN,,Innistrad: Midnight Hunt,mid,538235,ad8ff40e-2d40-4557-8209-d2c84eb4ccf2,94176,276
+1,Swamp,False,NM,EN,,Innistrad: Midnight Hunt,mid,538232,38fef662-993c-4522-8b3f-7c1d3bb1d946,94170,273
+1,Old Stickfingers,False,NM,EN,,Innistrad: Midnight Hunt,mid,535030,b203be6f-c565-4d8f-b200-b537569a0292,93474,234
+1,Mountain,False,NM,EN,,Innistrad: Midnight Hunt,mid,538234,7a4c0731-555a-4bef-9d9e-b877f0339417,94174,275
+1,Inkshield,False,NM,EN,,Commander 2021,c21,518467,5e1c14a0-cd68-45fc-a127-422ca6113048,89885,71
+1,Trostani Discordant,False,NM,EN,,Guilds of Ravnica,grn,452958,fa1190a4-3d7e-4500-991f-e36ec3d1d9dc,69789,208
+1,Hour of Reckoning,False,NM,EN,,Midnight Hunt Commander,mic,539348,0a14b17e-bfff-4859-92cb-a82d2e90580b,93590,87
+1,Cruel Celebrant,False,NM,EN,,The List,plist,0,9a5c8f08-19f2-4511-9f79-dcc4633eba07,0,629
+1,Corpse Knight,False,NM,EN,,Core Set 2020,m20,466960,8b45117b-8369-48fc-8e5d-8986e662d123,73311,206
+1,Noxious Revival,False,NM,EN,,New Phyrexia,nph,230067,1bdd1243-1d14-496a-9b7a-0c5b34461361,39922,118
+1,Jokulhaups,False,NM,EN,,Fifth Edition,5ed,4067,6d81e479-45b7-4237-a0eb-95245582e87d,0,246
+1,Skeletal Swarming,False,NM,EN,,Adventures in the Forgotten Realms,afr,527519,3768ac68-0d87-4f99-aa77-2d009df0a567,91966,232
+1,The Reality Chip,False,NM,EN,,Kamigawa: Neon Dynasty,neo,548372,d859de3a-0be1-4e66-b438-1c3d4ee756cd,97068,74
+1,"Shigeki, Jukai Visionary",False,NM,EN,,Kamigawa: Neon Dynasty,neo,552268,62c303e5-a0af-4e42-afcc-1d3a81c78e8e,0,394
+1,"Kyler, Sigardian Emissary",False,NM,EN,,Midnight Hunt Commander,mic,540709,62a78aae-598e-4f2b-a7bc-c3afc1d0d191,93846,4
+1,Biomancer's Familiar,False,NM,EN,,Ravnica Allegiance,rna,457302,d38c9891-36d1-4565-9c4a-1cd9dbf8c048,71316,158
+1,"Maja, Bretagard Protector",False,NM,EN,,Kaldheim,khm,507681,b8832509-497d-4253-bbb1-92adfb69368f,0,327
+1,Brilliant Restoration,False,NM,EN,,Kamigawa: Neon Dynasty,neo,552237,820390d7-fabb-4556-8d30-99f0a58b2da5,0,363
+1,Frilled Mystic,False,NM,EN,,Ravnica Allegiance,rna,457318,50595d02-edad-48a6-b10c-6fa859cc88bb,71348,174
+1,Honden of Seeing Winds,False,NM,EN,,Champions of Kamigawa,chk,79176,ad732186-eeb9-4edb-a17a-51f8bac71802,21381,69
+1,The World Tree,False,NM,EN,,Kaldheim,khm,503895,a70cb6d9-3955-4064-917b-11dec26440c5,87901,275
+1,Whiptongue Hydra,False,NM,EN,,Neon Dynasty Commander,nec,554216,57cfa420-306d-4d2c-8e83-fa9b46f2aa27,0,134
+2,Swamp,False,NM,EN,,Zendikar,zen,201976,a095fed4-0a2a-4092-b923-8f46c8ea22d8,34840,240
+1,Swamp,False,NM,PT,,Zendikar,zen,201976,a095fed4-0a2a-4092-b923-8f46c8ea22d8,34840,240
+1,Ruthless Technomancer,False,NM,EN,,Neon Dynasty Commander,nec,553729,b6f8e7b9-d90b-40a5-88f4-4edfae0d01f7,0,56
+1,Circle of Flame,False,NM,EN,,Magic 2012,m12,220273,419b1813-9760-47b9-b6f3-e501586cfe4d,41451,127
+1,Stoneshaker Shaman,False,NM,EN,,Ravnica: City of Guilds,rav,89105,17a0edb0-697a-4e0b-872b-f3c15c19cbda,23504,145
+1,Splendid Reclamation,False,NM,EN,,Innistrad: Crimson Vow,vow,541088,fad4ca85-4d2d-4d1e-86ca-aa25edfcda61,94804,221
+1,Spirit Mantle,False,NM,PT,,Magic 2012,m12,220154,930c8444-ccce-411e-bc4f-e5abca749608,41395,35
+1,"Sigarda, Heron's Grace",False,NM,EN,,Midnight Hunt Commander,mic,539416,a1de7031-f589-4af5-9c63-06fb7ec7a6b5,93726,155
+1,Cyberdrive Awakener,False,NM,EN,,Neon Dynasty Commander,nec,553909,2a2c0a2f-07fb-4cc0-9b99-e5ff4303028d,0,12
+1,"Sunhome, Fortress of the Legion",False,NM,EN,,Ravnica: City of Guilds,rav,83794,a8a69f7b-be68-43f7-b1ed-df528bde74e5,23456,282
+1,"Kaima, the Fractured Calm",False,NM,EN,,Neon Dynasty Commander,nec,553690,467033f7-8d59-4b80-8c2e-c36f3ad93438,0,3
+1,"Losheel, Clockwork Scholar",False,NM,EN,,Commander 2021,c21,518414,db1d67fe-bffe-45ad-af6a-cb131ddb1a12,89779,18
+1,Heronblade Elite,False,NM,EN,,Midnight Hunt Commander,mic,540469,36938a8e-8da0-4f27-86c3-6032aa7642b5,93834,26
+1,Wilderness Reclamation,False,NM,EN,,Commander 2020,c20,482824,94a28102-dfbe-49e9-b64f-52b552afac1b,0,196
+1,Loyal Drake,False,NM,EN,,Commander 2018,c18,450611,1c719b37-6508-45bc-8cda-36aa85561e3b,0,10
+1,Loyal Apprentice,False,NM,EN,,Commander 2018,c18,450624,b5fef5fe-3e59-4fd6-8a88-7c1cee56892f,0,23
+1,Glowspore Shaman,False,NM,EN,,Guilds of Ravnica,grn,452923,08fe260a-d204-4e75-b3e5-0cd9b4ca7084,69719,173
+1,Emeria Angel,False,NM,EN,,Zendikar Rising Commander,znc,495953,491c6b65-244e-4146-9fbc-6eb00e78e1b7,0,15
+1,Golgari Charm,False,NM,EN,,Return to Ravnica,rtr,265385,48fce388-eefc-4234-8dd9-1260c1ba97eb,46451,164
+1,Imposter Mech,False,NM,EN,,Neon Dynasty Commander,nec,553910,59b7450c-3163-4f12-9af1-2e998a6c36cf,0,13
+1,Gruul Charm,False,NM,EN,,Gatecrash,gtc,366360,9235afe5-0a6b-43c2-921c-18524cf032f1,47483,169
+1,Return to Nature,False,NM,EN,,War of the Spark,war,461102,085e3129-591b-46ec-ac8b-cff428927c01,71956,175
+1,Dimir Charm,False,NM,EN,,Gatecrash,gtc,366473,f3f4cfa7-8ee4-4a85-9e6a-65a7541f62c1,47479,154
+1,Rage Extractor,False,NM,EN,,New Phyrexia,nph,214385,d8cebc2c-a46b-4459-b62b-7fce1a744b11,39752,91
+1,Baleful Strix,False,NM,EN,,Forgotten Realms Commander,afc,532564,3e417331-84ec-4513-8022-e93ffc260a38,0,177
+1,Digsite Engineer,False,NM,EN,,Commander 2021,c21,521611,0050be51-8c4e-4b97-b171-ede5fadfd141,0,342
+1,Research Thief,False,NM,EN,,Neon Dynasty Commander,nec,553913,d0ef159d-657a-4566-b9e0-f545df230025,0,16
+1,Cunning Rhetoric,False,NM,EN,,Commander 2021,c21,518434,356d9d36-cf03-41f2-abfa-eb45176ce18d,89819,38
+1,Organic Extinction,False,NM,EN,,Neon Dynasty Commander,nec,553905,fea0f8be-c242-49dd-bae3-0b306107ac0b,0,8
+1,Simic Charm,False,NM,PT,,Gatecrash,gtc,366463,97c27bdd-77f5-4e93-8f54-93a204fc980a,47485,195
+1,"Isshin, Two Heavens as One",False,NM,EN,,Kamigawa: Neon Dynasty,neo,548536,a062a004-984e-4b62-960c-af7288f7a3e9,97396,224
+1,"Anafenza, the Foremost",False,NM,EN,,Khans of Tarkir,ktk,386476,c8b432a7-53da-4480-b571-e6feb1364a3a,54248,163
+1,Bant Charm,False,NM,EN,,Commander 2018,c18,451124,1bb6e08b-58a9-4f2f-b9b3-1b8864ee5afd,0,169
+1,Murkfiend Liege,False,NM,EN,,Commander Legends,cmr,500928,bcd7296c-ace8-43ea-8164-c69f8843d022,85706,448
+1,Prava of the Steel Legion,True,NM,EN,,Commander Legends,cmr,502702,23c33648-fb0e-4460-aae6-f3793d86e689,0,552
+1,"Jin-Gitaxias, Progress Tyrant",False,NM,EN,,Kamigawa: Neon Dynasty,neo,552963,8855ca31-842e-4962-a5f0-163a3f833784,0,307
+1,Zulaport Cutthroat,False,NM,EN,,Commander 2020,c20,482770,5676c6b6-a1f7-4f4e-a8a6-3398fb5130fd,0,142
+1,"Ikra Shidiqi, the Usurper",True,NM,EN,,Commander Legends,cmr,503322,0fb98089-11b8-4afd-9724-e488d864b4dc,0,519
+1,Eerie Ultimatum,False,NM,EN,,Ikoria: Lair of Behemoths,iko,479704,3a9fb2db-228f-4d48-acdf-6330baf356c7,80377,184
+1,Fleeting Memories,False,NM,EN,,Shadows over Innistrad,soi,409805,4b9eaf90-2a9e-44a7-bdae-03c26f9d21e7,60098,62
+1,Foul Play,False,NM,EN,,Innistrad: Midnight Hunt,mid,534872,87e4b75c-e993-4983-8933-977be314bba6,93158,101
+1,Secrets of the Key,False,NM,EN,,Innistrad: Midnight Hunt,mid,534839,9b022ba8-07b6-4993-99c8-89c6dcb19e60,93092,73
+1,"Teferi, Who Slows the Sunset",False,NM,EN,,Innistrad: Midnight Hunt,mid,538395,b94bc06c-6351-43d3-a58d-b28dc6d4705c,0,280
+1,"Eloise, Nephalia Sleuth",False,NM,EN,,Midnight Hunt Commander,mic,540708,bf81da34-4c2b-4e54-a60b-46ab41f72431,93844,3
+1,Investigator's Journal,False,NM,EN,,Innistrad: Crimson Vow,vow,541134,f8a606e5-7a90-4a89-b51a-7f4e68705f97,94896,258
+1,Ethereal Investigator,False,NM,EN,,Crimson Vow Commander,voc,546976,a81b1492-ef70-4d8d-9458-c25a084107a7,0,12
+1,Predators' Hour,False,NM,EN,,Crimson Vow Commander,voc,546985,dea6d749-d2a9-43f0-8ab4-ff83ba294564,0,21
+1,Reverse Engineer,False,NM,EN,,Aether Revolt,aer,423709,d56f8cca-6b8f-45ea-926f-161938716ee9,62647,42
+1,Farhaven Elf,False,NM,EN,,Commander Legends,cmr,497745,db681025-f912-4cba-8b89-c57cda2e6d53,85232,225
+1,Prowess of the Fair,False,NM,EN,,Kaldheim Commander,khc,508343,b870c742-e799-4276-bb3d-f2c288ce0db8,0,53
+1,Daring Sleuth // Bearer of Overwhelming Truths,False,NM,EN,,Shadows over Innistrad,soi,409796,440f9f10-6999-4cff-ab98-8aed77813b07,60400,54
+1,Erdwal Illuminator,False,NM,EN,,Shadows over Innistrad,soi,409803,63df99f9-4f85-4c76-8d76-9075c9ef2b86,60284,60
+1,Ongoing Investigation,False,NM,EN,,Shadows over Innistrad,soi,409820,19b8f962-8d4e-4dd8-a157-c0a55f9e152a,60358,77
+1,Briarbridge Patrol,False,NM,EN,,Shadows over Innistrad,soi,409953,f44a017b-40cb-4c15-b9ea-a3ed904e4e49,60144,195
+1,Ulvenwald Mysteries,False,NM,EN,,Shadows over Innistrad,soi,410000,911a2b5d-7e2d-4358-8e38-cbae7192e4d4,60266,236
+1,Magnifying Glass,False,NM,EN,,Shadows over Innistrad,soi,410024,f7a708d5-f757-4fcf-a167-5b5920c6adeb,60138,258
+1,Root Out,False,NM,EN,,Shadows over Innistrad,soi,409986,ffb04258-d6ab-440c-85d2-05a995aeba2c,60376,224
+7,Swamp,False,NM,EN,,Battle for Zendikar,bfz,402058,a8594426-c965-4187-a72d-7582f21b0ea1,58831,261
+1,Confirm Suspicions,False,NM,EN,,Shadows over Innistrad,soi,409795,cf7fcbc2-1034-442d-9f2a-7d79ea40ac3d,60328,53
+1,Bituminous Blast,False,NM,EN,,Archenemy,arc,220518,3005cc7f-f7a6-47ff-bad6-0b1b93ff2b66,0,81
+1,"Valduk, Keeper of the Flame",False,NM,EN,,Dominaria,dom,443036,253f9e43-5bc6-4f26-a8e9-773cd0ca3d02,67761,148
+1,Battle Screech,False,NM,EN,,Modern Horizons,mh1,463953,eacf7dd0-5855-4e7b-b75c-8119cc3d1460,72380,4
+1,Thraben Inspector,False,NM,EN,,Shadows over Innistrad,soi,409784,d140c3b7-ca78-483d-baeb-307b624fea8b,60240,44
+1,Relic of Progenitus,False,NM,PT,,Shards of Alara,ala,174824,90c41192-64ef-43aa-9af0-75f0d3f56688,30895,218
+1,Haze of Rage,False,NM,EN,,Future Sight,fut,130328,846134c0-5a8d-4ccb-8451-db29b70be3f5,26948,100
+1,Brainstone,False,NM,EN,,Modern Horizons 2,mh2,525607,8ef23258-511f-43f8-b84f-bd2256b5c86b,91125,426
+3,Commander's Sphere,False,NM,EN,,Commander Legends,cmr,497826,a01c16a5-bc50-406f-9ab1-e8346acffbca,85394,306
+2,Commander's Sphere,False,NM,EN,,Commander 2020,c20,482868,89c29c9c-9d4b-4809-9a95-796adfbce22a,0,240
+1,Viscera Seer,False,NM,EN,,Commander Legends,cmr,497678,d49203dd-89b6-4e91-b3ff-5f9f5ce981f8,85098,158
+1,Armillary Sphere,False,NM,EN,,Commander Legends,cmr,497818,af3ae93e-6094-483d-b2c0-ae117ad01293,85378,298
+1,The Prismatic Piper,False,NM,EN,,Commander Legends,cmr,497521,a69e6d8f-f742-4508-a83a-38ae84be228c,84784,1
+1,Command Tower,False,NM,EN,,Commander Legends,cmr,497870,86424491-a372-40c4-bfb5-faa2b2d41d4c,85482,350
+1,Arcane Signet,False,NM,EN,,Commander Legends,cmr,497817,ee40458c-7f3a-4fa6-976f-be1f7a336fdc,85376,297
+1,Hard Evidence,False,NM,EN,,Modern Horizons 2,mh2,522122,501599d6-1072-4124-b05d-01f96de153f3,90461,46
+1,Rise and Shine,False,NM,EN,,Modern Horizons 2,mh2,522134,2e658cb2-11c5-4b59-a91c-f26ac28e82af,90485,58
+1,Circle of Dreams Druid,False,NM,EN,,Adventures in the Forgotten Realms,afr,527463,be6fdec0-a2c4-4da2-ae14-961185eaee66,91854,176
+1,Sol Ring,False,NM,EN,,Commander 2018,c18,451177,83a0f2eb-2f6d-4aaa-b7a9-ea06d5de7eca,0,222
+1,Command Tower,False,NM,EN,,Commander 2011,cmd,237004,46982091-cc78-4171-8b3d-d07592684728,40656,269
+1,Swamp,False,NM,EN,,Zendikar Rising,znr,491930,26142ae3-5aa1-4b9b-989a-21c0e4e5089d,83553,273
+1,Valakut Awakening // Valakut Stoneforge,False,NM,EN,,Zendikar Rising,znr,0,a156b510-8879-4a7b-b15b-71374cb1e6f7,0,355
+1,"Kaza, Roil Chaser",True,NM,EN,,Zendikar Rising,znr,491876,af6bc333-79c0-4de8-9874-80f2254f9ad2,83445,225
+1,Fyndhorn Elves,False,NM,EN,,Ice Age,ice,2568,3ba95ffa-990a-4013-98b7-5d8c0b34e9c4,0,244
+1,Sanctum of All,False,NM,EN,,Core Set 2021,m21,488280,9b401c8b-dea9-4df7-8929-52370d47bf91,0,381
+1,"Keskit, the Flesh Sculptor",True,NM,EN,,Commander Legends,cmr,502715,b6448e6e-f625-4dce-a7b9-01fee55cce6f,0,565
+1,Kaalia of the Vast,False,NM,EN,,Double Masters,2xm,491363,86f670f9-c5b7-4eb0-a7d0-d16513fadf74,0,354
 1,Break the Ice,False,NM,EN,,Modern Horizons 2,mh2,522153,01ca9568-06b6-4c57-b1f6-8a74ec2a2b91,90527,77
 1,Flame Blitz,False,NM,EN,,Modern Horizons 2,mh2,522200,a93c6ba8-666b-4c05-8137-8ffa1d5d928b,90625,124
 1,"Ardenn, Intrepid Archaeologist",False,NM,EN,,Commander Legends,cmr,497530,728b802c-969b-4865-b7a0-871c585d097a,84802,10
@@ -8,13 +139,13 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Sky Diamond,False,NM,EN,,Commander Legends,cmr,497861,6bc62a1e-830b-4b07-91e4-303e66d93648,85464,341
 1,Intangible Virtue,False,NM,EN,,Commander Legends,cmr,497544,535764b9-67b2-4123-a4be-2aa72fcd8a33,84830,24
 1,Fire Diamond,False,NM,EN,,Commander Legends,cmr,497829,3f65f1fa-4196-40ba-8ca3-e68560fef392,85400,309
-1,Go-Shintai of Boundless Vigor,False,NM,EN,,Kamigawa: Neon Dynasty,neo,0,691016a1-8630-423c-9a57-061593d170fd,97314,187
-1,Go-Shintai of Ancient Wars,False,NM,EN,,Kamigawa: Neon Dynasty,neo,0,5b915e8d-b972-4ae1-a1c3-74d6623963c8,97218,144
+1,Go-Shintai of Boundless Vigor,False,NM,EN,,Kamigawa: Neon Dynasty,neo,548495,691016a1-8630-423c-9a57-061593d170fd,97314,187
+1,Go-Shintai of Ancient Wars,False,NM,EN,,Kamigawa: Neon Dynasty,neo,548447,5b915e8d-b972-4ae1-a1c3-74d6623963c8,97218,144
 1,Honden of Night's Reach,False,NM,EN,,Champions of Kamigawa,chk,79098,526419ae-5a49-40e8-ac45-f213a76c7326,21339,116
 1,Port of Karfell,False,NM,EN,,Kaldheim,khm,503885,bb9465a6-d009-4ecd-9fd1-d046547de902,87881,265
-1,Go-Shintai of Shared Purpose,False,NM,EN,,Kamigawa: Neon Dynasty,neo,0,0ab91962-ebad-46f6-9f90-7477c224d93d,96938,14
-1,Go-Shintai of Lost Wisdom,False,NM,EN,,Kamigawa: Neon Dynasty,neo,0,7ec1192c-25b8-4975-ae6c-86be28ac1840,97026,55
-1,Go-Shintai of Hidden Cruelty,False,NM,EN,,Kamigawa: Neon Dynasty,neo,0,45e1ff1e-916b-4455-84cb-4125a79d76de,97114,97
+1,Go-Shintai of Shared Purpose,False,NM,EN,,Kamigawa: Neon Dynasty,neo,548307,0ab91962-ebad-46f6-9f90-7477c224d93d,96938,14
+1,Go-Shintai of Lost Wisdom,False,NM,EN,,Kamigawa: Neon Dynasty,neo,548351,7ec1192c-25b8-4975-ae6c-86be28ac1840,97026,55
+1,Go-Shintai of Hidden Cruelty,False,NM,EN,,Kamigawa: Neon Dynasty,neo,548395,45e1ff1e-916b-4455-84cb-4125a79d76de,97114,97
 1,Opulent Palace,False,NM,EN,,Khans of Tarkir,ktk,386620,21326575-80b9-4a4e-a93c-6880ec6575d5,54164,238
 1,Riptide Laboratory,False,NM,EN,,Modern Horizons 2,mh2,526274,25a9cb87-e572-4885-8561-1d4b158ec7e4,91033,303
 1,Sphinx of the Second Sun,False,NM,EN,,Commander Legends,cmr,497619,e68b70a6-a150-4d81-921c-9b178fe0037d,84980,99
@@ -992,7 +1123,6 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Chain Reaction,False,NM,EN,,Worldwake,wwk,201573,614b9df9-c959-4bdb-91c0-75ae60b724e4,35637,74
 1,Act of Aggression,False,NM,EN,,New Phyrexia,nph,230076,61a9f30b-d154-49a4-ad6b-f05601992de3,39936,78
 1,Staggering Insight,False,NM,EN,,Theros Beyond Death,thb,476479,125b8be1-76b9-434e-a505-5099d950767c,79580,228
-1,Obsidian Battle-Axe,False,NM,EN,,Morningtide,mor,154164,c7978371-9ea8-4264-9a2f-38226ea25018,29220,144
 1,Reckless Wurm,False,NM,EN,,Mystery Booster,mb1,0,2f77bc31-3754-4b33-b067-a802e2d35484,0,1036
 1,Distemper of the Blood,False,NM,EN,,Mystery Booster,mb1,0,90f5d170-f9cb-4ca3-aee0-b44a6ad0c7b9,0,906
 1,Thrill of Possibility,False,NM,EN,,Theros Beyond Death,thb,476410,2e807edb-838d-44fe-a37e-fb864d59beaa,79442,159
@@ -1095,7 +1225,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Anje's Ravager,False,NM,EN,,Commander 2019,c19,470568,22924c44-5551-4a48-a574-dfef91a5d4d7,77098,22
 1,Alchemist's Greeting,False,NM,EN,,Commander 2019,c19,470679,7b68c607-27f2-4a00-9876-186b5a426764,77380,133
 1,Loaming Shaman,False,LP,PT,,Dissension,dis,107568,e34b3f97-1c00-4ad2-a28d-6f064f499761,24295,87
-1,Farseek,False,NM,EN,,Ravnica: City of Guilds,rav,87970,8180abec-9459-4b81-987e-b1794e45d543,23262,163
+3,Farseek,False,NM,EN,,Ravnica: City of Guilds,rav,87970,8180abec-9459-4b81-987e-b1794e45d543,23262,163
 1,Sakura-Tribe Elder,False,NM,EN,,Commander 2011,cmd,247176,b9fa85f6-2a97-470e-88bb-b5ada6d64e80,40709,169
 1,Atzocan Seer,False,NM,EN,,Rivals of Ixalan,rix,439810,fe84b3c0-bca2-42d3-a82c-540644e59625,66759,153
 1,Yavimaya Elder,False,NM,EN,,Commander 2011,cmd,247524,8f023d51-c364-4a52-a016-e9060488675b,40603,179
