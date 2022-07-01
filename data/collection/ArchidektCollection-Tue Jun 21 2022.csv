@@ -1,115 +1,130 @@
 Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse Id,Scryfall ID,MTGO ID,
-1,Manifold Key,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,0f5a15cd-a359-48c9-9280-ce139f1fb061,0,319
-1,Skullclamp,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,d1877be5-fb98-4bd2-a754-dda1132ef8a0,0,870
-1,Firja's Retribution,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,e7d1bbe5-c63e-4a8d-b79a-0dcca221a726,0,846
-1,Black Dragon Gate,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,c4ceb589-c741-44ac-98c8-3d997953ee61,0,347
-1,Rug of Smothering,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,a73d1cb0-d0dc-4f2a-9cf2-954d5889dd08,0,336
-1,Veteran Soldier,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,3f4f074e-914e-4924-8b5e-b80b247bc341,0,48
-1,Campfire,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,ba581225-0966-4ff0-be04-1ad11f37937f,0,304
-1,Citadel Gate,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,c0e6f002-9a10-49a1-8604-2b8ff57732dd,0,349
-1,Mind Stone,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,1969ddc0-ee6c-4c3d-a9dd-7f1c491609be,0,325
-1,Street Urchin,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,f6d5249c-52b6-4349-adcd-dafdc21f572b,0,197
-1,Command Tower,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,7eafe88e-ab38-442c-b147-bb01cc81178d,0,351
-1,Patriar's Seal,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,37f920f0-4dfc-477b-af7e-a17dfc9ba455,0,332
-1,"Lulu, Loyal Hollyphant",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,02f0447c-9077-4d63-9d5e-f012f912e862,0,379
-1,Swiftfoot Boots,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,16c23cde-e1c0-4cdf-ae59-18d64db518d4,0,339
-1,Nature's Lore,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,543d1e79-cac6-455c-9fda-f13c849579d6,0,244
-1,Burnished Hart,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,98c3f711-7191-4621-b36e-6c1e281216e2,0,303
-1,Agent of the Iron Throne,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,5a5984d3-1e76-4d97-9373-b59cfa9c38ae,0,107
-1,Cliffgate,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,557470dc-c594-4b26-81b9-356bedb0c215,0,350
-1,"Minthara, Merciless Soul",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,0c9e944b-98fa-4aea-825d-b8b8a9d7ed47,0,286
-1,Inspiring Leader,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,fc6eb9f3-0f7b-4623-806e-5e604a05d470,0,28
-1,"Mahadi, Emporium Master",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,c3da2b1a-76c5-4d36-bdf8-025b86f61eb5,0,282
-1,Heap Gate,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,68489d65-1978-48b1-a903-2ef38c583239,0,354
-1,"Viconia, Drow Apostate",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,f631762a-e833-40a5-a6e9-b6cde38f62f0,0,156
-1,"Safana, Calimport Cutthroat",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,5356440f-6d49-481e-8332-1a675a48a94e,0,390
-1,Commander Liara Portyr,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,6cb052fe-c834-4c72-a6b1-4cb64505e3ee,0,418
-1,Deep Gnome Terramancer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,cc75f9f1-5873-450f-a0b2-871b55036954,0,658
-1,"Sarevok, Deathbringer",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,c8ff9756-12cc-4144-a815-a244fbe13b72,0,391
-1,"Alora, Merry Thief",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,a7777a4f-0fc6-4231-b2a4-503f3820c0f6,0,381
-1,Descent into Avernus,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,faadf72f-b2d5-4271-8d5c-a586acf63453,0,169
+1,"Urabrask, Heretic Praetor",False,NM,EN,,Streets of New Capenna,snc,559234,979eee11-9843-49c0-8a1e-bb0616926f90,0,360
+1,"Gut, True Soul Zealot",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,163a7729-b115-46dd-afb4-7a5df89c3ed1,0,506
+1,Chitterspitter,False,NM,EN,,Modern Horizons 2,mh2,522229,7ee33ff3-d3d6-4519-9d9f-72e342d8b215,90683,153
+1,Doomwake Giant,False,NM,EN,,The List,plist,0,f6add387-928e-4f86-90a9-28c6090fae9e,0,93
+1,Duelist's Heritage,False,NM,EN,,Jumpstart,jmp,489585,fefef556-dd3c-49b9-a6f5-8b86af64416e,0,101
+1,"Kethis, the Hidden Hand",False,NM,EN,,Core Set 2020,m20,466965,fe28de73-76f3-4a9e-a020-dbe5921b9be5,73321,211
+1,Assemble the Legion,False,NM,EN,,Mystery Booster,mb1,0,c71a6dbc-11cd-43f9-ac1b-fe779d590bff,0,1390
+1,Kor Spiritdancer,False,NM,EN,,Jumpstart,jmp,489600,59813c47-e779-404d-8a1c-70ea29bc7023,0,116
+1,Hullbreacher,False,NM,EN,,Commander Legends,cmr,497594,4df8aabc-7fcb-4b7b-980b-18f499e6c170,84930,74
+1,Ketria Triome,False,NM,EN,,Ikoria: Lair of Behemoths,iko,0,f5b5b9bb-ee9f-4a52-bd74-fd2759c8e3d3,0,310
+1,"Jaheira, Friend of the Forest",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,27186d29-7b24-40f9-909f-456e0e3d8847,0,518
+1,Court of Grace,False,LP,EN,,Commander Legends,cmr,497536,02f0be1b-554e-4b61-b495-6e2a7369cdb1,84814,16
+1,Command Tower,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563234,7eafe88e-ab38-442c-b147-bb01cc81178d,0,351
+1,"Silas Renn, Seeker Adept",True,NM,EN,,Commander Legends,cmr,503339,7c5e4382-3f5c-46c7-915f-df9373d316bf,0,536
+1,"Tana, the Bloodsower",True,NM,EN,,Commander Legends,cmr,503340,c505876d-217f-43cb-b0cb-bf19208b98d2,0,537
+1,Manifold Key,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563202,0f5a15cd-a359-48c9-9280-ce139f1fb061,0,319
+1,Skullclamp,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567687,d1877be5-fb98-4bd2-a754-dda1132ef8a0,0,870
+1,Firja's Retribution,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567663,e7d1bbe5-c63e-4a8d-b79a-0dcca221a726,0,846
+1,Black Dragon Gate,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563230,c4ceb589-c741-44ac-98c8-3d997953ee61,0,347
+1,Rug of Smothering,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563219,a73d1cb0-d0dc-4f2a-9cf2-954d5889dd08,0,336
+1,Veteran Soldier,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562931,3f4f074e-914e-4924-8b5e-b80b247bc341,0,48
+1,Campfire,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563187,ba581225-0966-4ff0-be04-1ad11f37937f,0,304
+1,Citadel Gate,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563232,c0e6f002-9a10-49a1-8604-2b8ff57732dd,0,349
+1,Mind Stone,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563208,1969ddc0-ee6c-4c3d-a9dd-7f1c491609be,0,325
+1,Street Urchin,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563080,f6d5249c-52b6-4349-adcd-dafdc21f572b,0,197
+1,Command Tower,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563234,7eafe88e-ab38-442c-b147-bb01cc81178d,0,351
+1,Patriar's Seal,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563215,37f920f0-4dfc-477b-af7e-a17dfc9ba455,0,332
+1,"Lulu, Loyal Hollyphant",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570252,02f0447c-9077-4d63-9d5e-f012f912e862,0,379
+1,Swiftfoot Boots,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563222,16c23cde-e1c0-4cdf-ae59-18d64db518d4,0,339
+1,Nature's Lore,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563127,543d1e79-cac6-455c-9fda-f13c849579d6,0,244
+1,Burnished Hart,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563186,98c3f711-7191-4621-b36e-6c1e281216e2,0,303
+1,Agent of the Iron Throne,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562990,5a5984d3-1e76-4d97-9373-b59cfa9c38ae,0,107
+1,Cliffgate,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563233,557470dc-c594-4b26-81b9-356bedb0c215,0,350
+1,"Minthara, Merciless Soul",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563169,0c9e944b-98fa-4aea-825d-b8b8a9d7ed47,0,286
+1,Inspiring Leader,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562911,fc6eb9f3-0f7b-4623-806e-5e604a05d470,0,28
+1,"Mahadi, Emporium Master",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563165,c3da2b1a-76c5-4d36-bdf8-025b86f61eb5,0,282
+1,Heap Gate,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563237,68489d65-1978-48b1-a903-2ef38c583239,0,354
+1,"Viconia, Drow Apostate",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563039,f631762a-e833-40a5-a6e9-b6cde38f62f0,0,156
+1,"Safana, Calimport Cutthroat",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570263,5356440f-6d49-481e-8332-1a675a48a94e,0,390
+1,Commander Liara Portyr,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570291,6cb052fe-c834-4c72-a6b1-4cb64505e3ee,0,418
+1,Deep Gnome Terramancer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567223,cc75f9f1-5873-450f-a0b2-871b55036954,0,658
+1,"Sarevok, Deathbringer",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570264,c8ff9756-12cc-4144-a815-a244fbe13b72,0,391
+1,"Alora, Merry Thief",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570254,a7777a4f-0fc6-4231-b2a4-503f3820c0f6,0,381
+1,Descent into Avernus,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563052,faadf72f-b2d5-4271-8d5c-a586acf63453,0,169
 1,Sword Coast Sailor,True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,d172475f-7063-44fe-ad11-56852d2e86da,0,489
-1,Haunted One,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,0eb9b67c-b0e4-4c62-8332-74a53b67f3bb,0,624
-1,"Mazzy, Truesword Paladin",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,4d79c221-e07a-41e1-b92f-dc057802449c,0,283
-1,Talisman of Hierarchy,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,2299c93e-f3a6-4b41-857b-e3d1aff0f622,0,878
-1,"Gorion, Wise Mentor",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,001c648a-db66-47f3-8fee-3658b9e76ac2,0,276
-1,"Lae'zel, Vlaakith's Champion",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,1a93f587-ab72-42da-88c4-31af1c9cdf1b,0,29
-1,Font of Magic,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,137ee879-bbc3-4e11-b103-3cc604867b1c,0,71
-1,Bygone Bishop,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,cf879fc7-9f84-40a7-a7be-9cc98a720af5,0,689
-1,Stick Together,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,8d77a57a-e30b-46d7-acb8-1d164c7dff78,0,661
-1,Shameless Charlatan,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,e65ad0e2-8f78-4e60-a97e-1cd20901680f,0,96
-1,Harper Recruiter,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,6bb131fd-d96f-43e0-a40d-fa6394a4b75c,0,659
-1,Seasoned Dungeoneer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,7fee3f76-20a8-4621-84fb-ddf79c955532,0,660
-1,Ascend from Avernus,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,6b26c05b-f166-40ab-9693-2129b4bf75e9,0,5
-1,Solemn Doomguide,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,b467929d-5fc3-4104-8a29-a8157835f274,0,672
+1,Haunted One,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,566964,0eb9b67c-b0e4-4c62-8332-74a53b67f3bb,0,624
+1,"Mazzy, Truesword Paladin",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563166,4d79c221-e07a-41e1-b92f-dc057802449c,0,283
+1,Talisman of Hierarchy,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567695,2299c93e-f3a6-4b41-857b-e3d1aff0f622,0,878
+1,"Gorion, Wise Mentor",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563159,001c648a-db66-47f3-8fee-3658b9e76ac2,0,276
+1,"Lae'zel, Vlaakith's Champion",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562912,1a93f587-ab72-42da-88c4-31af1c9cdf1b,0,29
+1,Font of Magic,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562954,137ee879-bbc3-4e11-b103-3cc604867b1c,0,71
+1,Bygone Bishop,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567506,cf879fc7-9f84-40a7-a7be-9cc98a720af5,0,689
+1,Stick Together,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567226,8d77a57a-e30b-46d7-acb8-1d164c7dff78,0,661
+1,Shameless Charlatan,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562979,e65ad0e2-8f78-4e60-a97e-1cd20901680f,0,96
+1,Harper Recruiter,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567224,6bb131fd-d96f-43e0-a40d-fa6394a4b75c,0,659
+1,Seasoned Dungeoneer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567225,7fee3f76-20a8-4621-84fb-ddf79c955532,0,660
+1,Ascend from Avernus,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562888,6b26c05b-f166-40ab-9693-2129b4bf75e9,0,5
+1,Solemn Doomguide,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567237,b467929d-5fc3-4104-8a29-a8157835f274,0,672
 1,"Raggadragga, Goreguts Boss",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,f3dc26ee-5a1e-4fbb-b104-f454fd9dc7e9,0,548
-1,Multiclass Baldric,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,dbb7927d-c3c4-4464-8ada-bcd8466b2012,0,684
-1,Candlekeep Sage,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,6f706ac3-0ad8-44ac-a99e-21c04075951d,0,60
-1,Black Market Connections,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,d13cb0d3-3452-4c1f-81ec-024b4c45bbad,0,669
-1,Squad Commander,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,5390bbf3-9906-46a9-81d3-60e23eb89ca1,0,709
-1,Arcane Signet,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,5b245a5b-5a99-4d22-99ef-3f5bf49c3262,0,298
-1,War Room,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,ed5cebc0-6a58-468d-a75e-46087ea2eb46,0,929
-1,Archpriest of Iona,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,0b0b1acd-68e5-4922-8b51-06fa7eda984c,0,686
-1,Taunting Kobold,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,28d4f041-c485-464e-91b1-73597b1e7f73,0,404
-1,Solemn Recruit,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,4b93ee66-bc1d-42ad-8839-d77ab5992f14,0,708
-1,Sevinne's Reclamation,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,458db878-07ba-42cc-9bee-910957685596,0,707
-1,Ingenious Artillerist,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,1d8dd6c3-3699-4dd1-a019-fdb569eaf722,0,182
-1,Cloakwood Hermit,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,4bd8689d-a0c1-4041-bead-7b512fe25663,0,221
-1,Mutavault,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,52cc2f10-142d-4e6a-984e-b25f566cc960,0,903
-1,Decanter of Endless Water,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,914b42b3-03af-4945-9f1f-46c09a1a2314,0,444
-1,"Felisa, Fang of Silverquill",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,18b8abf0-e8c3-4c19-bdf1-18aabe75a3de,0,845
-1,"Rilsa Rael, Kingpin",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,b3a599ba-c16b-4ce0-a995-e30974bcc423,0,439
-1,High Priest of Penance,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,fc264fad-c541-4cc6-8b56-44abf3f1e8a0,0,848
-1,Shambling Vent,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,1f5bf05a-04a1-4dde-845b-eced21a785fa,0,914
-1,"Gut, True Soul Zealot",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,b6988467-8552-4ab9-9472-c5c536ed7bae,0,399
-1,Selfless Spirit,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,ef8d8d0c-cb0e-4745-a0fb-d556c9324428,0,706
+1,Multiclass Baldric,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567249,dbb7927d-c3c4-4464-8ada-bcd8466b2012,0,684
+1,Candlekeep Sage,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562943,6f706ac3-0ad8-44ac-a99e-21c04075951d,0,60
+1,Black Market Connections,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567234,d13cb0d3-3452-4c1f-81ec-024b4c45bbad,0,669
+1,Squad Commander,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567526,5390bbf3-9906-46a9-81d3-60e23eb89ca1,0,709
+1,Arcane Signet,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563181,5b245a5b-5a99-4d22-99ef-3f5bf49c3262,0,298
+1,War Room,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567746,ed5cebc0-6a58-468d-a75e-46087ea2eb46,0,929
+1,Archpriest of Iona,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567503,0b0b1acd-68e5-4922-8b51-06fa7eda984c,0,686
+1,Taunting Kobold,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570277,28d4f041-c485-464e-91b1-73597b1e7f73,0,404
+1,Solemn Recruit,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567525,4b93ee66-bc1d-42ad-8839-d77ab5992f14,0,708
+1,Sevinne's Reclamation,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567524,458db878-07ba-42cc-9bee-910957685596,0,707
+1,Ingenious Artillerist,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563065,1d8dd6c3-3699-4dd1-a019-fdb569eaf722,0,182
+1,Cloakwood Hermit,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563104,4bd8689d-a0c1-4041-bead-7b512fe25663,0,221
+1,Mutavault,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567720,52cc2f10-142d-4e6a-984e-b25f566cc960,0,903
+1,Decanter of Endless Water,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570317,914b42b3-03af-4945-9f1f-46c09a1a2314,0,444
+1,"Felisa, Fang of Silverquill",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567662,18b8abf0-e8c3-4c19-bdf1-18aabe75a3de,0,845
+1,"Rilsa Rael, Kingpin",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570312,b3a599ba-c16b-4ce0-a995-e30974bcc423,0,439
+1,High Priest of Penance,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567665,fc264fad-c541-4cc6-8b56-44abf3f1e8a0,0,848
+1,Shambling Vent,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567731,1f5bf05a-04a1-4dde-845b-eced21a785fa,0,914
+1,"Gut, True Soul Zealot",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570272,b6988467-8552-4ab9-9472-c5c536ed7bae,0,399
+1,Selfless Spirit,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567523,ef8d8d0c-cb0e-4745-a0fb-d556c9324428,0,706
 1,"Shadowheart, Dark Justiciar",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,2e8e13ed-54f9-43f9-ae44-285037e8f074,0,499
-1,Castle Locthwain,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,19336e3a-2242-4a30-a563-32f2e4fc18e9,0,884
-1,Puppeteer Clique,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,65fd8dba-0aca-4b47-9b4b-19d5c77cf8f3,0,769
+1,Castle Locthwain,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567701,19336e3a-2242-4a30-a563-32f2e4fc18e9,0,884
+1,Puppeteer Clique,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567586,65fd8dba-0aca-4b47-9b4b-19d5c77cf8f3,0,769
 1,Popular Entertainer,True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,b98fe671-e358-43f6-8f85-a84668be3a5d,0,509
-1,Order of Whiteclay,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,0caaa62f-4959-4321-a2d5-dc255f1e5eaf,0,703
+1,Order of Whiteclay,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567520,0caaa62f-4959-4321-a2d5-dc255f1e5eaf,0,703
 1,Master Chef,True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,acd941ff-b423-4379-91c3-7c3d95a4b0cb,0,519
-1,Grim Haruspex,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,f5c19b87-e114-46d4-9f6c-c02e838a08dd,0,754
-1,"Gonti, Lord of Luxury",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,4cedbfd3-907f-4042-98c1-6fe3fb8cbc01,0,753
-1,"Jan Jansen, Chaos Crafter",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,6b215a08-41db-4440-8e33-34a84a33db50,0,277
-1,Mirror Entity,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,3d9149ed-0e59-48b3-b48c-d5ea77b7239e,0,701
-1,Alaundo the Seer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,b22c33bb-47fe-4334-9105-00f4b87811bd,0,264
-1,Grim Hireling,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,38326f48-548c-4b18-9ad2-0b7c23385deb,0,755
-1,Mindblade Render,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,459c5f18-13a3-42c9-b9d7-bf789eefe249,0,762
-1,"Myrkul, Lord of Bones",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,c9f2783f-9512-4cfe-9e95-ab943afd4e53,0,433
-1,Eight-and-a-Half-Tails,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,ef722374-0305-4c30-ab45-cb772b252faf,0,692
-1,"Mikaeus, the Lunarch",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,6f18de2a-4aab-47a1-b162-6b8cf18e7bbf,0,700
-1,Galepowder Mage,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,222b4c5a-2cd0-4851-9f2f-8685a658ebb4,0,694
-1,Noble Heritage,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,3e49fd5a-6893-4a06-b835-4bf611c9ada1,0,35
-1,Owlbear Cub,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,be177b66-dab3-47ef-bcdf-8d99eb57e19f,0,246
-1,Thwart the Grave,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,cc339d3b-9c89-4679-bc83-8399d9a864c7,0,773
-1,Glorious Protector,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,3e63385a-e32f-4abc-aff6-bb022b2f56f7,0,695
+1,Grim Haruspex,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567571,f5c19b87-e114-46d4-9f6c-c02e838a08dd,0,754
+1,"Gonti, Lord of Luxury",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567570,4cedbfd3-907f-4042-98c1-6fe3fb8cbc01,0,753
+1,"Jan Jansen, Chaos Crafter",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563160,6b215a08-41db-4440-8e33-34a84a33db50,0,277
+1,Mirror Entity,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567518,3d9149ed-0e59-48b3-b48c-d5ea77b7239e,0,701
+1,Alaundo the Seer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563147,b22c33bb-47fe-4334-9105-00f4b87811bd,0,264
+1,Grim Hireling,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567572,38326f48-548c-4b18-9ad2-0b7c23385deb,0,755
+1,Mindblade Render,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567579,459c5f18-13a3-42c9-b9d7-bf789eefe249,0,762
+1,"Myrkul, Lord of Bones",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,570306,c9f2783f-9512-4cfe-9e95-ab943afd4e53,0,433
+1,Eight-and-a-Half-Tails,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567509,ef722374-0305-4c30-ab45-cb772b252faf,0,692
+1,"Mikaeus, the Lunarch",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567517,6f18de2a-4aab-47a1-b162-6b8cf18e7bbf,0,700
+1,Galepowder Mage,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567511,222b4c5a-2cd0-4851-9f2f-8685a658ebb4,0,694
+1,Noble Heritage,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562918,3e49fd5a-6893-4a06-b835-4bf611c9ada1,0,35
+1,Owlbear Cub,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563129,be177b66-dab3-47ef-bcdf-8d99eb57e19f,0,246
+1,Thwart the Grave,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567590,cc339d3b-9c89-4679-bc83-8399d9a864c7,0,773
+1,Glorious Protector,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567512,3e63385a-e32f-4abc-aff6-bb022b2f56f7,0,695
 1,"Wyll, Blade of Frontiers",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,6e01be28-d138-4204-b425-a9922448d97c,0,512
-1,Frontline Medic,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,3e9ad9ce-f862-4663-9a36-caf0844eb416,0,693
-1,Ravenloft Adventurer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,a5e27c36-d883-4681-8430-b4d0ad7f1df0,0,142
-1,Starlit Sanctum,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,f5774836-0140-420a-9a0f-8ba291cc5ca8,0,917
+1,Frontline Medic,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567510,3e9ad9ce-f862-4663-9a36-caf0844eb416,0,693
+1,Ravenloft Adventurer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563025,a5e27c36-d883-4681-8430-b4d0ad7f1df0,0,142
+1,Starlit Sanctum,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567734,f5774836-0140-420a-9a0f-8ba291cc5ca8,0,917
 1,"Cadira, Caller of the Small",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,ffb03f28-f327-4071-b08e-b72df6e69137,0,528
-1,Crib Swap,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,e13559d7-f86c-4958-a649-7f81bfb154a0,0,690
-1,Sol Ring,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,199cde21-5bc3-49cd-acd4-bae3af6e5881,0,871
-1,Cultist of the Absolute,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,b0c7b4af-d521-4f4f-8910-7e05f2f60eb6,0,123
-1,Battle Angels of Tyr,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,4c91dbf4-94fa-45d0-b8ed-a778b11d789b,0,9
-1,Nalia de'Arnise,True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,7a1294fd-9885-4dfd-8192-0ca074fc83f7,0,649
-1,Mage's Attendant,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,e7039d47-276b-4c7c-acc3-94a9baae97e5,0,698
-1,"Zevlor, Elturel Exile",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,d1e51138-9745-465d-84dd-27605f8a2264,0,296
-1,Archivist of Oghma,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,f6589e02-8c84-4069-88d1-ebcc8520cae1,0,4
-1,Folk Hero,True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,a8b3aae8-fc36-45ed-84ed-efb8f543cada,0,650
-1,Arcane Signet,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,5b245a5b-5a99-4d22-99ef-3f5bf49c3262,0,298
-1,Jazal Goldmane,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,9d17b05a-7753-451b-a7b4-ee1fe3b51110,0,697
-1,Command Tower,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,7eafe88e-ab38-442c-b147-bb01cc81178d,0,351
-1,"Burakos, Party Leader",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,899e278d-5d4e-461a-9878-2b85de16b38d,0,653
-1,Dungeon Delver,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,cba131bb-b8b3-4577-9f41-4700d9985134,0,67
-1,Predatory Impetus,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,0077099d-aafa-46b3-ab64-e1915a9dda70,0,249
+1,Crib Swap,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567507,e13559d7-f86c-4958-a649-7f81bfb154a0,0,690
+1,Sol Ring,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567688,199cde21-5bc3-49cd-acd4-bae3af6e5881,0,871
+1,Cultist of the Absolute,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563006,b0c7b4af-d521-4f4f-8910-7e05f2f60eb6,0,123
+1,Battle Angels of Tyr,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562892,4c91dbf4-94fa-45d0-b8ed-a778b11d789b,0,9
+1,Nalia de'Arnise,True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567106,7a1294fd-9885-4dfd-8192-0ca074fc83f7,0,649
+1,Mage's Attendant,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567515,e7039d47-276b-4c7c-acc3-94a9baae97e5,0,698
+1,"Zevlor, Elturel Exile",False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563179,d1e51138-9745-465d-84dd-27605f8a2264,0,296
+1,Archivist of Oghma,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562887,f6589e02-8c84-4069-88d1-ebcc8520cae1,0,4
+1,Folk Hero,True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567143,a8b3aae8-fc36-45ed-84ed-efb8f543cada,0,650
+1,Arcane Signet,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563181,5b245a5b-5a99-4d22-99ef-3f5bf49c3262,0,298
+1,Jazal Goldmane,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567514,9d17b05a-7753-451b-a7b4-ee1fe3b51110,0,697
+1,Command Tower,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563234,7eafe88e-ab38-442c-b147-bb01cc81178d,0,351
+1,"Burakos, Party Leader",True,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567146,899e278d-5d4e-461a-9878-2b85de16b38d,0,653
+1,Dungeon Delver,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,562950,cba131bb-b8b3-4577-9f41-4700d9985134,0,67
+1,Predatory Impetus,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563132,0077099d-aafa-46b3-ab64-e1915a9dda70,0,249
 1,Tajuru Paragon,False,NM,EN,,Zendikar Rising,znr,491857,a045dd0f-953a-4022-8f29-0758f2b6ccaa,83407,209
 1,Journey to Oblivion,False,NM,EN,,Zendikar Rising,znr,491639,47120e3c-73aa-468d-96b7-47aead342e31,82971,17
 1,Mountain,False,NM,EN,,Zendikar Rising,znr,491932,96297bcc-8480-4b14-8612-1c395d481bce,83557,275
-1,Rumor Gatherer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,a7782044-616e-4d4f-b38f-93320ba19797,0,705
+1,Rumor Gatherer,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,567522,a7782044-616e-4d4f-b38f-93320ba19797,0,705
 1,Outlaws' Merriment,False,NM,EN,,The List,plist,0,baf1852d-6018-4336-b4c1-c972577f72ba,0,738
-1,Bountiful Promenade,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,0,5125a8d8-344d-4419-b37a-ddf343493c5f,0,348
+1,Bountiful Promenade,False,NM,EN,,Commander Legends: Battle for Baldur's Gate,clb,563231,5125a8d8-344d-4419-b37a-ddf343493c5f,0,348
 1,Phyrexian Tower,False,NM,EN,,Secret Lair Drop,sld,0,3097b876-ffb4-4388-beb1-d25d887593b9,0,208
 1,Exquisite Blood,False,NM,EN,,Secret Lair Drop,sld,0,a83dad59-27a4-4dbb-bec8-f0683d6e2a67,0,206
 1,Night's Whisper,False,NM,EN,,Secret Lair Drop,sld,0,f415a76e-6b35-442e-a2e1-9e368f550566,0,207
@@ -205,13 +220,13 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Kiora's Follower,False,NM,PT,,Born of the Gods Promos,pbng,0,79f1d9d5-c778-4d35-be6c-d7d34ab1c85f,0,150
 1,Decimate,False,NM,EN,,Secret Lair Drop,sld,0,a1d00d0f-8838-4fd0-b058-7039301af338,0,140
 1,"Sigarda, Champion of Light",False,NM,EN,,Innistrad: Midnight Hunt,mid,538505,99b66f1b-9341-461d-9f10-a808be1ac324,94154,323
-1,"Yoshimaru, Ever Faithful",False,NM,EN,,Neon Dynasty Commander,nec,553581,aa409269-3698-42a2-8c51-75557b27a6f6,0,32
+1,"Yoshimaru, Ever Faithful",False,NM,EN,,Neon Dynasty Commander,nec,553581,aa409269-3698-42a2-8c51-75557b27a6f6,97744,32
 1,Angel of Glory's Rise,False,NM,EN,,Midnight Hunt Commander,mic,539340,1865ab25-b01a-4e2c-bf19-ffcb0806358f,93574,79
 1,"Hinata, Dawn-Crowned",False,NM,EN,,Kamigawa: Neon Dynasty,neo,552272,4737d299-09ce-4012-b3e9-c93a09035d65,0,398
 1,"Jiang Yanggu, Wildcrafter",True,NM,EN,,Secret Lair Drop,sld,0,9d78dcd4-c64c-4d10-91e2-432d24e801d4,0,517
 1,Rest in Peace,False,NM,EN,,Secret Lair Drop,sld,497501,9008f826-9e24-4ba1-b17e-1638b7cdd78d,0,96
-1,Wrath of God,False,NM,EN,,Secret Lair Drop,sld,0,caff117f-844b-4d11-a104-930d7f238114,0,185
-1,Fire Covenant,False,NM,EN,,Secret Lair Drop,sld,0,2bf2da97-3331-4614-b4ff-f03d061500a7,0,271
+1,Wrath of God,False,NM,EN,,Secret Lair Drop,sld,0,caff117f-844b-4d11-a104-930d7f238114,89931,185
+1,Fire Covenant,False,NM,EN,,Secret Lair Drop,sld,0,2bf2da97-3331-4614-b4ff-f03d061500a7,89913,271
 1,Enchanted Evening,False,NM,EN,,Secret Lair Drop,sld,0,88ca3c93-ac49-4976-aa77-ee308b1c59bd,0,122
 1,"Torens, Fist of the Angels",False,NM,EN,,Innistrad: Crimson Vow,vow,545052,a0d8fa32-f5fb-441a-8c53-28cd44723672,94230,328
 1,"Halana and Alena, Partners",False,NM,EN,,Innistrad: Crimson Vow,vow,545048,87684bef-8ef9-4709-a50e-fa5ff2f67acc,94222,325
@@ -282,13 +297,13 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Whiptongue Hydra,False,NM,EN,,Neon Dynasty Commander,nec,554216,57cfa420-306d-4d2c-8e83-fa9b46f2aa27,0,134
 2,Swamp,False,NM,EN,,Zendikar,zen,201976,a095fed4-0a2a-4092-b923-8f46c8ea22d8,34840,240
 1,Swamp,False,NM,PT,,Zendikar,zen,201976,a095fed4-0a2a-4092-b923-8f46c8ea22d8,34840,240
-1,Ruthless Technomancer,False,NM,EN,,Neon Dynasty Commander,nec,553584,dddeb5cc-b535-4484-8a0e-ce32c4c09000,0,35
+1,Ruthless Technomancer,False,NM,EN,,Neon Dynasty Commander,nec,553584,dddeb5cc-b535-4484-8a0e-ce32c4c09000,97750,35
 1,Circle of Flame,False,NM,EN,,Magic 2012,m12,220273,419b1813-9760-47b9-b6f3-e501586cfe4d,41451,127
 1,Stoneshaker Shaman,False,NM,EN,,Ravnica: City of Guilds,rav,89105,17a0edb0-697a-4e0b-872b-f3c15c19cbda,23504,145
 1,Splendid Reclamation,False,NM,EN,,Innistrad: Crimson Vow,vow,541088,fad4ca85-4d2d-4d1e-86ca-aa25edfcda61,94804,221
 1,Spirit Mantle,False,NM,PT,,Magic 2012,m12,220154,930c8444-ccce-411e-bc4f-e5abca749608,41395,35
 1,"Sigarda, Heron's Grace",False,NM,EN,,Midnight Hunt Commander,mic,539416,a1de7031-f589-4af5-9c63-06fb7ec7a6b5,93726,155
-1,Cyberdrive Awakener,False,NM,EN,,Neon Dynasty Commander,nec,553909,2a2c0a2f-07fb-4cc0-9b99-e5ff4303028d,0,12
+1,Cyberdrive Awakener,False,NM,EN,,Neon Dynasty Commander,nec,553909,2a2c0a2f-07fb-4cc0-9b99-e5ff4303028d,97772,12
 1,"Sunhome, Fortress of the Legion",False,NM,EN,,Ravnica: City of Guilds,rav,83794,a8a69f7b-be68-43f7-b1ed-df528bde74e5,23456,282
 1,"Kaima, the Fractured Calm",False,NM,EN,,Neon Dynasty Commander,nec,553690,467033f7-8d59-4b80-8c2e-c36f3ad93438,0,3
 1,"Losheel, Clockwork Scholar",False,NM,EN,,Commander 2021,c21,518414,db1d67fe-bffe-45ad-af6a-cb131ddb1a12,89779,18
@@ -306,9 +321,9 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Rage Extractor,False,NM,EN,,New Phyrexia,nph,214385,d8cebc2c-a46b-4459-b62b-7fce1a744b11,39752,91
 1,Baleful Strix,False,NM,EN,,Forgotten Realms Commander,afc,532564,3e417331-84ec-4513-8022-e93ffc260a38,0,177
 1,Digsite Engineer,False,NM,EN,,Commander 2021,c21,518411,d79b8974-796c-4f88-a0cb-5afbaf26fd24,89773,15
-1,Research Thief,False,NM,EN,,Neon Dynasty Commander,nec,553913,d0ef159d-657a-4566-b9e0-f545df230025,0,16
+1,Research Thief,False,NM,EN,,Neon Dynasty Commander,nec,553913,d0ef159d-657a-4566-b9e0-f545df230025,97780,16
 1,Cunning Rhetoric,False,NM,EN,,Commander 2021,c21,518434,356d9d36-cf03-41f2-abfa-eb45176ce18d,89819,38
-1,Organic Extinction,False,NM,EN,,Neon Dynasty Commander,nec,553905,fea0f8be-c242-49dd-bae3-0b306107ac0b,0,8
+1,Organic Extinction,False,NM,EN,,Neon Dynasty Commander,nec,553905,fea0f8be-c242-49dd-bae3-0b306107ac0b,97764,8
 1,Simic Charm,False,NM,PT,,Gatecrash,gtc,366463,97c27bdd-77f5-4e93-8f54-93a204fc980a,47485,195
 1,"Isshin, Two Heavens as One",False,NM,EN,,Kamigawa: Neon Dynasty,neo,548536,a062a004-984e-4b62-960c-af7288f7a3e9,97396,224
 1,"Anafenza, the Foremost",False,NM,EN,,Khans of Tarkir,ktk,386476,c8b432a7-53da-4480-b571-e6feb1364a3a,54248,163
@@ -329,7 +344,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Predators' Hour,False,NM,EN,,Crimson Vow Commander,voc,546985,dea6d749-d2a9-43f0-8ab4-ff83ba294564,0,21
 1,Reverse Engineer,False,NM,EN,,Aether Revolt,aer,423709,d56f8cca-6b8f-45ea-926f-161938716ee9,62647,42
 1,Farhaven Elf,False,NM,EN,,Commander Legends,cmr,497745,db681025-f912-4cba-8b89-c57cda2e6d53,85232,225
-1,Prowess of the Fair,False,NM,EN,,Kaldheim Commander,khc,508343,b870c742-e799-4276-bb3d-f2c288ce0db8,0,53
+1,Prowess of the Fair,False,NM,EN,,Kaldheim Commander,khc,508343,b870c742-e799-4276-bb3d-f2c288ce0db8,88011,53
 1,Daring Sleuth // Bearer of Overwhelming Truths,False,NM,EN,,Shadows over Innistrad,soi,409796,440f9f10-6999-4cff-ab98-8aed77813b07,60400,54
 1,Erdwal Illuminator,False,NM,EN,,Shadows over Innistrad,soi,409803,63df99f9-4f85-4c76-8d76-9075c9ef2b86,60284,60
 1,Ongoing Investigation,False,NM,EN,,Shadows over Innistrad,soi,409820,19b8f962-8d4e-4dd8-a157-c0a55f9e152a,60358,77
@@ -997,11 +1012,11 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Nykthos Paragon,False,NM,EN,,Modern Horizons 2,mh2,522098,2963205e-b181-44d1-809f-6577e29fa812,90413,22
 1,Diluvian Primordial,False,NM,EN,,Commander 2021,c21,519155,eb580daa-0cf3-4816-b8c5-49927682a91d,89341,120
 1,Double Major,False,NM,EN,,Strixhaven: School of Mages,stx,513671,c3d35413-8742-4443-8859-93c91112978d,88865,179
-1,Psychotic Episode,False,NM,EN,,Time Spiral Remastered,tsr,509497,fa6d8c51-bff9-4eba-8c1b-2d45b7635c52,0,132
-1,Elvish Promenade,False,NM,EN,,Kaldheim Commander,khc,508349,20602cb8-f925-4de0-ad4b-86d0f5514384,0,59
-1,Harvest Season,False,NM,EN,,Kaldheim Commander,khc,508353,326b5fad-bb8d-4019-84a8-1a319a14962e,0,63
-1,Elderfang Venom,False,NM,EN,,Kaldheim Commander,khc,508161,7d5bbb02-a04e-4add-ae9a-67819cffdb3a,0,15
-1,Pact of the Serpent,False,NM,EN,,Kaldheim Commander,khc,508155,c5b3d118-ba4b-4a93-92a2-cd763de49d29,0,9
+1,Psychotic Episode,False,NM,EN,,Time Spiral Remastered,tsr,509497,fa6d8c51-bff9-4eba-8c1b-2d45b7635c52,86627,132
+1,Elvish Promenade,False,NM,EN,,Kaldheim Commander,khc,508349,20602cb8-f925-4de0-ad4b-86d0f5514384,88023,59
+1,Harvest Season,False,NM,EN,,Kaldheim Commander,khc,508353,326b5fad-bb8d-4019-84a8-1a319a14962e,88031,63
+1,Elderfang Venom,False,NM,EN,,Kaldheim Commander,khc,508161,7d5bbb02-a04e-4add-ae9a-67819cffdb3a,88173,15
+1,Pact of the Serpent,False,NM,EN,,Kaldheim Commander,khc,508155,c5b3d118-ba4b-4a93-92a2-cd763de49d29,88161,9
 1,"Lathril, Blade of the Elves",False,NM,EN,,Kaldheim Commander,khc,508147,547888c3-a9a6-4413-b29a-6bcd8a9279bf,0,1
 1,Elderfang Ritualist,False,NM,EN,,Kaldheim,khm,506927,57348f93-8764-4b1a-b02e-4e7881337fa2,87293,385
 1,Elvish Warmaster,False,NM,EN,,Kaldheim,khm,507231,3e59380e-2c82-46a9-9749-4dcb978d5419,0,363
@@ -2327,7 +2342,7 @@ Quantity,Name,Foil,Condition,Language,Tags,Edition Name,Edition Code,Multiverse 
 1,Dimir Signet,False,NM,EN,,Ravnica: City of Guilds,rav,95535,9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf,23562,260
 1,Diminishing Returns,False,NM,EN,,Eternal Masters,ema,413588,f9ed455f-95cd-48ca-8b0d-4db259347bb6,60915,46
 1,Dig Through Time,False,NM,EN,,Khans of Tarkir,ktk,386518,5c18c2d8-995c-4736-bdef-464abcd1d31a,54316,36
-1,Diabolic Intent,False,NM,EN,,Battlebond,bbd,446109,b58299a8-e674-46de-ae25-c98410e0b445,0,141
+1,Diabolic Intent,False,NM,EN,,Battlebond,bbd,446109,b58299a8-e674-46de-ae25-c98410e0b445,69010,141
 1,Diabolic Edict,False,NM,EN,,Modern Horizons,mh1,464036,4eabbed2-1399-4cf1-9eba-b53c56caced4,72546,87
 1,Devoted Druid,False,NM,EN,,Shadowmoor,shm,135500,820e2f07-f637-4144-b45a-0e1430dcf55e,29305,110
 1,Detention Sphere,False,NM,EN,,Return to Ravnica,rtr,270356,afee5464-83b7-4d7a-b407-9ee7de21535b,46423,155
